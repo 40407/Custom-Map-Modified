@@ -1,0 +1,395 @@
+//=======================================================================
+//=============== 广州增城
+"MapInfo"
+{
+	"zc_m1"
+	{
+		"start_point"		"-9489.070312 9707.517578 1245.214844"
+		"start_dist"		"247.902756"
+		"start_extra_dist"		"328.000031"
+		"end_point"		"-806.114746 -3808.041016 31.031250"
+		"end_dist"		"264.825195"
+		"max_distance"		"500"
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"0"
+				"max"		"23"
+			}
+		}
+	}
+	"zc_m2"
+	{
+		"start_point"		"0.000000 0.000000 0.000000"
+		"start_dist"		"-1.000000"
+		"start_extra_dist"		"-1.000000"
+		"end_point"		"3596.948486 -7860.600098 -154.968750"
+		"end_dist"		"358.282928"
+		"max_distance"		"600"
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+	}
+	"zc_m3"
+	{
+		"start_point"		"-9210.921875 7196.776855 -122.968750"
+		"start_dist"		"276.278778"
+		"start_extra_dist"		"483.717560"
+		"end_point"		"14209.080078 2461.468750 -247.968750"
+		"end_dist"		"307.141418"
+		"max_distance"		"700"	
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+	}
+	"zc_m4"
+	{
+		"start_point"		"8208.521484 -1844.729736 16.031250"
+		"start_dist"		"253.762085"
+		"start_extra_dist"		"302.986847"
+		"end_point"		"-8949.854492 3466.123779 -42.661865"
+		"end_dist"		"198.560242"
+		"max_distance"		"800"
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+		"tank_ban_flow"
+		{
+			"2"
+			{
+				"min"		"25"
+				"max"		"60"
+			}
+		}
+	}
+	"zc_m5"
+	{
+		"start_point"		"10472.757812 3598.424316 60.338135"
+		"start_dist"		"134.805725"
+		"start_extra_dist"		"218.475693"
+		"max_distance"		"700"
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+	}
+
+//=======================================================================
+//=============== 2 Evil Eyes 邪恶双眸
+	"2ee_01"
+	{
+		"max_distance"		"300"
+	}
+	"2ee_02"
+	{
+		"max_distance"		"400"
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"0"
+				"max"		"100"
+			}
+		}
+	}
+	"2ee_03"
+	{
+		"max_distance"		"500"
+	}
+	"2ee_04"
+	{
+		"max_distance"		"600"
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"40"
+				"max"		"100"
+			}
+		}
+	"2ee_05"
+	{
+		"max_distance"		"700"
+	}
+	"2ee_06"
+	{
+		"max_distance"		"800"
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+	}
+
+//=======================================================================
+//=============== Dead Center Xmas 死亡中心：圣诞
+	"xmas_hotel"
+	{
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"0"
+				"max"		"25"
+			}
+			"2"
+			{
+				"min"		"33"
+				"max"		"100"
+			}
+		}
+	}
+        "xmas_atrium"
+	{
+		"start_point"		"-2018.138428 -4766.033203 536.031250"
+		"start_dist"		"2571.766113"
+		"start_extra_dist"		"500.000000"
+		"max_distance"		"700"
+		"ItemLimits"
+		{
+			"pain_pills"		"4"
+		}
+	}
+
+//=======================================================================
+//=============== Swamp Fever Drought  C3改
+	"c3m1_plankcountry_dry"
+	{
+		"tank_ban_flow"
+		{
+			"Before ferry (bugged spawn)"
+			{
+				"min"		"45"
+				"max"		"62"
+			}
+		}
+		"ItemLimits"
+		{
+			"pain_pills"	"0"
+		}
+	}
+	"c3m2_swamp_dry"
+	{
+		"tank_ban_flow"
+		{
+			"After plane"
+			{
+				"min"		"40"
+				"max"		"100"
+			}
+		}
+	}
+	"c3m4_plantation_dry"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+	}
+
+//=======================================================================
+//=============== The Happyfice 笑牺
+	"c7m3_happy"
+	{
+		"max_distance"		"500"
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"0"
+				"max"		"40"
+			}
+			"2"
+			{
+				"min"		"75"
+				"max"		"100"
+			}
+		}
+	}
+	"c7m4_happy"
+	{
+		"max_distance"		"300"
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"70"
+				"max"		"100"
+			}
+		}
+	}
+	"c7m5_happy"
+	{
+		"max_distance"		"800"
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+	}
+
+//=======================================================================
+//=============== Resident Evil 3 Short 生化危机3：精简版
+	"re3short_m1"
+	{
+		"max_distance"		"300"
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"0"
+				"max"		"100"
+			}
+		}
+		"ItemLimits"
+		{
+			"pain_pills"	"0"
+		}
+	}
+	"re3short_m2"
+	{
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"0"
+				"max"		"100"
+			}
+		}
+	}
+	"re3short_m3"
+	{
+		"max_distance"		"600"
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"0"
+				"max"		"50"
+			}
+			"1"
+			{
+				"min"		"70"
+				"max"		"100"
+			}
+		}
+		"ItemLimits"
+		{
+			"pain_pills"	"3"
+		}
+	}
+	"re3short_m4"
+	{
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"0"
+				"max"		"100"
+			}
+		}
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+	}
+
+//=======================================================================
+//=============== Cold Front 冷锋
+	"cf_m1_town"
+	{
+		"max_distance"		"400"
+	}
+	"cf_m2_mall"
+	{
+		"max_distance"		"500"
+	}
+	"cf_m4_outskirts"
+	{
+		"max_distance"		"700"
+	}
+	"cf_m5_highway"
+	{
+		"max_distance"		"800"
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+	}
+
+//=======================================================================
+//=============== Prague 布拉格
+	"prague_2_middle_class"
+	{
+		"max_distance"		"500"
+	}
+	"prague_3_park"
+	{
+		"max_distance"		"500"
+	}
+	"prague_4_bus_depo"
+	{
+		"max_distance"		"700"
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+	}
+
+//=======================================================================
+//=============== We Don't Go To Ravenholm 我们不去莱温霍姆
+	"l4d2_ravenholmwar_3"
+	{
+		"max_distance"		"700"
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"0"
+				"max"		"50"
+			}
+		}
+	}
+	"l4d2_ravenholmwar_4"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+	}
+
+//=======================================================================
+//=============== 4 Sided Coin 四面硬币
+	"4sc_seperate"
+	{
+		"max_distance"		"300"
+	}
+	"4sc_base"
+	{
+		"max_distance"		"400"
+	}
+	"4sc_outage"
+	{
+		"max_distance"		"700"
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"40"
+				"max"		"60"
+			}
+		}
+	}
+	"4sc_streets"
+	{
+		"max_distance"		"600"
+	}
+	"4sc_pit"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+	}
