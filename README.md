@@ -8,7 +8,7 @@
 | 5    | Dead Center Xmas           | 死亡中心：圣诞             |
 | 6    | Prague                     | 布拉格                     |
 | 7    | Resident Evil 3 Short      | 生化危机3：精简版          |
-| 8    | Swamp Fever                | Drought C3改               |
+| 8    | Swamp Fever Drought        | C3改                       |
 | 9    | The Happyfice              | 笑牺                       |
 | 10   | We Don't Go To Ravenholm   | 我们不去莱温霍姆           |
 | 11   | 广州增城                   | -                          |
