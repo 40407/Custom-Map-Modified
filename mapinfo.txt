@@ -393,3 +393,33 @@
 			"pain_pills"	"4"
 		}
 	}
+
+//=======================================================================
+//=============== Dead Flag Blues 2 Reborn 死旗悲歌2：重生
+	"dfb2m1_cityl"
+	{
+		"max_distance"		"600"
+	}
+	"dfb2m3_stadium"
+	{
+		"max_distance"		"800"
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"60"
+				"max"		"100"
+			}
+		}
+	}
+	"dfb2m4_woods"
+	{
+		"max_distance"		"500"
+	}
+	"dfb2m5_station"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+	}
