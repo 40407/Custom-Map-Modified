@@ -13,3 +13,4 @@
 | 9    | The Happyfice              | 笑牺                       |
 | 10   | We Don't Go To Ravenholm   | 我们不去莱温霍姆           |
 | 11   | 广州增城                   | -                          |
+| 12   | Dead Flag Blues 2 Reborn   |  死旗悲歌2：重生           |
