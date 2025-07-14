@@ -223,7 +223,14 @@
 	}
 	"c7m5_happy"
 	{
-		"max_distance"		"800"
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"70"
+				"max"		"100"
+			}
+		}
 		"ItemLimits"
 		{
 			"pain_pills"	"4"
@@ -269,15 +276,6 @@
 				"min"		"0"
 				"max"		"50"
 			}
-			"1"
-			{
-				"min"		"70"
-				"max"		"100"
-			}
-		}
-		"ItemLimits"
-		{
-			"pain_pills"	"3"
 		}
 	}
 	"re3short_m4"
