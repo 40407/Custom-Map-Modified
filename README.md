@@ -19,3 +19,5 @@
 | 15    | Death Aboard              |  幽灵船                       |
 | 16  | One Four Nine   | 古墓亡影           |
 | 17   | Undead Zone                   | 亡灵禁区                          |
+| 18  | Dam It Dc    | 大坝：导演版           |
+| 19   | The Arrival                  | 抵达                          |
