@@ -529,3 +529,95 @@
 			}
 		}
 	}
+
+//=======================================================================
+//=============== Dead_Air Redux Aw C11改
+	"daredux_map1_docks_aw"
+	{
+		"start_point"		"6325.929199 -6627.832031 -110.968750"
+		"start_dist"		"6014.413574"
+		"start_extra_dist"		"500.000000"
+		"tank_ban_flow"
+		{
+			"公寓窄道"
+			{
+				"min"		"70"
+				"max"		"100"
+			}
+		}
+	}
+	"daredux_map2_houses_aw_test2"
+	{
+		"start_point"		"4808.424805 -629.967712 641.362915"
+		"start_dist"		"3298.242432"
+		"start_extra_dist"		"500.000000"
+		"max_distance"		"300"
+		"ItemLimits"
+		{
+			"pain_pills"	"0"
+		}
+		"tank_ban_flow"
+		{
+			"安全屋前"
+			{
+				"min"		"0"
+				"max"		"39"
+			}
+		}
+	}
+	"daredux_map4_offices_aw"
+	{
+		"start_point"		"5450.735352 2743.161865 48.031250"
+		"start_dist"		"4173.761719"
+		"start_extra_dist"		"500.000000"
+		"tank_ban_flow"
+		{
+			"固定尸潮事件"
+			{
+				"min"		"61"
+				"max"		"100"
+			}
+		}
+	}
+	"daredux_map5_garage_aw"
+	{
+		"start_point"		"-5205.845703 -3025.143799 16.031250"
+		"start_dist"		"8028.985840"
+		"start_extra_dist"		"500.000000"
+		"ItemLimits"
+		{
+			"pain_pills"	"2"
+		}
+	}
+	"daredux_map6_terminal_aw"
+	{
+		"start_point"		"-307.843567 3480.792725 296.031250"
+		"start_dist"		"3639.778809"
+		"start_extra_dist"		"500.000000"
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"51"
+				"max"		"75"
+			}
+		}
+	}
+	"daredux_runway_aw"
+	{
+		"start_point"		"-6369.671875 11969.913086 127.379120"
+		"start_dist"		"3162.151123"
+		"start_extra_dist"		"500.000000"
+		"ItemLimits"
+		{
+			"pain_pills"	"0"
+		}
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"0"
+				"max"		"70"
+			}
+		}
+	}
