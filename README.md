@@ -1,4 +1,4 @@
-# 支持地图
+# 修改地图
 ## By 40407 ＆ GuiSAE ＆ Tenkawa Kaoruko
 | 序号 | 地图名称                     | 中文翻译                     |
 |------|-----------------------------|----------------------------|
@@ -15,3 +15,7 @@
 | 11    | The Happyfice              | 笑牺                       |
 | 12   | We Don't Go To Ravenholm   | 我们不去莱温霍姆           |
 | 13   | 广州增城                   | -                          |
+| 14    | Arena of the Dead        | 死亡角斗场                       |
+| 15    | Death Aboard              |  幽灵船                       |
+| 16  | One Four Nine   | 古墓亡影           |
+| 17   | Undead Zone                   | 亡灵禁区                          |
