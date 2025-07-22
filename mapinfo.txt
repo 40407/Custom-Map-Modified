@@ -338,8 +338,25 @@
 
 //=======================================================================
 //=============== We Don't Go To Ravenholm 我们不去莱温霍姆
+	"l4d2_ravenholmwar_1"
+	{
+		"start_point"		"4288.459961 -1955.485718 -3819.637207"
+		"start_dist"		"4846.009766"
+		"start_extra_dist"		"500.000000"
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"46"
+				"max"		"100"
+			}
+		}
+	}
 	"l4d2_ravenholmwar_2"
 	{
+		"start_point"		"185.858078 131.059662 -3327.968750"
+		"start_dist"		"5702.264160"
+		"start_extra_dist"		"500.000000"
 		"tank_ban_flow"
 		{
 			"1"
@@ -351,6 +368,9 @@
 	}
 	"l4d2_ravenholmwar_3"
 	{
+		"start_point"		"-5255.750488 2107.977783 -3191.968750"
+		"start_dist"		"3380.339600"
+		"start_extra_dist"		"500.000000"
 		"max_distance"		"700"
 		"tank_ban_flow"
 		{
@@ -363,9 +383,20 @@
 	}
 	"l4d2_ravenholmwar_4"
 	{
+		"start_point"		"-4731.572754 5359.086426 -4359.196777"
+		"start_dist"		"3759.198242"
+		"start_extra_dist"		"500.000000"
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"0"
+				"max"		"60"
+			}
+		}
 		"ItemLimits"
 		{
-			"pain_pills"	"4"
+			"pain_pills"		"4"
 		}
 	}
 
