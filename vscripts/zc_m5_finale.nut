@@ -1,63 +1,61 @@
+Msg("Initiating zc_m5_finale rework script\n");
+//---[by:GuiSAE]
 
-//-----------------------------------------------------
-local PANIC = 0
-local TANK = 1
-local DELAY = 2
-//-----------------------------------------------------
+PANIC <- 0
+TANK <- 1
+DELAY <- 2
+ONSLAUGHT <- 3
 
-DirectorOptions <-
+//-----------------------------------------------------------------------------
+
+SharedOptions <-
 {
-	//-----------------------------------------------------
+	A_CustomFinale_StageCount = 10
+	
+ 	A_CustomFinale1 = PANIC
+	A_CustomFinaleValue1 = 1
+	
+ 	A_CustomFinale2 = PANIC
+	A_CustomFinaleValue2 = 1
 
-	 D_CustomFinale_StageCount = 10
-	 
-	 D_CustomFinale1 = PANIC
-	 D_CustomFinaleValue1 = 2
-	 
-	 D_CustomFinale2 = DELAY
-	 D_CustomFinaleValue2 = 10
-	 
-	 D_CustomFinale3 = PANIC
-	 D_CustomFinaleValue3 = 1
-	 
-	 D_CustomFinale4 = DELAY
-	 D_CustomFinaleValue4 = 10
-	 
-	 D_CustomFinale5 = TANK
-	 D_CustomFinaleValue5 = 1
-	 
-	 D_CustomFinale6 = DELAY
-	 D_CustomFinaleValue6 = 10
-	 
-	 D_CustomFinale7 = PANIC
-	 D_CustomFinaleValue7 = 1
+	A_CustomFinale3 = DELAY
+	A_CustomFinaleValue3 = 10
 
-	 D_CustomFinale8 = DELAY
-	 D_CustomFinaleValue8 = 10
+	A_CustomFinale4 = PANIC
+	A_CustomFinaleValue4 = 1
 
-	 D_CustomFinale9 = PANIC
-	 D_CustomFinaleValue9 = 1
+	A_CustomFinale5 = DELAY
+	A_CustomFinaleValue5 = 10
 
-	 D_CustomFinale10 = DELAY
-	 D_CustomFinaleValue10 = 10
+	A_CustomFinale6 = PANIC
+	A_CustomFinaleValue6 = 1
+	
+	A_CustomFinale7 = PANIC
+	A_CustomFinaleValue7 = 1
+	
+	A_CustomFinale8 = DELAY
+	A_CustomFinaleValue8 = 10
 
+	A_CustomFinale9 = TANK
+	A_CustomFinaleValue9 = 1
 
-	 
-	 PreferredMobDirection = SPAWN_LARGE_VOLUME
-	 PreferredSpecialDirection = SPAWN_LARGE_VOLUME
-	 
-	 ZombieSpawnRange = 5000
-	 
-	 MaxSpecials = 3
-	 BoomerLimit = 0
-	 SmokerLimit = 2
-	 HunterLimit = 1
-	 ChargerLimit = 1
-	 SpitterLimit = 1
-	 JockeyLimit = 1
-	 CommonLimit = 40
-	 SpecialRespawnInterval = 20
-	 
-	//-----------------------------------------------------
+	A_CustomFinale10 = DELAY
+	A_CustomFinaleValue10 = 10
+	
+	PreferredMobDirection = SPAWN_LARGE_VOLUME
+	PreferredSpecialDirection = SPAWN_LARGE_VOLUME
+
+	ZombieSpawnRange = 4000
+	
+	SpecialRespawnInterval = 20
+} 
+
+PanicOptions <-
+{
+	CommonLimit = 30
 }
 
+
+DirectorOptions <- clone SharedOptions
+{
+}

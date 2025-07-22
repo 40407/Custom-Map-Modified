@@ -1,4 +1,4 @@
-Msg("Initiating zc_m5_finale rework script\n");
+Msg("Initiating xmas_atrium_finale_rework script\n");
 //---[by:GuiSAE]
 
 PANIC <- 0
