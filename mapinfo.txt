@@ -463,3 +463,69 @@
 			"pain_pills"	"4"
 		}
 	}
+
+//=======================================================================
+//=============== The Arrival 抵达
+	"dc3m1_arrival"
+	{
+		"start_point"		"-9138.076172 6940.194824 50.031246"
+		"start_dist"		"9764.584961"
+		"start_extra_dist"		"-1.000000"
+		"max_distance"		"600"
+	}
+	"dc3m2_riverside"
+	{
+		"start_point"		"-3506.369385 -744.586731 -263.968750"
+		"start_dist"		"3837.952881"
+		"start_extra_dist"		"500.000000"
+		"max_distance"		"500"
+	}
+	"dc3m3_backalley"
+	{
+		"start_point"		"-2916.182373 -4334.634766 88.031250"
+		"start_dist"		"3747.817383"
+		"start_extra_dist"		"500.000000"
+		"max_distance"		"400"
+	}
+	"dc3m4_bridge"
+	{
+		"start_point"		"821.293762 -4200.721191 296.031250"
+		"start_dist"		"15503.458984"
+		"start_extra_dist"		"500.000000"
+		"max_distance"		"300"
+	}
+	"dc3m5_plant"
+	{
+		"start_point"		"120.075363 6575.860352 304.031250"
+		"start_dist"		"7723.745605"
+		"start_extra_dist"		"-1.000000"
+		"max_distance"		"600"
+		"ItemLimits"
+		{
+			"pain_pills"		"2"
+		}
+	}
+	"dc3m6_station"
+	{
+		"start_point"		"6943.945801 9591.779297 752.031250"
+		"start_dist"		"9271.577148"
+		"start_extra_dist"		"500.000000"
+		"max_distance"		"800"
+		"ItemLimits"
+		{
+			"pain_pills"		"4"
+		}
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"45"
+				"max"		"57"
+			}
+			"2"
+			{
+				"min"		"70"
+				"max"		"100"
+			}
+		}
+	}
