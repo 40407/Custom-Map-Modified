@@ -626,3 +626,54 @@
 			}
 		}
 	}
+
+//=======================================================================
+//=============== White Forest 白森林
+	"wfp1_track"
+	{
+		"start_point"		"516.552368 -813.345154 122.180939"
+		"start_dist"		"8217.142578"
+		"start_extra_dist"		"500.000000"
+	}
+	"wfp2_horn"
+	{
+		"start_point"		"-10964.079102 -6570.711426 1306.031250"
+		"start_dist"		"8112.253906"
+		"start_extra_dist"		"500.000000"
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"0"
+				"max"		"40"
+			}
+		}
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+	}
+	"wfp3_mill"
+	{
+		"start_point"		"-2907.033691 1250.645142 157.277527"
+		"start_dist"		"8338.834961"
+		"start_extra_dist"		"500.000000"
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"25"
+				"max"		"55"
+			}
+		}
+	}
+	"wfp4_commstation"
+	{
+		"start_point"		"8245.169922 -3.964975 -2416.968750"
+		"start_dist"		"13425.600586"
+		"start_extra_dist"		"-1.000000"
+		"ItemLimits"
+		{
+			"pain_pills"		"4"
+		}
+	}
