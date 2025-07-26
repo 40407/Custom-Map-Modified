@@ -23,3 +23,4 @@
 | 19   | We Don't Go To Ravenholm   | 我们不去莱温霍姆     |
 | 20   | Dead Air Redux Aw          | C11改                |
 | 21   | White Forset               | 白森林               |
+| 22   | North Chaos                | 北境乱象             |
