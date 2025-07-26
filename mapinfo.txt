@@ -677,3 +677,21 @@
 			"pain_pills"		"4"
 		}
 	}
+
+//=======================================================================
+//=============== North Chaos 北境混沌
+	"nc_littletown"
+	{
+		"max_distance"		"700"
+		"ItemLimits"
+		{
+			"pain_pills"	"3"
+		}
+	}
+	"nc_helicopter"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+	}
