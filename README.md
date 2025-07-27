@@ -24,3 +24,4 @@
 | 20   | Dead Air Redux Aw          | C11改                |
 | 21   | White Forset               | 白森林               |
 | 22   | North Chaos                | 北境乱象             |
+| 23   | CEDA Fever                 | CEDA狂热             |
