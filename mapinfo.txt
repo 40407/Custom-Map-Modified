@@ -695,3 +695,38 @@
 			"pain_pills"	"4"
 		}
 	}
+
+//=======================================================================
+//=============== CEAD Fever CEDA狂热
+	"cedafever_m1"
+	{
+		"start_point"		"-4240.009277 1635.965210 608.031250"
+		"start_dist"		"4466.577637"
+		"start_extra_dist"		"500.000000"
+	}
+	"cedafever_m2"
+	{
+		"start_point"		"360.129364 580.627747 -159.968750"
+		"start_dist"		"9200.840820"
+		"start_extra_dist"		"500.000000"
+	}
+	"cedafever_m3"
+	{
+		"start_point"		"-5114.000000 4186.000000 1837.500000"
+		"start_dist"		"12.401754"
+		"start_extra_dist"		"7.842405"
+		"end_point"		"-5918.031250 2978.301514 1694.997070"
+		"ItemLimits"
+		{
+			"pain_pills"		"4"
+		}
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"57"
+				"max"		"100"
+			}
+		}
+	}
+}
