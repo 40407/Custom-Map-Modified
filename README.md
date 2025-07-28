@@ -25,3 +25,4 @@
 | 21   | White Forset               | 白森林               |
 | 22   | North Chaos                | 北境乱象             |
 | 23   | CEDA Fever                 | CEDA狂热             |
+| 24   | Surrounded by the Dead II  | 亡者之围2            |
