@@ -1,31 +1,13 @@
 //=======================================================================
-//=============== Arena of the Dead 死亡角斗场
+//=============== Arena of the Dead 尸骸竞技场 //修改中文翻译
 	"jsarena201_town"
 	{
-		"start_point"		"497.707031 -1611.576416 62.031250"
-		"end_point"			"3112.440430 -594.903381 145.031250"
-		"start_dist"		"50.000000"
-		"start_extra_dist"	"250.000000"
-		"end_dist"			"50.000000"
-		"max_distance"		"700"
-		"tank_ban_flow"
-		{
-			"1"
-			{
-				"min"		"75"
-				"max"		"99"
-			}
-		}
+		"max_distance"		"700" //路程修改800->700
 	}
-	"jsarena203_roof"
+	"jsarena203_roof" 
 	{
-		"start_point"		"3418.395264 3229.471436 674.031250"
-		"end_point"			"-888.021973 474.375458 668.247681"
-		"start_dist"		"50.000000"
-		"start_extra_dist"	"250.000000"
-		"end_dist"			"50.000000"
-		"max_distance"		"400"
-		"tank_ban_flow"
+		"max_distance"		"400"//路程修改500->400
+		"tank_ban_flow" //禁克路程修改
 		{
 			"1"
 			{
@@ -41,35 +23,17 @@
 	}
 	"jsarena204_arena"
 	{
-		"start_point"		"4937.140137 -155.900192 668.247681"
-		"end_point"			"-849.202332 -976.774170 531.078735"
-		"start_dist"		"50.000000"
-		"start_extra_dist"	"250.000000"
-		"end_dist"			"50.000000"
-		"tank_ban_flow"
-		{
-			"1"
-			{
-				"min"		"86"
-				"max"		"99"
-			}
-		}
-		"ItemLimits"
+		"ItemLimits" //药数量修改
 		{
 			"pain_pills"	"4"
 		}
 	}
 
 //=======================================================================
-//=============== Death Aboard 幽灵船
+//=============== Death Aboard 2 幽冥诡舶 //修改中文翻译
 	"l4d_deathaboard04_ship"
 	{
-		"start_point"		"-1490.525269 705.338257 32.031250"
-		"start_dist"		"143.486145"
-		"start_extra_dist"	"95.611107"
-		"end_point"			"3464.061279 -922.227356 -263.968750"
-		"end_dist"			"229.138062"
-		"tank_ban_flow"
+		"tank_ban_flow" //禁克路程修改
 		{
 			"1"
 			{
@@ -80,10 +44,7 @@
 	}
 	"l4d_deathaboard05_light"
 	{
-		"start_point"		"-2383.999756 -2986.743652 88.031250"
-		"start_dist"		"185.257492"
-		"start_extra_dist"	"194.090973"
-		"ItemLimits"
+		"ItemLimits" //药数量修改
 		{
 			"pain_pills"	"4"
 		}
@@ -93,12 +54,7 @@
 //=============== One Four Nine 古墓亡影
 	"l4d_149_1"
 	{
-		"start_point"		"-1462.563477 -1781.392212 82.864456"
-		"start_dist"		"146.754852"
-		"start_extra_dist"	"241.007614"
-		"end_point"			"1011.257202 -496.456573 -1408.878540"
-		"end_dist"			"353.211945"
-		"tank_ban_flow"
+		"tank_ban_flow" //禁克路程修改
 		{
 			"1"
 			{
@@ -109,13 +65,10 @@
 	}
 	
 //=======================================================================
-//=============== Undead Zone 亡灵禁区
+//=============== Undead Zone 亡灵禁区 //修改中文翻译
 	"uz_escape"
 	{
-		"start_point"		"-3438.182129 310.360443 54.131248"
-		"start_dist"		"50.000000"
-		"start_extra_dist"	"500.000000"
-		"ItemLimits"
+		"ItemLimits" //药数量修改
 		{
 			"pain_pills" "4"
 		}
