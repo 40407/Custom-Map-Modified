@@ -27,3 +27,4 @@
 | 23   | CEDA Fever                 | CEDA狂热             |
 | 24   | Surrounded by the Dead II  | 亡者之围2            |
 | 25   | Nova Prospekt              | 诺瓦矿场             |
+| 26   | Roadkill                   | 公路杀手             |
