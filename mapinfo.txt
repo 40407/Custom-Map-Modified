@@ -857,3 +857,30 @@
 	{
 		"max_distance"		"500"
 	}
+
+//=======================================================================
+//=============== de_port 运输港口
+	"csport_c1freightterminal"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"	"0"
+		}
+	}
+
+//=======================================================================
+//=============== de_prodigy 通信枢纽
+	"csprodigy_c1loading"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"	"0"
+		}
+	}
+	"csprodigy_c2facility"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"	"0"
+		}
+	}
