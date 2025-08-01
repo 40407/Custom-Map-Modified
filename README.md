@@ -28,3 +28,5 @@
 | 24   | Surrounded by the Dead II  | 亡者之围2            |
 | 25   | Nova Prospekt              | 诺瓦矿场             |
 | 26   | Roadkill                   | 公路杀手             |
+| 27   | de_port                    | 运输港口             |
+| 28   | de_prodigy                 | 通讯枢纽             |
