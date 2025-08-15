@@ -30,3 +30,5 @@
 | 26   | Roadkill                   | 公路杀手             |
 | 27   | de_port                    | 运输港口             |
 | 28   | de_prodigy                 | 通讯枢纽             |
+| 29   | Plague Tale                | 瘟疫传说             |
+
