@@ -898,29 +898,3 @@
 			}
 		}
 	}
-
-//=======================================================================
-//=============== Lukewarm Stream 温水溪流
-	"c13m1_alpinecreek_lukewarm"
-	{
-		"ItemLimits"
-		{
-			"pain_pills"	"0"
-		}
-	}
-	"c13m4_cutthroatcreek_lukewarm"
-	{
-		"tank_ban_flow"
-		{
-			"1"
-			{
-				"min"		"0"
-				"max"		"65"
-			}
-		}
-		"ItemLimits"
-		{
-			"pain_pills"	"4"
-		}
-	}
-
