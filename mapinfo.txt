@@ -899,3 +899,55 @@
 		}
 	}
 
+//=======================================================================
+//=============== Buenos Aires 布宜诺斯艾利斯
+	"bsas2_m2_adrogue"
+	{
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"61"
+				"max"		"75"
+			}
+		}
+	}
+	"bsas2_m3_constitucion"
+	{
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"41"
+				"max"		"100"
+			}
+		}
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+	}
+	"bsas2_m4_obelisco"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+	}
+	"bsas2_m5_retiro"
+	{
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"27"
+				"max"		"40"
+			}
+			"1"
+			{
+				"min"		"52"
+				"max"		"100"
+			}
+		}
+	}
+
