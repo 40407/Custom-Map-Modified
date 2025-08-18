@@ -31,4 +31,4 @@
 | 27   | de_port                    | 运输港口             |
 | 28   | de_prodigy                 | 通讯枢纽             |
 | 29   | Plague Tale                | 瘟疫传说             |
-
+| 30   | Buenos Aires               | 布宜诺斯艾利斯       |
