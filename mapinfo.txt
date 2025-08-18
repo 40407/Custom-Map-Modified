@@ -951,3 +951,35 @@
 		}
 	}
 
+//=======================================================================
+//=============== L4D2 Short 求生之路精简
+	"short_carnival"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"	"5"
+		}
+
+	}
+	"short_toll"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"	"6"
+		}
+	}
+	"short_air"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"	"7"
+		}
+	}
+	"short_harvest"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"	"6"
+		}
+	}
+
