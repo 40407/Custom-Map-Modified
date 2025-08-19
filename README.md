@@ -7,7 +7,7 @@
 | 3    | Arena of the Dead          | 尸骸竞技场           |
 | 4    | Big Wat Halloween          | 大佛寺万圣节         |
 | 5    | Buenos Aires               | 布宜诺斯艾利斯       |
-| 6    | CEDA Fever                 | CEDA狂热             |
+| 6    | CEDA Fever                 | CEDA狂热病           |
 | 7    | Cold Front                 | 冷锋                 |
 | 8    | Crash Course: Rerouted     | 坠机险途：改航       |
 | 9    | Dam It Dc                  | 大坝：导演剪辑版     |
@@ -29,8 +29,8 @@
 | 25   | Surrounded by the Dead II  | 亡者之围2            |
 | 26   | Swamp Fever Drought        | 沼泽激战：旱灾       |
 | 27   | The Arrival                | 到达                 |
-| 28   | The Happyfice              | 笑牺                 |
+| 28   | The Happyfice              | 笑逝牺牲             |
 | 29   | Undead Zone                | 亡灵禁区             |
 | 30   | We Don't Go To Ravenholm   | 我们不去莱温霍姆     |
-| 31   | White Forset               | 白森林               |
+| 31   | White Forest               | 白森林               |
 | 32   | Zengcheng Guangzhou        | 广州增城             |
