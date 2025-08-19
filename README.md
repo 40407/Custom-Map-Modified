@@ -33,3 +33,4 @@
 | 29   | Plague Tale                | 瘟疫传说             |
 | 30   | Buenos Aires               | 布宜诺斯艾利斯       |
 | 31   | L4D2 Short                 | 求生之路精简         |
+| 32   | Reverse Blood Harvest      | 血腥收获：逆转       |
