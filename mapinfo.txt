@@ -983,3 +983,23 @@
 		}
 	}
 
+//=======================================================================
+//=============== Reverse Blood Harvest 血腥收获：逆转
+	"l4d_farm01_hilltop_rev"
+	{
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"70"
+				"max"		"100"
+			}
+		}
+	}
+	"l4d_farm05_cornfield_rev"
+	{
+		"ItemLimits" 
+		{
+			"pain_pills"	"0"
+		}
+	}
