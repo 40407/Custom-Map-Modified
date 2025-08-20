@@ -35,3 +35,4 @@
 | 31   | White Forest               | 白森林               |
 | 32   | Zengcheng Guangzhou        | 广州增城             |
 | 33   | No Mercy Apocalypse        | 毫不留情：启示录     |
+| 34   | Fairfield Terror           | 费尔菲尔德恐慌       |
