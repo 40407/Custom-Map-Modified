@@ -1018,3 +1018,28 @@
 		}
 	}
 
+//=======================================================================
+//=============== Fairfield Terror 费尔菲尔德恐慌：毫不留情重置
+	"ft_m1_apartments_08_a"
+	{
+		"max_distance"		"320"
+	}
+	"ft_m4_hospital_08_a"
+	{
+		"max_distance"		"500"
+		"tank_ban_flow"
+		{
+			"Before elevator (bugged spawn)"
+			{
+				"min"		"32"
+				"max"		"81"
+			}
+		}
+	}
+	"ft_m5_rooftop_08_a"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+	}
