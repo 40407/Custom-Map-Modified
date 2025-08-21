@@ -34,6 +34,7 @@
 | 30   | We Don't Go To Ravenholm   | 我们不去莱温霍姆     |
 | 31   | White Forest               | 白森林               |
 | 32   | Zengcheng Guangzhou        | 广州增城             |
-| 33   | No Mercy Apocalypse        | 毫不留情：启示录     |无救援
+| 33   | No Mercy APOCALYPSE        | 毫不留情：启示录     |无救援
 | 34   | Fairfield Terror           | 费尔菲尔德恐慌       |救援不算分
 | 35   | The Bloody Moors           | 血腥荒野             |跳过m4
+| 36   | Blood Harvest APOCALYPSE   | 血腥收获：启示录     |无救援
