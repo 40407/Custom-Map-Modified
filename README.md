@@ -26,7 +26,7 @@
 | 22   | Resident Evil 3 Short      | 生化危机3：精简版    |
 | 23   | Reverse Blood Harvest      | 血腥收获：逆转       |删去m4
 | 24   | Roadkill                   | 公路杀手             |
-| 25   | Surrounded by the Dead II  | 亡者之围2            |
+| 25   | Surrounded by the Dead Ⅱ  | 亡者之围2            |
 | 26   | Swamp Fever Drought        | 沼泽激战：旱灾       |
 | 27   | The Arrival                | 到达                 |
 | 28   | The Happyfice              | 笑逝牺牲             |
@@ -39,3 +39,4 @@
 | 35   | The Bloody Moors           | 血腥荒野             |跳过m4
 | 36   | Blood Harvest APOCALYPSE   | 血腥收获：启示录     |删去救援
 | 37   | No Mercy Xmas              | 毫不留情：圣诞       |删去m1，m7和救援
+| 38   | Deathcraft Ⅱ              | 死的世界2            |删去救援
