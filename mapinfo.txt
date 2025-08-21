@@ -1057,3 +1057,31 @@
 			}
 		}
 	}
+
+//=======================================================================
+//=============== Night Terror 惊魂之夜
+	"nt01_mansion"
+	{
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"33"
+				"max"		"42"
+			}
+		}
+	}
+	"nt03_moria"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+	}
+	"nt04_jungleruins"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"	"3"
+		}
+	}
