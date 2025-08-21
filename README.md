@@ -30,7 +30,7 @@
 | 26   | Swamp Fever Drought        | 沼泽激战：旱灾       |
 | 27   | The Arrival                | 到达                 |
 | 28   | The Happyfice              | 笑逝牺牲             |
-| 29   | Undead Zone                | 亡灵禁区             |
+| 29   | Undead Zone                | 亡灵禁区             |救援关刷药4瓶而不是2瓶
 | 30   | We Don't Go To Ravenholm   | 我们不去莱温霍姆     |
 | 31   | White Forest               | 白森林               |
 | 32   | Zengcheng Guangzhou        | 广州增城             |
