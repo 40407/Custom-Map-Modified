@@ -14,12 +14,12 @@
 | 10   | Dead Air Redux Aw          | 静寂时分：复原       |
 | 11   | Dead Center Xmas           | 死亡中心：圣诞       |
 | 12   | Dead Flag Blues 2 Reborn   | 死旗悲歌2：重生      |
-| 13   | Death Aboard 2             | 幽冥诡舶2            | 救援不算分
+| 13   | Death Aboard 2             | 幽冥诡舶2            |救援不算分，修复救援不刷药
 | 14   | de_port                    | 运输港口             |
 | 15   | de_prodigy                 | 通讯枢纽             |
 | 16   | L4D2 Short                 | 求生之路精简         |
 | 17   | North Chaos                | 北境乱象             |
-| 18   | Nova Prospekt              | 诺瓦矿场             | 救援不算分
+| 18   | Nova Prospekt              | 诺瓦矿场             |救援不算分
 | 19   | One Four Nine              | 古墓亡影             |
 | 20   | Plague Tale                | 瘟疫传说             |
 | 21   | Prague                     | 布拉格               |
@@ -34,6 +34,6 @@
 | 30   | We Don't Go To Ravenholm   | 我们不去莱温霍姆     |
 | 31   | White Forest               | 白森林               |
 | 32   | Zengcheng Guangzhou        | 广州增城             |
-| 33   | No Mercy Apocalypse        | 毫不留情：启示录     | 无救援
-| 34   | Fairfield Terror           | 费尔菲尔德恐慌       | 救援不算分
-| 35   | The Bloody Moors           | 血腥荒野             | 跳过m4
+| 33   | No Mercy Apocalypse        | 毫不留情：启示录     |无救援
+| 34   | Fairfield Terror           | 费尔菲尔德恐慌       |救援不算分
+| 35   | The Bloody Moors           | 血腥荒野             |跳过m4
