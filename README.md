@@ -36,3 +36,4 @@
 | 32   | Zengcheng Guangzhou        | 广州增城             |
 | 33   | No Mercy Apocalypse        | 毫不留情：启示录     | 无救援
 | 34   | Fairfield Terror           | 费尔菲尔德恐慌       | 救援不算分
+| 35   | The Bloody Moors           | 血腥荒野             | 跳过m4
