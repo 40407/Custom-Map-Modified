@@ -38,3 +38,4 @@
 | 34   | Fairfield Terror           | 费尔菲尔德恐慌       |救援不算分
 | 35   | The Bloody Moors           | 血腥荒野             |跳过m4
 | 36   | Blood Harvest APOCALYPSE   | 血腥收获：启示录     |删去救援
+| 37   | No Mercy Xmas              | 毫不留情：圣诞       |删去m1，m7和救援
