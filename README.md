@@ -40,4 +40,4 @@
 | 36   | Blood Harvest APOCALYPSE   | 血腥收获：启示录     |删去救援
 | 37   | No Mercy Xmas              | 毫不留情：圣诞       |删去m1，m7和救援
 | 38   | Deathcraft Ⅱ              | 死的世界2            |删去救援，生还特感恢复原模
-
+| 39   | Night Terror               | 惊魂之夜             |
