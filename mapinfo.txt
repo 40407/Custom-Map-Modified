@@ -1085,3 +1085,54 @@
 			"pain_pills"	"3"
 		}
 	}
+
+//=======================================================================
+//=============== Dry County 风沙之郡
+	"dry_county_1"
+	{
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"35"
+				"max"		"100"
+			}
+		}
+	}
+	"dry_county_2"
+	{
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"71"
+				"max"		"100"
+			}
+		}
+	}
+	"dry_county_3"
+	{
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"81"
+				"max"		"100"
+			}
+		}
+	}
+	"dry_county_4"
+	{
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"0"
+				"max"		"75"
+			}
+		}
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+	}
