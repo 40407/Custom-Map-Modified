@@ -4,23 +4,23 @@
 |------|----------------------------|----------------------|----------------------|
 | 1    | 2 Evil Eyes                | 邪恶双眸             |
 | 2    | 4 Sided Coin               | 四面硬币             |
-| 3    | Arena of the Dead          | 尸骸竞技场           |
+| 3    | Arena of the Dead          | 尸骸竞技场           |修改路程和坦克
 | 4    | Big Wat Halloween          | 大佛寺万圣节         |
 | 5    | Buenos Aires               | 布宜诺斯艾利斯       |删去m1和救援
 | 6    | CEDA Fever                 | CEDA狂热病           |
 | 7    | Cold Front                 | 冷锋                 |
 | 8    | Crash Course: Rerouted     | 坠机险途：改航       |
-| 9    | Dam It Dc                  | 大坝：导演剪辑版     |
+| 9    | Dam It Dc                  | 大坝：导演剪辑版     |修复bug
 | 10   | Dead Air Redux Aw          | 静寂时分：复原       |
 | 11   | Dead Center Xmas           | 死亡中心：圣诞       |
 | 12   | Dead Flag Blues 2 Reborn   | 死旗悲歌2：重生      |
-| 13   | Death Aboard 2             | 幽冥诡舶2            |救援不算分，修复救援不刷药
+| 13   | Death Aboard 2             | 幽冥诡舶2            |救援不算分，修复救援不刷药，修改路程和坦克
 | 14   | de_port                    | 运输港口             |
 | 15   | de_prodigy                 | 通讯枢纽             |
 | 16   | L4D2 Short                 | 求生之路精简         |
 | 17   | North Chaos                | 北境乱象             |
 | 18   | Nova Prospekt              | 诺瓦矿场             |救援不算分，删去m3,m6
-| 19   | One Four Nine              | 古墓亡影             |
+| 19   | One Four Nine              | 古墓亡影             |修改路程和坦克
 | 20   | Plague Tale                | 瘟疫传说             |
 | 21   | Prague                     | 布拉格               |
 | 22   | Resident Evil 3 Short      | 生化危机3：精简版    |
