@@ -1188,3 +1188,42 @@
 			}
 		}
 	}
+
+//=======================================================================
+//=============== Lock Down 2 封锁2
+	"ld1"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"	"3"
+		}
+	}
+	"ld2"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"	"3"
+		}
+	}
+	"ld3"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"	"3"
+		}
+	}
+	"ld4"
+	{
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"40"
+				"max"		"50"
+			}
+		}
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+	}
