@@ -7,7 +7,7 @@
 | 3    | Arena of the Dead          | 尸骸竞技场           |修改路程和坦克
 | 4    | Big Wat Halloween          | 大佛寺万圣节         |
 | 5    | Buenos Aires               | 布宜诺斯艾利斯       |删去m1和救援
-| 6    | CEDA Fever                 | CEDA狂热病           |
+| 6    | CEDA Fever                 | CEDA狂热病           |Surrounded by the Dead的m2接m1
 | 7    | Cold Front                 | 冷锋                 |
 | 8    | Crash Course: Rerouted     | 坠机险途：改航       |
 | 9    | Dam It Dc                  | 大坝：导演剪辑版     |修复bug
@@ -15,8 +15,8 @@
 | 11   | Dead Center Xmas           | 死亡中心：圣诞       |
 | 12   | Dead Flag Blues 2 Reborn   | 死旗悲歌2：重生      |
 | 13   | Death Aboard 2             | 幽冥诡舶2            |救援不算分；修复救援不刷药，修改路程和坦克
-| 14   | de_port                    | 运输港口             |
-| 15   | de_prodigy                 | 通讯枢纽             |
+| 14   | de_port                    | 运输港口             |m3接de_prodigy的m1
+| 15   | de_prodigy                 | 通讯枢纽             |de_port的m3接m1
 | 16   | L4D2 Short                 | 求生之路精简         |
 | 17   | North Chaos                | 北境乱象             |
 | 18   | Nova Prospekt              | 诺瓦矿场             |救援不算分；删去m3,m6
@@ -26,7 +26,7 @@
 | 22   | Resident Evil 3 Short      | 生化危机3：精简版    |
 | 23   | Reverse Blood Harvest      | 血腥收获：逆转       |删去m4
 | 24   | Roadkill                   | 公路杀手             |
-| 25   | Surrounded by the Dead Ⅱ  | 亡者之围2            |
+| 25   | Surrounded by the Dead Ⅱ  | 亡者之围2            |m2接CEDA Fever的m1
 | 26   | Swamp Fever Drought        | 沼泽激战：旱灾       |
 | 27   | The Arrival                | 到达                 |
 | 28   | The Happyfice              | 笑逝牺牲             |
