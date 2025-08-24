@@ -45,3 +45,4 @@
 | 41   | Dark Wood                  | 阴暗森林                |跳过m4，缩短m2,m3,m5流程
 | 42   | Salthell Park              | 盐狱公园                |
 | 43   | Lock Down 2                | 锁境危机2               |
+| 44   |  Yama                      | 摩耶山危机              |
