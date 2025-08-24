@@ -1271,4 +1271,63 @@
 		}
 	}
 
+//=======================================================================
+//=============== RMS Titanic 泰坦尼克号
+	"rmstitanic_m1"
+	{
+		"max_distance"		"500"
+		"ItemLimits"
+		{
+			"pain_pills"	"3"
+		}
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"0"
+				"max"		"39"
+			}
+		}
+	}
+	"rmstitanic_m2"
+	{
+		"max_distance"		"600"
+		"ItemLimits"
+		{
+			"pain_pills"	"3"
+		}
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"47"
+				"max"		"64"
+			}
+		}
+	}
+	"rmstitanic_m3"
+	{
+		"max_distance"		"700"
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"63"
+				"max"		"74"
+			}
+		}
+	}
+	"rmstitanic_m4"
+	{
+		"max_distance"		"800"
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+	}
+
 
