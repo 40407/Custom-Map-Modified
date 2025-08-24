@@ -46,3 +46,5 @@
 | 42   | Salthell Park              | 盐狱公园                |
 | 43   | Lock Down 2                | 锁境危机2               |
 | 44   |  Yama                      | 摩耶山危机              |
+| 44   |  RMS Titanic               | 泰坦尼克号              |删除了随机路线
+ 
