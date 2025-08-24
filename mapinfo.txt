@@ -1228,4 +1228,47 @@
 		}
 	}
 
+//=======================================================================
+//=============== Yama 摩耶山危机
+	"l4d_yama_1"
+	{
+		"max_distance"		"560"
+		"ItemLimits"
+		{
+			"pain_pills"	"3"
+		}
+	}
+	"l4d_yama_2"
+	{
+		"max_distance"		"640"
+		"ItemLimits"
+		{
+			"pain_pills"	"3"
+		}
+	}
+	"l4d_yama_3"
+	{
+		"max_distance"		"760"
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+	}
+	"l4d_yama_4"
+	{
+		"max_distance"		"840"
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+	}
+	"l4d_yama_5"
+	{
+		"max_distance"		"960"
+		"ItemLimits"
+		{
+			"pain_pills"	"5"
+		}
+	}
+
 
