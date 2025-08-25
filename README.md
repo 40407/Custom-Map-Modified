@@ -21,13 +21,13 @@
 | 17   | North Chaos                | 北境乱象                |
 | 18   | Nova Prospekt              | 诺瓦矿场                |救援不算分；删去m3,m6
 | 19   | One Four Nine              | 古墓亡影                |修改路程和坦克
-| 20   | Plague Tale                | 瘟疫传说                |<font color="red">无爬行轨迹</font>
+| 20   | Plague Tale                | 瘟疫传说                |$\color{red} {没有爬行轨迹} $
 | 21   | Prague                     | 布拉格                  |
 | 22   | Resident Evil 3 Short      | 生化危机3：精简         |
 | 23   | Reverse Blood Harvest      | 血腥收获：逆转          |删去m4
 | 24   | Roadkill                   | 公路杀手                |
 | 25   | Surrounded by the Dead Ⅱ  | 亡者之围2               |m2接CEDA Fever的m1
-| 26   | Swamp Fever Drought        | 沼泽激战：旱灾          |<font color="red">瑕疵很多</font>
+| 26   | Swamp Fever Drought        | 沼泽激战：旱灾          |$\color{red} {瑕疵很多} $
 | 27   | The Arrival                | 不速之客                |
 | 28   | The Happyfice              | 笑逝牺牲                |
 | 29   | Undead Zone                | 亡灵禁区                |救援关刷药4瓶而不是2瓶
