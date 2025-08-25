@@ -10,17 +10,17 @@
 | 6    | CEDA Fever                 | CEDA狂热病              |Surrounded by the Dead的m2接m1
 | 7    | Cold Front                 | 冷锋过境                |
 | 8    | Crash Course: Rerouted     | 坠机险途：改航          |
-| 9    | Dam It Dc                  | 大坝：导演剪辑          |修复bug
+| 9    | Dam It Dc                  | 大坝：导演剪辑          |修复zm原有bug
 | 10   | Dead Air Redux Aw          | 静寂时分：复原          |
 | 11   | Dead Center Xmas           | 死亡中心：圣诞节        |
 | 12   | Dead Flag Blues 2 Reborn   | 死旗悲歌2：重生         |
-| 13   | Death Aboard 2             | 幽冥诡舶2               |救援不算分；修复救援不刷药，修改路程和坦克
+| 13   | Death Aboard 2             | 幽冥诡舶2               |$\color{red} {救援不算分} $；修复救援不刷药，修改路程和坦克
 | 14   | de_port                    | 运输港口                |m3接de_prodigy的m1
 | 15   | de_prodigy                 | 通讯枢纽                |de_port的m3接m1
 | 16   | L4D2 Short                 | 求生之路：精简          |
 | 17   | North Chaos                | 北境乱象                |
-| 18   | Nova Prospekt              | 诺瓦矿场                |救援不算分；删去m3,m6
-| 19   | One Four Nine              | 古墓亡影                |修改路程和坦克
+| 18   | Nova Prospekt              | 诺瓦矿场                |$\color{red} {没有爬行轨迹，救援不算分} $；删去m3,m6
+| 19   | One Four Nine              | 古墓亡影                |修改路程和坦克，修复zm原有bug
 | 20   | Plague Tale                | 瘟疫传说                |$\color{red} {没有爬行轨迹} $
 | 21   | Prague                     | 布拉格                  |
 | 22   | Resident Evil 3 Short      | 生化危机3：精简         |
@@ -35,7 +35,7 @@
 | 31   | White Forest               | 白森林                  |
 | 32   | Zengcheng Guangzhou        | 广州增城                |
 | 33   | No Mercy APOCALYPSE        | 毫不留情：启示录        |删去救援
-| 34   | Fairfield Terror           | 费尔菲德恐慌：毫不留情  |救援不算分
+| 34   | Fairfield Terror           | 费尔菲德恐慌：毫不留情  |$\color{red} {救援不算分} $
 | 35   | The Bloody Moors           | 血腥荒野                |跳过m4
 | 36   | Blood Harvest APOCALYPSE   | 血腥收获：启示录        |删去救援
 | 37   | No Mercy Xmas              | 毫不留情：圣诞节        |删去m1，m7和m8
