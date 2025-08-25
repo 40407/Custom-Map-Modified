@@ -17,7 +17,7 @@
 | 14   | Dead Center Xmas             | 死亡中心：圣诞节                          |                                             |
 | 15   | Dead Flag Blues 2 Reborn     | 死旗悲歌2：重生                           |                                             |
 | 16   | Death Aboard 2               | 幽冥诡舶2                                 | $\color{red} {救援不算分}$；修复救援不刷药，修改路程和坦克 |
-| 17   | Deathcraft Ⅱ                 | $\color{blue} {死的世界2}$                | 删去救援，生还特感恢复原模                   |
+| 17   | Deathcraft Ⅱ                | $\color{blue} {死的世界2}$                | 删去救援，生还特感恢复原模                   |
 | 18   | de_port                      | $\color{blue} {运输港口}$                 | m3接de_prodigy的m1                         |
 | 19   | de_prodigy                   | $\color{blue} {通讯枢纽}$                 | de_port的m3接m1                            |
 | 20   | Dry County                   | $\color{blue} {风沙之郡}$                 |                                             |
@@ -32,12 +32,12 @@
 | 29   | One Four Nine                | 古墓亡影                                  | 修改路程和坦克，修复zm原有bug                |
 | 30   | Plague Tale                  | $\color{blue} {瘟疫传说}$                 | $\color{red} {没有爬行轨迹}$                |
 | 31   | Prague                       | 布拉格                                    |                                             |
-| 32   | Resident Evil 3 Short        | 生化危机3：精简                           |                                             |
+| 32   | Resident Evil 3 Short        | $\color{blue} {生化危机3：精简}$          |                                             |
 | 33   | Reverse Blood Harvest        | $\color{blue} {血腥收获：逆转}$           | 删去m4                                     |
 | 34   | Roadkill                     | 公路杀手                                  |                                             |
 | 35   | RMS Titanic                  | 泰坦尼克号                                | 删除了随机路线                              |
 | 36   | Salthell Park                | $\color{blue} {盐狱公园}$                 |                                             |
-| 37   | Surrounded by the Dead Ⅱ     | 亡者之围2                                 | m2接CEDA Fever的m1                         |
+| 37   | Surrounded by the Dead Ⅱ    | 亡者之围2                                 | m2接CEDA Fever的m1                         |
 | 38   | Swamp Fever Drought          | 沼泽激战：旱灾                            | $\color{red} {瑕疵很多}$                    |
 | 39   | The Arrival                  | 不速之客                                  |                                             |
 | 40   | The Bloody Moors             | 血腥荒野                                  | 跳过m4                                     |
