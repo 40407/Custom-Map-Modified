@@ -4,7 +4,7 @@
 |------|----------------------------|-------------------------|----------------------
 | 1    | 2 Evil Eyes                | 邪恶双眸                |
 | 2    | 4 Sided Coin               | 四面硬币                |
-| 3    | Arena of the Dead          | 尸骸竞技场              |修改路程和坦克
+| 3    | Arena of the Dead 2        | 尸骸竞技场2             |修改路程和坦克
 | 4    | Big Wat Halloween          | 巨型佛寺：万圣节        |
 | 5    | Buenos Aires               | 布宜诺斯艾利斯          |删去m1和救援
 | 6    | CEDA Fever                 | CEDA狂热病              |Surrounded by the Dead的m2接m1
