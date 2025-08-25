@@ -38,7 +38,7 @@
 | 34   | Fairfield Terror           | 费尔菲德恐慌：毫不留情  |救援不算分
 | 35   | The Bloody Moors           | 血腥荒野                |跳过m4
 | 36   | Blood Harvest APOCALYPSE   | 血腥收获：启示录        |删去救援
-| 37   | No Mercy Xmas              | 毫不留情：圣诞节        |删去m1，m7和救援
+| 37   | No Mercy Xmas              | 毫不留情：圣诞节        |删去m1，m7和m8
 | 38   | Deathcraft Ⅱ              | 死的世界2               |删去救援，生还特感恢复原模
 | 39   | Night Terror               | 惊魂之夜                |
 | 40   | Dry County                 | 风沙之郡                |
