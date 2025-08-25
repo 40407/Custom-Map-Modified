@@ -29,7 +29,7 @@
 | 26   | No Mercy Xmas                | $\color{blue} {毫不留情：圣诞节}$         | 删去m1，m7和m8                             |
 | 27   | North Chaos                  | 北境乱象                                  |                                             |
 | 28   | Nova Prospekt                | $\color{blue} {诺瓦矿场}$                 | $\color{red} {没有爬行轨迹，救援不算分}$；删去m3,m6 |
-| 29   | One Four Nine                | 古墓亡影                                  | 修改路程和坦克，修复zm原有bug                |
+| 29   | One Four Nine                | $\color{blue} {古墓亡影}$                 | 修改路程和坦克，修复zm原有bug                |
 | 30   | Plague Tale                  | $\color{blue} {瘟疫传说}$                 | $\color{red} {没有爬行轨迹}$                |
 | 31   | Prague                       | 布拉格                                    |                                             |
 | 32   | Resident Evil 3 Short        | $\color{blue} {生化危机3：精简}$          |                                             |
