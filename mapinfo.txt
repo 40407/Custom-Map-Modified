@@ -1355,3 +1355,41 @@
 		}
 	}
 
+//=======================================================================
+//=============== Death Toll Clam 死亡丧钟：错音
+	"l4d2_deathtoll01_clam"
+	{
+		"max_distance"		"500"
+	}
+	"l4d2_deathtoll02_clam"
+	{
+		"max_distance"		"600"
+	}
+	"l4d2_deathtoll03_clam"
+	{
+		"max_distance"		"700"
+	}
+	"l4d2_deathtoll04_clam"
+	{
+		"max_distance"		"400"
+		"ItemLimits"
+		{
+			"pain_pills"	"0"
+		}
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"73"
+				"max"		"100"
+			}
+		}
+	}
+	"l4d2_deathtoll05_clam"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+	}
+
