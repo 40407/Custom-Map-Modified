@@ -1365,10 +1365,6 @@
 	{
 		"max_distance"		"600"
 	}
-	"l4d2_deathtoll03_clam"
-	{
-		"max_distance"		"700"
-	}
 	"l4d2_deathtoll04_clam"
 	{
 		"max_distance"		"400"
@@ -1392,3 +1388,4 @@
 			"pain_pills"	"4"
 		}
 	}
+
