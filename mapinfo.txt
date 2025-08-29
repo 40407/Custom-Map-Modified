@@ -1389,3 +1389,37 @@
 		}
 	}
 
+//=======================================================================
+//=============== Pitch Dark Mesa 黑山基地
+	"l4d2_pdmesa01_surface"
+	{
+		"max_distance"		"500"
+	}
+	"l4d2_pdmesa02_shafted"
+	{
+		"max_distance"		"600"
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"0"
+				"max"		"40"
+			}
+		}
+	}
+	"l4d2_pdmesa03_office"
+	{
+		"max_distance"		"500"
+	}
+	"l4d2_pdmesa04_pointinsert"
+	{
+		"max_distance"		"700"
+	}
+	"l4d2_pdmesa05_returntoxen"
+	{
+		"max_distance"		"600"
+	}
+	"l4d2_pdmesa06_xen"
+	{
+		"max_distance"		"700"
+	}
