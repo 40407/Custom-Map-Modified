@@ -51,3 +51,4 @@
 | 47   | Devil Mountain                                      | $\color{blue} {邪魔山岳}$                 | 删去救援                                                  |⭐⭐⭐⭐
 | 48   | Death Toll Clam                                     | 死亡丧钟：缄默                            | $\color{red} {救援不算分}$；删除随机路线，减少绕路         |⭐⭐⭐⭐
 | 49   | Pitch Dark Mesa                                     | 黑山基地                                  |                                                           |⭐⭐⭐⭐
+| 50   | Precinct 84 (2018 Edition)                          | $\color{blue} {84辖区：2018}$             |                                                           |⭐⭐⭐⭐⭐
