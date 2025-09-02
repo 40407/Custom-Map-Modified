@@ -6,7 +6,7 @@
 	}
 	"jsarena203_roof" 
 	{
-		"max_distance"		"400"//路程修改500->400
+		"max_distance"		"500"//路程修改600->500
 		"tank_ban_flow" //禁克路程修改
 		{
 			"1"
@@ -80,5 +80,6 @@
 	{
 		"max_distance"		"700"//路程修改500->700
 	}
+
 
 
