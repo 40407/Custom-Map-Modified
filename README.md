@@ -1,6 +1,14 @@
 # 第三方地图修改列表
 ## By 40407 ＆ GuiSAE
-注：修改覆盖zm.txt仅为对zm原版mapinfo的修改参考，并非必须
+注：
+<br>①修改覆盖zm.txt仅为对zm原版mapinfo的修改参考，并非必须
+<br>②确保"Left 4 Dead 2\left4dead2\cfg\cfgogl\zonemod\shared_settings.cfg"里有以下设定：
+<br> &emsp; // Personalized settings
+<br> &emsp; exec confogl_personalize.cfg
+<br> &emsp; 再把confogl_personalize.cfg放入Left 4 Dead 2\left4dead2\cfg（和cfg\cvar_tracking.cfg同样的地方）
+<br>③新增mapinfo的内容要复制到cfg\cfgogl\zonemod\mapinfo.txt，不能直接覆盖
+<br>④maps里的cfg直接加到Left 4 Dead 2\left4dead2\cfg\stripper\zonemod\maps里
+<br>⑤vscripts里的nut直接加到Left 4 Dead 2\left4dead2\scripts\vscripts里
 |序号  |英文名称<br>$\color{green}{绿色为zm基础上修改}$     |中文翻译<br>$\color{blue}{蓝色为改动了vpk}$|备注<br> $\color{red} {红色为未解决bug}$                  |推荐指数        |
 |------|-----------------------------------------------------|-------------------------------------------|-----------------------------------------------------------|----------------|
 | 1    | 2 Evil Eyes                                         | 邪恶双眸                                  |                                                           |⭐⭐⭐⭐⭐
