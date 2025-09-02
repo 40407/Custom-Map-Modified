@@ -85,10 +85,11 @@
 //=============== Day Break 黎明
 	"l4d2_daybreak05_rescue"
 	{
-		"ItemLimits"
+		"ItemLimits" //药数量修改
 		{
 			"pain_pills"	"4"
 		}
 	}
+
 
 
