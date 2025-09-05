@@ -1433,3 +1433,32 @@
 			"pain_pills"	"4"
 		}
 	}
+
+//=======================================================================
+//=============== Deadbeat Escape 无缝逃离
+	"deadbeat01_forest"
+	{
+		"max_distance"		"600"
+	}
+	"deadbeat02_alley"
+	{
+		"max_distance"		"700"
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+	}
+	"deadbeat03_street"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+	}
+	"deadbeat04_park"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+	}
