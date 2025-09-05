@@ -25,7 +25,8 @@
 | 18 | $\color{green}{Undead~Zone}$ | 亡灵禁区 | 救援关刷药4瓶而不是2瓶 | ⭐⭐⭐⭐⭐ |
 | 19 | Zengcheng Guangzhou | 广州增城 | | ⭐⭐⭐⭐⭐ |
 | 20 | Deadbeat Escape | 无缝逃离 | | ⭐⭐⭐⭐⭐ |
- 
+| 21 | Dark Blood 2 | 深钻黑血​​2 | 修复zm原有bug | ⭐⭐⭐⭐⭐ |
+
 ## 4星推荐指数表格（⭐⭐⭐⭐）
 
 | 序号 | 英文名称<br>$\color{green}{绿色为zm基础上修改}$ | 中文翻译<br>$\color{blue}{蓝色为改动了vpk}$ | 备注<br>$\color{red} {红色为未解决bug}$ | 推荐指数 |
