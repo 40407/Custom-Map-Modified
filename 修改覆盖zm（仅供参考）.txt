@@ -113,3 +113,25 @@
 			"pain_pills"	"0"
 		}
 	}
+
+//=======================================================================
+//=============== Blood Tracks 血之轨迹
+	"bloodtracks_01"
+	{
+		"max_distance"		"400" //路程修改500->400
+	}
+	"bloodtracks_02"
+	{
+		"max_distance"		"500" //路程修改600->500
+	}
+	"bloodtracks_03"
+	{
+		"max_distance"		"600" //路程修改700->600
+	}
+	"bloodtracks_04"
+	{
+		"ItemLimits" //药数量修改
+		{
+			"pain_pills"	"4"
+		}
+	}
