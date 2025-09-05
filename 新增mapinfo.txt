@@ -1462,3 +1462,26 @@
 			"pain_pills"	"4"
 		}
 	}
+
+//=======================================================================
+//=============== Dark Blood 2 深渊黑血​​2
+	"l4d2_darkblood02_engine"
+	{
+		"max_distance"		"600" 
+	}
+	"l4d2_darkblood03_platform"
+	{
+		"max_distance"		"700" 
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+	}
+	"l4d2_darkblood04_extraction"
+	{
+		"max_distance"		"800" 
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+	}
