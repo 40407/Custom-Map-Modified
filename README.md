@@ -27,7 +27,8 @@
 | 20 | Deadbeat Escape | 无缝逃离 | | ⭐⭐⭐⭐⭐ |
 | 21 | $\color{green}{Dark\ Blood\ 2}$ | 深渊暗血​​2 | 修复zm原有bug | ⭐⭐⭐⭐⭐ |
 | 22 | $\color{green}{Blood~Tracks}$ | 血染铁轨 | 修复zm原有bug | ⭐⭐⭐⭐⭐ |
- 
+| 23 | Infection Overdrive | 超速感染 | | ⭐⭐⭐⭐⭐ |
+  
 ## 4星推荐指数表格（⭐⭐⭐⭐）
 
 | 序号 | 英文名称<br>$\color{green}{绿色为zm基础上修改}$ | 中文翻译<br>$\color{blue}{蓝色为改动了vpk}$ | 备注<br>$\color{red} {红色为未解决bug}$ | 推荐指数 |
