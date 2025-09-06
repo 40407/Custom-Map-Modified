@@ -1486,3 +1486,29 @@
 		}
 	}
 
+//=======================================================================
+//=============== Infection Overdrive 超速感染 
+	"rw_beach1"
+	{
+		"max_distance"		"400"
+	}
+	"rw_bridge2"
+	{
+		"max_distance"		"500"
+	}
+	"rw_city3"
+	{
+		"max_distance"		"500"
+	}
+	"rw_artdeco4"
+	{
+		"max_distance"		"600"
+	}
+	"rw_mansion5"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+	}
+
