@@ -1522,3 +1522,26 @@
 	{
 		"max_distance"		"600"
 	}
+
+//=======================================================================
+//=============== Early Days 末日初兆
+	"earlydays2"
+	{
+		"max_distance"		"500"
+	}
+	"earlydays3"
+	{
+		"max_distance"		"600"
+	}
+	"earlydays4"
+	{
+		"max_distance"		"500"
+	}
+	"earlydays5"
+	{
+		"max_distance"		"700"
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+	}
