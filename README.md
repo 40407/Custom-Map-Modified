@@ -30,7 +30,8 @@
 | 23 | Infection Overdrive | 超速感染 | | ⭐⭐⭐⭐⭐ |
 | 24 | Last Breath | 一息尚存 | | ⭐⭐⭐⭐⭐ |
 | 25 | Early Days | 末日初兆 | | ⭐⭐⭐⭐⭐ |
-    
+| 26 | Pesaro | 佩萨罗 | | ⭐⭐⭐⭐⭐ |  
+
 ## 4星推荐指数表格（⭐⭐⭐⭐）
 
 | 序号 | 英文名称<br>$\color{green}{绿色为zm基础上修改}$ | 中文翻译<br>$\color{blue}{蓝色为改动了vpk}$ | 备注<br>$\color{red} {红色为未解决bug}$ | 推荐指数 |
