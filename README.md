@@ -44,7 +44,7 @@
 | 6 | $\color{green}{Death\ Aboard\ 2}$ | 幽冥诡舶2 | $\color{red} {救援不算分}$；修复救援不刷药，修改路程和坦克 | ⭐⭐⭐⭐ |
 | 7 | Death Toll Clam | 死亡丧钟：缄默 | $\color{red} {救援不算分}$；删除随机路线，减少绕路 | ⭐⭐⭐⭐ |
 | 8 | Devil Mountain | $\color{blue}{邪魔山岳}$ | 删去救援 | ⭐⭐⭐⭐ |
-| 9 | Fairfield Terror | 费尔菲德恐慌：毫不留情 | $\color{red} {救援不算分}$ | ⭐⭐⭐⭐ |
+| 9 | Fairfield Terror | 费尔菲德恐慌 | $\color{red} {救援不算分}$ | ⭐⭐⭐⭐ |
 | 10 | L4D2 Short | $\color{blue}{求生之路：精简}$ | 几张图的整合 | ⭐⭐⭐⭐ |
 | 11 | No Mercy APOCALYPSE | $\color{blue}{毫不留情：启示录}$ | 删去救援 | ⭐⭐⭐⭐ |
 | 12 | No Mercy Xmas | $\color{blue}{毫不留情：圣诞节}$ | 删去m1，m7和m8 | ⭐⭐⭐⭐ |
