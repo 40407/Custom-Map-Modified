@@ -69,7 +69,7 @@
 | 6 | Lock Down 2 | $\color{blue}{锁境危机2}$ | 流程过于复杂冗长 | ⭐⭐ |
 | 7 | Nova Prospekt | $\color{blue}{诺瓦矿场}$ | 没有爬行轨迹， $\color{red} {救援不算分}$；删去m3,m6 | ⭐⭐⭐ |
 | 8 | $\color{green}{One\ Four\ Nine}$ | $\color{blue}{古墓亡影}$ | 修改路程和坦克，修复zm原有bug，删除m5滤镜 | ⭐⭐⭐ |
-| 9 | Plague Tale | $\color{blue}{瘟疫传说}$ | $\color{red} {没有爬行轨迹}$ | ⭐⭐⭐ |
+| 9 | Plague Tale | $\color{blue}{瘟疫传说}$ | 没有爬行轨迹 | ⭐⭐⭐ |
 | 10 | Reverse Blood Harvest | $\color{blue}{血腥收获：逆转}$ | 删去m4 | ⭐⭐⭐ |
 | 11 | Swamp Fever Drought | 沼泽激战：旱灾 | $\color{red} {瑕疵很多}$ | ⭐⭐ |
 | 12 | The Arrival | 不速之客 | 流程过于复杂冗长，场景塑造差 | ⭐⭐ |
