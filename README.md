@@ -65,15 +65,15 @@
 | 2 | $\color{green}{Day~Break}$ | 黎明 | 修改药数量 | ⭐⭐⭐ |
 | 3 | Dead Air Redux Aw | 静寂时分：复原 | | ⭐⭐⭐ |
 | 4 | Deathcraft Ⅱ | $\color{blue}{死的世界2}$ | 删去救援，生还特感恢复原模 | ⭐⭐⭐ |
-| 5 | Dry County | $\color{blue}{风沙之郡}$ | | ⭐⭐⭐ |
-| 6 | Lock Down 2 | $\color{blue}{锁境危机2}$ | | ⭐⭐ |
-| 7 | Nova Prospekt | $\color{blue}{诺瓦矿场}$ | $\color{red} {没有爬行轨迹，救援不算分}$；删去m3,m6 | ⭐⭐⭐ |
+| 5 | Dry County | $\color{blue}{风沙之郡}$ | 没有爬行轨迹 | ⭐⭐⭐ |
+| 6 | Lock Down 2 | $\color{blue}{锁境危机2}$ | 流程过于复杂冗长 | ⭐⭐ |
+| 7 | Nova Prospekt | $\color{blue}{诺瓦矿场}$ | 没有爬行轨迹， $\color{red} {救援不算分}$；删去m3,m6 | ⭐⭐⭐ |
 | 8 | $\color{green}{One\ Four\ Nine}$ | $\color{blue}{古墓亡影}$ | 修改路程和坦克，修复zm原有bug，删除m5滤镜 | ⭐⭐⭐ |
 | 9 | Plague Tale | $\color{blue}{瘟疫传说}$ | $\color{red} {没有爬行轨迹}$ | ⭐⭐⭐ |
 | 10 | Reverse Blood Harvest | $\color{blue}{血腥收获：逆转}$ | 删去m4 | ⭐⭐⭐ |
 | 11 | Swamp Fever Drought | 沼泽激战：旱灾 | $\color{red} {瑕疵很多}$ | ⭐⭐ |
-| 12 | The Arrival | 不速之客 | | ⭐⭐ |
-| 13 | Yama | 摩耶山危机 | | ⭐ |
+| 12 | The Arrival | 不速之客 | 流程过于复杂冗长，场景塑造差 | ⭐⭐ |
+| 13 | Yama | 摩耶山危机 | 流程过于复杂冗长 | ⭐ |
 
 ## 安装指南：
 <br>①修改覆盖zm.txt仅为对zm原版mapinfo的修改参考，并非必须
