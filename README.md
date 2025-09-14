@@ -40,19 +40,19 @@
 | 1 | 4 Sided Coin | 四面硬币 | | ⭐⭐⭐⭐ |
 | 2 | Big Wat Halloween | 巨型佛寺：万圣节 | | ⭐⭐⭐⭐ |
 | 3 | Blood Harvest APOCALYPSE | $\color{blue}{血腥收获：启示录}$ | 删去救援 | ⭐⭐⭐⭐ |
-| 4 | Blood Souls | $\color{blue}{血源之魂}$ | | ⭐⭐⭐⭐ |
+| 4 | ~~Blood Souls~~ | $\color{blue}{血源之魂}$ | | ⭐⭐⭐⭐ |
 | 5 | Buenos Aires | $\color{blue}{布宜诺斯艾利斯}$ | 删去m1和救援 | ⭐⭐⭐⭐ |
 | 6 | $\color{green}{Death\ Aboard\ 2}$ | 幽冥诡舶2 | $\color{red} {救援不算分}$；修复救援不刷药，修改路程和坦克 | ⭐⭐⭐⭐ |
 | 7 | Death Toll Clam | 死亡丧钟：缄默 | $\color{red} {救援不算分}$；删除随机路线，减少绕路 | ⭐⭐⭐⭐ |
-| 8 | Devil Mountain | $\color{blue}{邪魔山岳}$ | 删去救援 | ⭐⭐⭐⭐ |
+| 8 | ~~Devil Mountain~~ | $\color{blue}{邪魔山岳}$ | 删去救援 | ⭐⭐⭐⭐ |
 | 9 | Fairfield Terror | 费尔菲德恐慌 | $\color{red} {救援不算分}$ | ⭐⭐⭐⭐ |
-| 10 | L4D2 Short | $\color{blue}{求生之路：精简}$ | 几张图的整合 | ⭐⭐⭐⭐ |
+| 10 | ~~L4D2 Short~~ | $\color{blue}{求生之路：精简}$ | 几张图的整合 | ⭐⭐⭐⭐ |
 | 11 | No Mercy APOCALYPSE | $\color{blue}{毫不留情：启示录}$ | 删去救援 | ⭐⭐⭐⭐ |
 | 12 | No Mercy Xmas | $\color{blue}{毫不留情：圣诞节}$ | 删去m1，m7和m8 | ⭐⭐⭐⭐ |
 | 13 | Pitch Dark Mesa | 黑山基地 | | ⭐⭐⭐⭐ |
 | 14 | Resident Evil 3 Short | $\color{blue}{生化危机3：精简}$ | 删除了互动脚本 | ⭐⭐⭐⭐ |
 | 15 | RMS Titanic | 泰坦尼克号 | 删除了随机路线 | ⭐⭐⭐⭐ |
-| 16 | Salthell Park | $\color{blue}{盐狱公园}$ | | ⭐⭐⭐⭐ |
+| 16 | ~~Salthell Park~~ | $\color{blue}{盐狱公园}$ | | ⭐⭐⭐⭐ |
 | 17 | $\color{green}{The\ Bloody\ Moors}$ | 血腥荒野 | 跳过m4 | ⭐⭐⭐⭐ |
 | 18 | We Don't Go To Ravenholm | 我们不去莱温霍姆 | | ⭐⭐⭐⭐ |
 | 19 | White Forest | 白森林 | 删除m2m3机关 | ⭐⭐⭐⭐ |
@@ -65,14 +65,14 @@
 | 1 | Dark Wood | 阴暗森林 | 跳过m4，缩短m2,m3,m5流程 | ⭐⭐⭐ |
 | 2 | $\color{green}{Day~Break}$ | 黎明 | 修改药数量 | ⭐⭐⭐ |
 | 3 | Dead Air Redux Aw | 静寂时分：复原 | 场景塑造差 | ⭐⭐⭐ |
-| 4 | Deathcraft Ⅱ | $\color{blue}{死的世界2}$ | 删去救援，生还特感恢复原模 | ⭐⭐⭐ |
-| 5 | Dry County | $\color{blue}{风沙之郡}$ | 没有爬行轨迹 | ⭐⭐⭐ |
-| 6 | Lock Down 2 | $\color{blue}{锁境危机2}$ | 流程过于复杂冗长 | ⭐⭐ |
-| 7 | Nova Prospekt | $\color{blue}{诺瓦矿场}$ | 没有爬行轨迹， $\color{red} {救援不算分}$；删去m3,m6 | ⭐⭐⭐ |
-| 8 | $\color{green}{One\ Four\ Nine}$ | $\color{blue}{古墓亡影}$ | 修改路程和坦克，修复zm原有bug，删除m5滤镜 | ⭐⭐⭐ |
-| 9 | Plague Tale | $\color{blue}{瘟疫传说}$ | 没有爬行轨迹 | ⭐⭐⭐ |
+| 4 | ~~Deathcraft Ⅱ~~ | $\color{blue}{死的世界2}$ | 删去救援，生还特感恢复原模 | ⭐⭐⭐ |
+| 5 | ~~Dry County~~ | $\color{blue}{风沙之郡}$ | 没有爬行轨迹 | ⭐⭐⭐ |
+| 6 | ~~Lock Down 2~~ | $\color{blue}{锁境危机2}$ | 流程过于复杂冗长 | ⭐⭐ |
+| 7 | ~~Nova Prospekt~~ | $\color{blue}{诺瓦矿场}$ | 没有爬行轨迹， $\color{red} {救援不算分}$；删去m3,m6 | ⭐⭐⭐ |
+| 8 | ~~One\ Four\ Nine~~ | $\color{blue}{古墓亡影}$ | 修改路程和坦克，修复zm原有bug，删除m5滤镜 | ⭐⭐⭐ |
+| 9 | ~~Plague Tale~~ | $\color{blue}{瘟疫传说}$ | 没有爬行轨迹 | ⭐⭐⭐ |
 | 10 | Reverse Blood Harvest | $\color{blue}{血腥收获：逆转}$ | 删去m4 | ⭐⭐⭐ |
-| 11 | Swamp Fever Drought | 沼泽激战：旱灾 | $\color{red} {瑕疵很多}$ | ⭐⭐ |
+| 11 | ~~Swamp Fever Drought~~ | 沼泽激战：旱灾 | $\color{red} {瑕疵很多}$ | ⭐⭐ |
 | 12 | The Arrival | 不速之客 | 流程过于复杂冗长，场景塑造差 | ⭐⭐ |
 | 13 | Yama | 摩耶山危机 | 流程过于复杂冗长 | ⭐ |
 
