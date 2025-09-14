@@ -1,0 +1,257 @@
+//=======================================================================
+//=============== Swamp Fever Drought 沼泽激战：旱灾
+	"c3m1_plankcountry_dry"
+	{
+		"tank_ban_flow"
+		{
+			"Before ferry (bugged spawn)"
+			{
+				"min"		"45"
+				"max"		"62"
+			}
+		}
+		"ItemLimits"
+		{
+			"pain_pills"	"0"
+		}
+	}
+	"c3m2_swamp_dry"
+	{
+		"tank_ban_flow"
+		{
+			"After plane"
+			{
+				"min"		"40"
+				"max"		"100"
+			}
+		}
+	}
+	"c3m4_plantation_dry"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+	}
+
+//=======================================================================
+//=============== Nova Prospekt 诺瓦矿场
+	"nova_first"
+	{
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"70"
+				"max"		"100"
+			}
+		}
+	}
+	"nova_fourth"
+	{
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"61"
+				"max"		"100"
+			}
+		}
+	}
+	"nova_fifth"
+	{
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"0"
+				"max"		"37"
+			}
+			"2"
+			{
+				"min"		"56"
+				"max"		"69"
+			}
+			"3"
+			{
+				"min"		"82"
+				"max"		"100"
+			}
+		}
+	}
+	"nova_seventh"
+	{
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"61"
+				"max"		"100"
+			}
+		}
+		"ItemLimits"
+		{
+			"pain_pills"	"3"
+		}
+	}
+
+//=======================================================================
+//=============== Plague Tale 瘟疫传说
+	"pt_home1"
+	{
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"60"
+				"max"		"100"
+			}
+		}
+	}
+
+//=======================================================================
+//=============== L4D2 Short 求生之路：精简
+	"short_carnival"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"	"5"
+		}
+
+	}
+	"short_toll"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"	"6"
+		}
+	}
+	"short_air"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"	"7"
+		}
+	}
+	"short_harvest"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"	"6"
+		}
+	}
+
+//=======================================================================
+//=============== Dry County 风沙之郡
+	"dry_county_1"
+	{
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"35"
+				"max"		"100"
+			}
+		}
+	}
+	"dry_county_2"
+	{
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"71"
+				"max"		"100"
+			}
+		}
+	}
+	"dry_county_3"
+	{
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"81"
+				"max"		"100"
+			}
+		}
+	}
+	"dry_county_4"
+	{
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"0"
+				"max"		"75"
+			}
+		}
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+	}
+
+//=======================================================================
+//=============== Lock Down 2 锁境危机2
+	"ld1"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"	"3"
+		}
+	}
+	"ld2"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"	"3"
+		}
+	}
+	"ld3"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"	"3"
+		}
+	}
+	"ld4"
+	{
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"40"
+				"max"		"50"
+			}
+		}
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+	}
+
+//=======================================================================
+//=============== Devil Mountain 邪魔山岳
+	"dm3_canyon"
+	{
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"45"
+				"max"		"100"
+			}
+		}
+	}
+	"dm4_caves"
+	{
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"66"
+				"max"		"100"
+			}
+		}
+	}
