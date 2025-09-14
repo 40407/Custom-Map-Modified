@@ -43,19 +43,17 @@
 | 4 | Buenos Aires | $\color{blue}{布宜诺斯艾利斯}$ | 删去m1和救援 | ⭐⭐⭐⭐ |
 | 5 | $\color{green}{Death\ Aboard\ 2}$ | 幽冥诡舶2 | $\color{red} {救援不算分}$；修复救援不刷药，修改路程和坦克 | ⭐⭐⭐⭐ |
 | 6 | Death Toll Clam | 死亡丧钟：缄默 | $\color{red} {救援不算分}$；删除随机路线，减少绕路 | ⭐⭐⭐⭐ |
-| 7 | ~~Devil Mountain~~ | $\color{blue}{邪魔山岳}$ | 删去救援 | ⭐⭐⭐⭐ |
-| 8 | Fairfield Terror | 费尔菲德恐慌 | $\color{red} {救援不算分}$ | ⭐⭐⭐⭐ |
-| 9 | No Mercy APOCALYPSE | $\color{blue}{毫不留情：启示录}$ | 删去救援 | ⭐⭐⭐⭐ |
-| 10 | No Mercy Xmas | $\color{blue}{毫不留情：圣诞节}$ | 删去m1，m7和m8 | ⭐⭐⭐⭐ |
-| 11 | Pitch Dark Mesa | 黑山基地 | | ⭐⭐⭐⭐ |
-| 12 | Resident Evil 3 Short | $\color{blue}{生化危机3：精简}$ | 删除了互动脚本 | ⭐⭐⭐⭐ |
-| 13 | RMS Titanic | 泰坦尼克号 | 删除了随机路线 | ⭐⭐⭐⭐ |
-| 14 | ~~Salthell Park~~ | $\color{blue}{盐狱公园}$ | | ⭐⭐⭐⭐ |
-| 15 | $\color{green}{The\ Bloody\ Moors}$ | 血腥荒野 | 跳过m4 | ⭐⭐⭐⭐ |
-| 16 | We Don't Go To Ravenholm | 我们不去莱温霍姆 | | ⭐⭐⭐⭐ |
-| 17 | White Forest | 白森林 | 删除m2m3机关 | ⭐⭐⭐⭐ |
-| 18 | $\color{green}{Fire\ Tower\ Trail}$ | 消防瞭望塔 | $\color{red} {m5半成品}$ | ⭐⭐⭐⭐ |
-| 19 | Dark Wood | 阴暗森林 | m1删除尸潮，跳过m4，缩短m2,m3,m5流程 | ⭐⭐⭐⭐ |
+| 7 | Fairfield Terror | 费尔菲德恐慌 | $\color{red} {救援不算分}$ | ⭐⭐⭐⭐ |
+| 8 | No Mercy APOCALYPSE | $\color{blue}{毫不留情：启示录}$ | 删去救援 | ⭐⭐⭐⭐ |
+| 9 | No Mercy Xmas | $\color{blue}{毫不留情：圣诞节}$ | 删去m1，m7和m8 | ⭐⭐⭐⭐ |
+| 10 | Pitch Dark Mesa | 黑山基地 | | ⭐⭐⭐⭐ |
+| 11 | Resident Evil 3 Short | $\color{blue}{生化危机3：精简}$ | 删除了互动脚本 | ⭐⭐⭐⭐ |
+| 12 | RMS Titanic | 泰坦尼克号 | 删除了随机路线 | ⭐⭐⭐⭐ |
+| 13 | $\color{green}{The\ Bloody\ Moors}$ | 血腥荒野 | 跳过m4 | ⭐⭐⭐⭐ |
+| 14 | We Don't Go To Ravenholm | 我们不去莱温霍姆 | | ⭐⭐⭐⭐ |
+| 15 | White Forest | 白森林 | 删除m2m3机关 | ⭐⭐⭐⭐ |
+| 16 | $\color{green}{Fire\ Tower\ Trail}$ | 消防瞭望塔 | $\color{red} {m5半成品}$ | ⭐⭐⭐⭐ |
+| 17 | Dark Wood | 阴暗森林 | m1删除尸潮，跳过m4，缩短m2,m3,m5流程 | ⭐⭐⭐⭐ |
 
 ## 3星以下推荐指数表格（⭐⭐⭐及以下）
 
@@ -75,6 +73,8 @@
 | 12 | Yama | 摩耶山危机 | 流程过于复杂冗长 | ⭐ |
 | 13 | ~~L4D2 Short~~ | $\color{blue}{求生之路：精简}$ | 几张图的整合 | ⭐⭐ |
 | 14 | ~~Blood Souls~~ | $\color{blue}{血源之魂}$ | | ⭐⭐⭐ |
+| 15 | ~~Devil Mountain~~ | $\color{blue}{邪魔山岳}$ | 删去救援 | ⭐⭐⭐ |
+| 16 | ~~Salthell Park~~ | $\color{blue}{盐狱公园}$ | | ⭐⭐⭐ |
 
 ## 安装指南：
 <br>①修改覆盖zm.txt仅为对zm原版mapinfo的修改参考，并非必须
