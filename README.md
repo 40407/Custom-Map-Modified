@@ -55,7 +55,7 @@
 | 16 | We Don't Go To Ravenholm | 我们不去莱温霍姆 | | ⭐⭐⭐⭐ |
 | 17 | White Forest | 白森林 | 删除m2m3机关 | ⭐⭐⭐⭐ |
 | 18 | $\color{green}{Fire\ Tower\ Trail}$ | 消防瞭望塔 | $\color{red} {m5半成品}$ | ⭐⭐⭐⭐ |
-| 19 | Dark Wood | 阴暗森林 | m1删除尸潮，跳过m4，缩短m2,m3,m5流程 | ⭐⭐⭐ |
+| 19 | Dark Wood | 阴暗森林 | m1删除尸潮，跳过m4，缩短m2,m3,m5流程 | ⭐⭐⭐⭐ |
 
 ## 3星以下推荐指数表格（⭐⭐⭐及以下）
 
@@ -74,7 +74,7 @@
 | 11 | The Arrival | 不速之客 | 流程过于复杂冗长，场景塑造差 | ⭐ |
 | 12 | Yama | 摩耶山危机 | 流程过于复杂冗长 | ⭐ |
 | 13 | ~~L4D2 Short~~ | $\color{blue}{求生之路：精简}$ | 几张图的整合 | ⭐⭐ |
-| 14 | ~~Blood Souls~~ | $\color{blue}{血源之魂}$ | | ⭐⭐⭐⭐ |
+| 14 | ~~Blood Souls~~ | $\color{blue}{血源之魂}$ | | ⭐⭐⭐ |
 
 ## 安装指南：
 <br>①修改覆盖zm.txt仅为对zm原版mapinfo的修改参考，并非必须
