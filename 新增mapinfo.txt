@@ -1179,6 +1179,7 @@
 	}
 	"dw_final"
 	{
+		"max_distance"		"600"
 		"tank_ban_flow"
 		{
 			"1"
@@ -1574,3 +1575,4 @@
 			"pain_pills"	"4"
 		}
 	}
+
