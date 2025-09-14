@@ -40,41 +40,41 @@
 | 1 | 4 Sided Coin | 四面硬币 | | ⭐⭐⭐⭐ |
 | 2 | Big Wat Halloween | 巨型佛寺：万圣节 | | ⭐⭐⭐⭐ |
 | 3 | Blood Harvest APOCALYPSE | $\color{blue}{血腥收获：启示录}$ | 删去救援 | ⭐⭐⭐⭐ |
-| 4 | ~~Blood Souls~~ | $\color{blue}{血源之魂}$ | | ⭐⭐⭐⭐ |
-| 5 | Buenos Aires | $\color{blue}{布宜诺斯艾利斯}$ | 删去m1和救援 | ⭐⭐⭐⭐ |
-| 6 | $\color{green}{Death\ Aboard\ 2}$ | 幽冥诡舶2 | $\color{red} {救援不算分}$；修复救援不刷药，修改路程和坦克 | ⭐⭐⭐⭐ |
-| 7 | Death Toll Clam | 死亡丧钟：缄默 | $\color{red} {救援不算分}$；删除随机路线，减少绕路 | ⭐⭐⭐⭐ |
-| 8 | ~~Devil Mountain~~ | $\color{blue}{邪魔山岳}$ | 删去救援 | ⭐⭐⭐⭐ |
-| 9 | Fairfield Terror | 费尔菲德恐慌 | $\color{red} {救援不算分}$ | ⭐⭐⭐⭐ |
-| 10 | ~~L4D2 Short~~ | $\color{blue}{求生之路：精简}$ | 几张图的整合 | ⭐⭐⭐⭐ |
-| 11 | No Mercy APOCALYPSE | $\color{blue}{毫不留情：启示录}$ | 删去救援 | ⭐⭐⭐⭐ |
-| 12 | No Mercy Xmas | $\color{blue}{毫不留情：圣诞节}$ | 删去m1，m7和m8 | ⭐⭐⭐⭐ |
-| 13 | Pitch Dark Mesa | 黑山基地 | | ⭐⭐⭐⭐ |
-| 14 | Resident Evil 3 Short | $\color{blue}{生化危机3：精简}$ | 删除了互动脚本 | ⭐⭐⭐⭐ |
-| 15 | RMS Titanic | 泰坦尼克号 | 删除了随机路线 | ⭐⭐⭐⭐ |
-| 16 | ~~Salthell Park~~ | $\color{blue}{盐狱公园}$ | | ⭐⭐⭐⭐ |
-| 17 | $\color{green}{The\ Bloody\ Moors}$ | 血腥荒野 | 跳过m4 | ⭐⭐⭐⭐ |
-| 18 | We Don't Go To Ravenholm | 我们不去莱温霍姆 | | ⭐⭐⭐⭐ |
-| 19 | White Forest | 白森林 | 删除m2m3机关 | ⭐⭐⭐⭐ |
-| 20 | $\color{green}{Fire\ Tower\ Trail}$ | 消防瞭望塔 | $\color{red} {m5半成品}$ | ⭐⭐⭐⭐ |
+| 4 | Buenos Aires | $\color{blue}{布宜诺斯艾利斯}$ | 删去m1和救援 | ⭐⭐⭐⭐ |
+| 5 | $\color{green}{Death\ Aboard\ 2}$ | 幽冥诡舶2 | $\color{red} {救援不算分}$；修复救援不刷药，修改路程和坦克 | ⭐⭐⭐⭐ |
+| 6 | Death Toll Clam | 死亡丧钟：缄默 | $\color{red} {救援不算分}$；删除随机路线，减少绕路 | ⭐⭐⭐⭐ |
+| 7 | ~~Devil Mountain~~ | $\color{blue}{邪魔山岳}$ | 删去救援 | ⭐⭐⭐⭐ |
+| 8 | Fairfield Terror | 费尔菲德恐慌 | $\color{red} {救援不算分}$ | ⭐⭐⭐⭐ |
+| 9 | No Mercy APOCALYPSE | $\color{blue}{毫不留情：启示录}$ | 删去救援 | ⭐⭐⭐⭐ |
+| 10 | No Mercy Xmas | $\color{blue}{毫不留情：圣诞节}$ | 删去m1，m7和m8 | ⭐⭐⭐⭐ |
+| 11 | Pitch Dark Mesa | 黑山基地 | | ⭐⭐⭐⭐ |
+| 12 | Resident Evil 3 Short | $\color{blue}{生化危机3：精简}$ | 删除了互动脚本 | ⭐⭐⭐⭐ |
+| 13 | RMS Titanic | 泰坦尼克号 | 删除了随机路线 | ⭐⭐⭐⭐ |
+| 14 | ~~Salthell Park~~ | $\color{blue}{盐狱公园}$ | | ⭐⭐⭐⭐ |
+| 15 | $\color{green}{The\ Bloody\ Moors}$ | 血腥荒野 | 跳过m4 | ⭐⭐⭐⭐ |
+| 16 | We Don't Go To Ravenholm | 我们不去莱温霍姆 | | ⭐⭐⭐⭐ |
+| 17 | White Forest | 白森林 | 删除m2m3机关 | ⭐⭐⭐⭐ |
+| 18 | $\color{green}{Fire\ Tower\ Trail}$ | 消防瞭望塔 | $\color{red} {m5半成品}$ | ⭐⭐⭐⭐ |
+| 19 | Dark Wood | 阴暗森林 | m1删除尸潮，跳过m4，缩短m2,m3,m5流程 | ⭐⭐⭐ |
 
 ## 3星以下推荐指数表格（⭐⭐⭐及以下）
 
 | 序号 | 英文名称<br>$\color{green}{绿色为zm基础上修改}$ | 中文翻译<br>$\color{blue}{蓝色为改动了vpk}$ | 备注<br>$\color{red} {红色为未解决bug}$ | 推荐指数 |
 |------|-----------------------------------------------------|-------------------------------------------|-----------------------------------------------------------|----------------|
-| 1 | Dark Wood | 阴暗森林 | 跳过m4，缩短m2,m3,m5流程 | ⭐⭐⭐ |
-| 2 | $\color{green}{Day~Break}$ | 黎明 | 修改药数量 | ⭐⭐⭐ |
-| 3 | Dead Air Redux Aw | 静寂时分：复原 | 场景塑造差 | ⭐⭐⭐ |
-| 4 | ~~Deathcraft Ⅱ~~ | $\color{blue}{死的世界2}$ | 删去救援，生还特感恢复原模 | ⭐⭐⭐ |
-| 5 | ~~Dry County~~ | $\color{blue}{风沙之郡}$ | 没有爬行轨迹 | ⭐⭐⭐ |
-| 6 | ~~Lock Down 2~~ | $\color{blue}{锁境危机2}$ | 流程过于复杂冗长 | ⭐⭐ |
-| 7 | ~~Nova Prospekt~~ | $\color{blue}{诺瓦矿场}$ | 没有爬行轨迹， $\color{red} {救援不算分}$；删去m3,m6 | ⭐⭐⭐ |
-| 8 | ~~One Four Nine~~ | $\color{blue}{古墓亡影}$ | 修改路程和坦克，修复zm原有bug，删除m5滤镜 | ⭐⭐⭐ |
-| 9 | ~~Plague Tale~~ | $\color{blue}{瘟疫传说}$ | 没有爬行轨迹 | ⭐⭐⭐ |
-| 10 | Reverse Blood Harvest | $\color{blue}{血腥收获：逆转}$ | 删去m4 | ⭐⭐⭐ |
-| 11 | ~~Swamp Fever Drought~~ | 沼泽激战：旱灾 | $\color{red} {瑕疵很多}$ | ⭐⭐ |
-| 12 | The Arrival | 不速之客 | 流程过于复杂冗长，场景塑造差 | ⭐⭐ |
-| 13 | Yama | 摩耶山危机 | 流程过于复杂冗长 | ⭐ |
+| 1 | $\color{green}{Day~Break}$ | 黎明 | 修改药数量 | ⭐⭐⭐ |
+| 2 | Dead Air Redux Aw | 静寂时分：复原 | 场景塑造差 | ⭐⭐⭐ |
+| 3 | ~~Deathcraft Ⅱ~~ | $\color{blue}{死的世界2}$ | 删去救援，生还特感恢复原模 | ⭐⭐⭐ |
+| 4 | ~~Dry County~~ | $\color{blue}{风沙之郡}$ | 没有爬行轨迹 | ⭐⭐⭐ |
+| 5 | ~~Lock Down 2~~ | $\color{blue}{锁境危机2}$ | 流程过于复杂冗长 | ⭐⭐ |
+| 6 | ~~Nova Prospekt~~ | $\color{blue}{诺瓦矿场}$ | 没有爬行轨迹， $\color{red} {救援不算分}$；删去m3,m6 | ⭐⭐⭐ |
+| 7 | ~~One Four Nine~~ | $\color{blue}{古墓亡影}$ | 修改路程和坦克，修复zm原有bug，删除m5滤镜 | ⭐⭐⭐ |
+| 8 | ~~Plague Tale~~ | $\color{blue}{瘟疫传说}$ | 没有爬行轨迹 | ⭐⭐⭐ |
+| 9 | Reverse Blood Harvest | $\color{blue}{血腥收获：逆转}$ | 删去m4 | ⭐⭐⭐ |
+| 10 | ~~Swamp Fever Drought~~ | 沼泽激战：旱灾 | $\color{red} {瑕疵很多}$ | ⭐ |
+| 11 | The Arrival | 不速之客 | 流程过于复杂冗长，场景塑造差 | ⭐ |
+| 12 | Yama | 摩耶山危机 | 流程过于复杂冗长 | ⭐ |
+| 13 | ~~L4D2 Short~~ | $\color{blue}{求生之路：精简}$ | 几张图的整合 | ⭐⭐ |
+| 14 | ~~Blood Souls~~ | $\color{blue}{血源之魂}$ | | ⭐⭐⭐⭐ |
 
 ## 安装指南：
 <br>①修改覆盖zm.txt仅为对zm原版mapinfo的修改参考，并非必须
