@@ -153,42 +153,6 @@
 	}
 
 //=======================================================================
-//=============== Swamp Fever Drought 沼泽激战：旱灾
-	"c3m1_plankcountry_dry"
-	{
-		"tank_ban_flow"
-		{
-			"Before ferry (bugged spawn)"
-			{
-				"min"		"45"
-				"max"		"62"
-			}
-		}
-		"ItemLimits"
-		{
-			"pain_pills"	"0"
-		}
-	}
-	"c3m2_swamp_dry"
-	{
-		"tank_ban_flow"
-		{
-			"After plane"
-			{
-				"min"		"40"
-				"max"		"100"
-			}
-		}
-	}
-	"c3m4_plantation_dry"
-	{
-		"ItemLimits"
-		{
-			"pain_pills"	"4"
-		}
-	}
-
-//=======================================================================
 //=============== The Happyfice 笑逝牺牲
 	"c7m3_happy"
 	{
@@ -779,86 +743,6 @@
 }
 
 //=======================================================================
-//=============== Nova Prospekt 诺瓦矿场
-	"nova_first"
-	{
-		"tank_ban_flow"
-		{
-			"1"
-			{
-				"min"		"70"
-				"max"		"100"
-			}
-		}
-	}
-	"nova_fourth"
-	{
-		"tank_ban_flow"
-		{
-			"1"
-			{
-				"min"		"61"
-				"max"		"100"
-			}
-		}
-	}
-	"nova_fifth"
-	{
-		"tank_ban_flow"
-		{
-			"1"
-			{
-				"min"		"0"
-				"max"		"37"
-			}
-			"2"
-			{
-				"min"		"56"
-				"max"		"69"
-			}
-			"3"
-			{
-				"min"		"82"
-				"max"		"100"
-			}
-		}
-	}
-	"nova_seventh"
-	{
-		"tank_ban_flow"
-		{
-			"1"
-			{
-				"min"		"61"
-				"max"		"100"
-			}
-		}
-		"ItemLimits"
-		{
-			"pain_pills"	"3"
-		}
-	}
-
-//=======================================================================
-//=============== Roadkill 公路杀手
-	"grmap1"
-	{
-		"max_distance"		"300"
-		"ItemLimits"
-		{
-			"pain_pills"	"0"
-		}
-	}
-	"gridmap2"
-	{
-		"max_distance"		"400"
-	}
-	"gridmap3"
-	{
-		"max_distance"		"500"
-	}
-
-//=======================================================================
 //=============== de_port 运输港口
 	"csport_c1freightterminal"
 	{
@@ -882,20 +766,6 @@
 		"ItemLimits"
 		{
 			"pain_pills"	"0"
-		}
-	}
-
-//=======================================================================
-//=============== Plague Tale 瘟疫传说
-	"pt_home1"
-	{
-		"tank_ban_flow"
-		{
-			"1"
-			{
-				"min"		"60"
-				"max"		"100"
-			}
 		}
 	}
 
@@ -952,38 +822,6 @@
 	}
 
 //=======================================================================
-//=============== L4D2 Short 求生之路：精简
-	"short_carnival"
-	{
-		"ItemLimits"
-		{
-			"pain_pills"	"5"
-		}
-
-	}
-	"short_toll"
-	{
-		"ItemLimits"
-		{
-			"pain_pills"	"6"
-		}
-	}
-	"short_air"
-	{
-		"ItemLimits"
-		{
-			"pain_pills"	"7"
-		}
-	}
-	"short_harvest"
-	{
-		"ItemLimits"
-		{
-			"pain_pills"	"6"
-		}
-	}
-
-//=======================================================================
 //=============== Reverse Blood Harvest 血腥收获：逆转
 	"l4d_farm01_hilltop_rev"
 	{
@@ -1019,7 +857,7 @@
 	}
 
 //=======================================================================
-//=============== Fairfield Terror 费尔菲尔德恐慌：毫不留情
+//=============== Fairfield Terror 费尔菲德恐慌
 	"ft_m1_apartments_08_a"
 	{
 		"max_distance"		"320"
@@ -1087,57 +925,6 @@
 	}
 
 //=======================================================================
-//=============== Dry County 风沙之郡
-	"dry_county_1"
-	{
-		"tank_ban_flow"
-		{
-			"1"
-			{
-				"min"		"35"
-				"max"		"100"
-			}
-		}
-	}
-	"dry_county_2"
-	{
-		"tank_ban_flow"
-		{
-			"1"
-			{
-				"min"		"71"
-				"max"		"100"
-			}
-		}
-	}
-	"dry_county_3"
-	{
-		"tank_ban_flow"
-		{
-			"1"
-			{
-				"min"		"81"
-				"max"		"100"
-			}
-		}
-	}
-	"dry_county_4"
-	{
-		"tank_ban_flow"
-		{
-			"1"
-			{
-				"min"		"0"
-				"max"		"75"
-			}
-		}
-		"ItemLimits"
-		{
-			"pain_pills"	"4"
-		}
-	}
-
-//=======================================================================
 //=============== Dark Wood 阴暗森林
 	"dw_woods"
 	{
@@ -1187,45 +974,6 @@
 				"min"		"0"
 				"max"		"40"
 			}
-		}
-	}
-
-//=======================================================================
-//=============== Lock Down 2 锁境危机2
-	"ld1"
-	{
-		"ItemLimits"
-		{
-			"pain_pills"	"3"
-		}
-	}
-	"ld2"
-	{
-		"ItemLimits"
-		{
-			"pain_pills"	"3"
-		}
-	}
-	"ld3"
-	{
-		"ItemLimits"
-		{
-			"pain_pills"	"3"
-		}
-	}
-	"ld4"
-	{
-		"tank_ban_flow"
-		{
-			"1"
-			{
-				"min"		"40"
-				"max"		"50"
-			}
-		}
-		"ItemLimits"
-		{
-			"pain_pills"	"4"
 		}
 	}
 
@@ -1328,31 +1076,6 @@
 		"ItemLimits"
 		{
 			"pain_pills"	"4"
-		}
-	}
-
-//=======================================================================
-//=============== Devil Mountain 邪魔山岳
-	"dm3_canyon"
-	{
-		"tank_ban_flow"
-		{
-			"1"
-			{
-				"min"		"45"
-				"max"		"100"
-			}
-		}
-	}
-	"dm4_caves"
-	{
-		"tank_ban_flow"
-		{
-			"1"
-			{
-				"min"		"66"
-				"max"		"100"
-			}
 		}
 	}
 
@@ -1575,4 +1298,5 @@
 			"pain_pills"	"4"
 		}
 	}
+
 
