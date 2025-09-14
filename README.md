@@ -85,5 +85,5 @@
 <br>③新增mapinfo的内容要复制到cfg\cfgogl\zonemod\mapinfo.txt，不能直接覆盖
 <br>④maps里的cfg直接加到Left 4 Dead 2\left4dead2\cfg\stripper\zonemod\maps里
 <br>⑤vscripts里的nut直接加到Left 4 Dead 2\left4dead2\scripts\vscripts里
-根据要求，将原表格按照推荐指数分为三个表格：5星、4星和三星以下。每个表格按英文名称首字母排序，并重新赋予序号。保留原表格中的颜色标记和备注。
+<br>⑥abandon里的文件为废弃项目
 ### ZoneMod竞技配置框架是必要的: https://github.com/SirPlease/L4D2-Competitive-Rework/
