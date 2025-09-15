@@ -41,20 +41,19 @@
 | 1 | 4 Sided Coin | 四面硬币 | | ⭐⭐⭐⭐ |
 | 2 | Big Wat Halloween | 巨型佛寺：万圣节 | | ⭐⭐⭐⭐ |
 | 3 | Blood Harvest APOCALYPSE | $\color{blue}{血腥收获：启示录}$ | 删去救援 | ⭐⭐⭐⭐ |
-| 4 | Buenos Aires | $\color{blue}{布宜诺斯艾利斯}$ | 删去m1和救援 | ⭐⭐⭐⭐ |
-| 5 | $\color{green}{Death\ Aboard\ 2}$ | 幽冥诡舶2 | $\color{red} {救援不算分}$；修复救援不刷药，修改路程和坦克 | ⭐⭐⭐⭐ |
-| 6 | Death Toll Clam | 死亡丧钟：缄默 | $\color{red} {救援不算分}$；删除随机路线，减少绕路 | ⭐⭐⭐⭐ |
-| 7 | Fairfield Terror | 费尔菲德恐慌 | $\color{red} {救援不算分}$ | ⭐⭐⭐⭐ |
-| 8 | No Mercy APOCALYPSE | $\color{blue}{毫不留情：启示录}$ | 删去救援 | ⭐⭐⭐⭐ |
-| 9 | No Mercy Xmas | $\color{blue}{毫不留情：圣诞节}$ | 删去m1，m7和m8 | ⭐⭐⭐⭐ |
-| 10 | Pitch Dark Mesa | 黑山基地 | | ⭐⭐⭐⭐ |
-| 11 | Resident Evil 3 Short | 生化危机3：精简 | | ⭐⭐⭐⭐ |
-| 12 | RMS Titanic | 泰坦尼克号 | 删除了随机路线和所有机关 | ⭐⭐⭐⭐ |
-| 13 | $\color{green}{The\ Bloody\ Moors}$ | 血腥荒野 | 跳过m4 | ⭐⭐⭐⭐ |
-| 14 | We Don't Go To Ravenholm | 我们不去莱温霍姆 | | ⭐⭐⭐⭐ |
-| 15 | White Forest | 白森林 | 删除m2m3机关 | ⭐⭐⭐⭐ |
-| 16 | $\color{green}{Fire\ Tower\ Trail}$ | 消防瞭望塔 | $\color{red} {m5半成品}$ | ⭐⭐⭐⭐ |
-| 17 | Dark Wood | 阴暗森林 | m1删除尸潮，跳过m4，缩短m2,m3,m5流程 | ⭐⭐⭐⭐ |
+| 4 | $\color{green}{Death\ Aboard\ 2}$ | 幽冥诡舶2 | $\color{red} {救援不算分}$；修复救援不刷药，修改路程和坦克 | ⭐⭐⭐⭐ |
+| 5 | Death Toll Clam | 死亡丧钟：缄默 | $\color{red} {救援不算分}$；删除随机路线，减少绕路 | ⭐⭐⭐⭐ |
+| 6 | Fairfield Terror | 费尔菲德恐慌 | $\color{red} {救援不算分}$ | ⭐⭐⭐⭐ |
+| 7 | No Mercy APOCALYPSE | $\color{blue}{毫不留情：启示录}$ | 删去救援 | ⭐⭐⭐⭐ |
+| 8 | No Mercy Xmas | $\color{blue}{毫不留情：圣诞节}$ | 删去m1，m7和m8 | ⭐⭐⭐⭐ |
+| 9 | Pitch Dark Mesa | 黑山基地 | | ⭐⭐⭐⭐ |
+| 10 | Resident Evil 3 Short | 生化危机3：精简 | | ⭐⭐⭐⭐ |
+| 11 | RMS Titanic | 泰坦尼克号 | 删除了随机路线和所有机关 | ⭐⭐⭐⭐ |
+| 12 | $\color{green}{The\ Bloody\ Moors}$ | 血腥荒野 | 跳过m4 | ⭐⭐⭐⭐ |
+| 13 | We Don't Go To Ravenholm | 我们不去莱温霍姆 | | ⭐⭐⭐⭐ |
+| 14 | White Forest | 白森林 | 删除m2m3机关 | ⭐⭐⭐⭐ |
+| 15 | $\color{green}{Fire\ Tower\ Trail}$ | 消防瞭望塔 | $\color{red} {m5半成品}$ | ⭐⭐⭐⭐ |
+| 16 | Dark Wood | 阴暗森林 | m1删除尸潮，跳过m4，缩短m2,m3,m5流程 | ⭐⭐⭐⭐ |
 
 ## 3星以下推荐指数表格（⭐⭐⭐及以下）
 
@@ -76,6 +75,7 @@
 | 14 | ~~Blood Souls~~ | $\color{blue}{血源之魂}$ | | ⭐⭐⭐ |
 | 15 | ~~Devil Mountain~~ | $\color{blue}{邪魔山岳}$ | 删去救援 | ⭐⭐⭐ |
 | 16 | ~~Salthell Park~~ | $\color{blue}{盐狱公园}$ | | ⭐⭐⭐ |
+| 17 | ~~Buenos Aires~~ | $\color{blue}{布宜诺斯艾利斯}$ | 删去m1和救援 | ⭐⭐⭐ |
 
 ## 安装指南：
 <br>①修改覆盖zm.txt仅为对zm原版mapinfo的修改参考，并非必须
