@@ -48,7 +48,7 @@
 | 8 | No Mercy APOCALYPSE | $\color{blue}{毫不留情：启示录}$ | 删去救援 | ⭐⭐⭐⭐ |
 | 9 | No Mercy Xmas | $\color{blue}{毫不留情：圣诞节}$ | 删去m1，m7和m8 | ⭐⭐⭐⭐ |
 | 10 | Pitch Dark Mesa | 黑山基地 | | ⭐⭐⭐⭐ |
-| 11 | Resident Evil 3 Short | $\color{blue}{生化危机3：精简}$ | 删除了互动脚本 | ⭐⭐⭐⭐ |
+| 11 | Resident Evil 3 Short | 生化危机3：精简 | | ⭐⭐⭐⭐ |
 | 12 | RMS Titanic | 泰坦尼克号 | 删除了随机路线和所有机关 | ⭐⭐⭐⭐ |
 | 13 | $\color{green}{The\ Bloody\ Moors}$ | 血腥荒野 | 跳过m4 | ⭐⭐⭐⭐ |
 | 14 | We Don't Go To Ravenholm | 我们不去莱温霍姆 | | ⭐⭐⭐⭐ |
