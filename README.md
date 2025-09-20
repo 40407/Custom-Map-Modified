@@ -54,6 +54,7 @@
 | 14 | White Forest | 白森林 | 删除m2m3机关 | ⭐⭐⭐⭐ |
 | 15 | $\color{green}{Fire\ Tower\ Trail}$ | 消防瞭望塔 | $\color{red} {m5半成品}$ | ⭐⭐⭐⭐ |
 | 16 | Dark Wood | 阴暗森林 | m1删除尸潮，跳过m4，缩短m2,m3,m5流程 | ⭐⭐⭐⭐ |
+| 17 | Downtown Dine | 都市饕客 |  | ⭐⭐⭐⭐ |
 
 ## 3星以下推荐指数表格（⭐⭐⭐及以下）
 
