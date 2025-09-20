@@ -1241,3 +1241,24 @@
 		}
 	}
 
+//=======================================================================
+//=============== Downtown Dine 都市饕客
+	"l4d2_downtowndine01"
+	{
+		"max_distance"		"700"
+	}
+	"l4d2_downtowndine04"
+	{
+		"max_distance"		"800"
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+	}
+	"l4d2_downtowndine05"
+	{
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+	}
