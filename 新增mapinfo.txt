@@ -1262,3 +1262,30 @@
 			"pain_pills"	"4"
 		}
 	}
+
+//=======================================================================
+//=============== Red Tide 绯潮暗涌​
+	"redtide_01_alleyways"
+	{
+		"max_distance"		"500"
+	}
+	"redtide_02_condo"
+	{
+		"max_distance"		"600"
+	}
+	"redtide_03_carshow"
+	{
+		"max_distance"		"700"
+	}
+	"redtide_04_retirementhome"
+	{
+		"max_distance"		"600"
+	}
+	"redtide_05_beachfront"
+	{
+		"max_distance"		"800"
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+	}
