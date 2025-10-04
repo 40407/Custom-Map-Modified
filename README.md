@@ -61,7 +61,7 @@
 | 6 | ~~Nova Prospekt~~ | $\color{blue}{诺瓦矿场}$ | 没有爬行轨迹， $\color{red} {救援不算分}$；删去m3,m6 | ⭐⭐⭐ |
 | 7 | ~~One Four Nine~~ | $\color{blue}{古墓亡影}$ | 修改路程和坦克，修复zm原有bug，删除m5滤镜 | ⭐⭐⭐ |
 | 8 | ~~Plague Tale~~ | $\color{blue}{瘟疫传说}$ | 没有爬行轨迹 | ⭐⭐⭐ |
-| 9 | Reverse Blood Harvest | $\color{blue}{血腥收获：逆转}$ | 删去m4 | ⭐⭐⭐ |
+| 9 | ~~Reverse Blood Harvest~~ | $\color{blue}{血腥收获：逆转}$ | 删去m4 | ⭐⭐⭐ |
 | 10 | ~~Swamp Fever Drought~~ | 沼泽激战：旱灾 | $\color{red} {瑕疵很多}$ | ⭐ |
 | 11 | The Arrival | 不速之客 | 流程过于复杂冗长，场景塑造差 | ⭐ |
 | 12 | Yama | 摩耶山危机 | 流程过于复杂冗长 | ⭐ |
@@ -75,9 +75,9 @@
 | 20 | $\color{green}{Fire\ Tower\ Trail}$ | 消防瞭望塔 | $\color{red} {m5半成品}$ | ⭐⭐⭐ |
 | 21 | Pitch Dark Mesa | 黑山基地 | | ⭐⭐⭐ |
 | 22 | Resident Evil 3 Short | 生化危机3：精简 | | ⭐⭐⭐ |
-| 23 | Blood Harvest APOCALYPSE | $\color{blue}{血腥收获：启示录}$ | 删去救援 | ⭐⭐⭐ |
-| 24 | No Mercy APOCALYPSE | $\color{blue}{毫不留情：启示录}$ | 删去救援 | ⭐⭐⭐ |
-| 25 | No Mercy Xmas | $\color{blue}{毫不留情：圣诞节}$ | 删去m1，m7和m8 | ⭐⭐⭐ |
+| 23 | ~~Blood Harvest APOCALYPSE~~ | $\color{blue}{血腥收获：启示录}$ | 删去救援 | ⭐⭐⭐ |
+| 24 | ~~No Mercy APOCALYPSE~~ | $\color{blue}{毫不留情：启示录}$ | 删去救援 | ⭐⭐⭐ |
+| 25 | ~~No Mercy Xmas~~ | $\color{blue}{毫不留情：圣诞节}$ | 删去m1，m7和m8 | ⭐⭐⭐ |
 
 ## 安装指南：
 <br>①修改覆盖zm.txt仅为对zm原版mapinfo的修改参考，并非必须
