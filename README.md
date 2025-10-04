@@ -45,9 +45,9 @@
 | 7 | We Don't Go To Ravenholm | 我们不去莱温霍姆 | | ⭐⭐⭐⭐ |
 | 8 | White Forest | 白森林 | 删除m2m3机关 | ⭐⭐⭐⭐ |
 | 9 | Downtown Dine | 都市饕客 |  | ⭐⭐⭐⭐ |
-| 10 | $\color{green}{Dark\ Blood\ 2}$ | 深渊暗血​​2 | 修复zm原有bug | ⭐⭐⭐⭐⭐ |
-| 11 | Precinct 84 (2018 Edition) | $\color{blue}{84辖区：2018}$ | | ⭐⭐⭐⭐⭐ |
-| 12 | Dead Center Xmas | 死亡中心：圣诞节 | | ⭐⭐⭐⭐⭐ |
+| 10 | $\color{green}{Dark\ Blood\ 2}$ | 深渊暗血​​2 | 修复zm原有bug | ⭐⭐⭐⭐ |
+| 11 | Precinct 84 (2018 Edition) | $\color{blue}{84辖区：2018}$ | | ⭐⭐⭐⭐ |
+| 12 | Dead Center Xmas | 死亡中心：圣诞节 | | ⭐⭐⭐⭐ |
 
 ## 3星以下推荐指数表格（⭐⭐⭐及以下）
 
@@ -73,11 +73,11 @@
 | 18 | Dark Wood | 阴暗森林 | m1删除尸潮，跳过m4，缩短m2,m3,m5流程 | ⭐⭐⭐ |
 | 19 | Death Toll Clam | 死亡丧钟：缄默 | $\color{red} {救援不算分}$；删除随机路线，减少绕路 | ⭐⭐⭐ |
 | 20 | $\color{green}{Fire\ Tower\ Trail}$ | 消防瞭望塔 | $\color{red} {m5半成品}$ | ⭐⭐⭐ |
-| 21 | Pitch Dark Mesa | 黑山基地 | | ⭐⭐⭐⭐ |
-| 22 | Resident Evil 3 Short | 生化危机3：精简 | | ⭐⭐⭐⭐ |
-| 23 | Blood Harvest APOCALYPSE | $\color{blue}{血腥收获：启示录}$ | 删去救援 | ⭐⭐⭐⭐ |
-| 24 | No Mercy APOCALYPSE | $\color{blue}{毫不留情：启示录}$ | 删去救援 | ⭐⭐⭐⭐ |
-| 25 | No Mercy Xmas | $\color{blue}{毫不留情：圣诞节}$ | 删去m1，m7和m8 | ⭐⭐⭐⭐ |
+| 21 | Pitch Dark Mesa | 黑山基地 | | ⭐⭐⭐ |
+| 22 | Resident Evil 3 Short | 生化危机3：精简 | | ⭐⭐⭐ |
+| 23 | Blood Harvest APOCALYPSE | $\color{blue}{血腥收获：启示录}$ | 删去救援 | ⭐⭐⭐ |
+| 24 | No Mercy APOCALYPSE | $\color{blue}{毫不留情：启示录}$ | 删去救援 | ⭐⭐⭐ |
+| 25 | No Mercy Xmas | $\color{blue}{毫不留情：圣诞节}$ | 删去m1，m7和m8 | ⭐⭐⭐ |
 
 ## 安装指南：
 <br>①修改覆盖zm.txt仅为对zm原版mapinfo的修改参考，并非必须
