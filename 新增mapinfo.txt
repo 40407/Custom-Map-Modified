@@ -189,6 +189,7 @@
 	}
 	"c7m5_happy"
 	{
+		"max_distance"		"800"
 		"tank_ban_flow"
 		{
 			"1"
@@ -1217,4 +1218,5 @@
 			"pain_pills"	"4"
 		}
 	}
+
 
