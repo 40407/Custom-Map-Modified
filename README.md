@@ -13,27 +13,24 @@
 | 6 | $\color{green}{Dam\ it\ 2!\ The\ Director's\ Cut}$ | 大坝2：导演剪辑版 | 修复zm原有bug | ⭐⭐⭐⭐⭐ |
 | 7 | de_port | $\color{blue}{运输港口}$ | m3接de_prodigy的m1 | ⭐⭐⭐⭐⭐ |
 | 8 | de_prodigy | $\color{blue}{通讯枢纽}$ | de_port的m3接m1 | ⭐⭐⭐⭐⭐ |
-| 9 | Dead Center Xmas | 死亡中心：圣诞节 | | ⭐⭐⭐⭐⭐ |
-| 10 | Dead Flag Blues 2 Reborn | 死旗悲歌2：重生 | | ⭐⭐⭐⭐⭐ |
-| 11 | Night Terror | $\color{blue}{惊魂之夜}$ | | ⭐⭐⭐⭐⭐ |
-| 12 | North Chaos | 北境乱象 | | ⭐⭐⭐⭐⭐ |
-| 13 | Prague | 布拉格 | | ⭐⭐⭐⭐⭐ |
-| 14 | Precinct 84 (2018 Edition) | $\color{blue}{84辖区：2018}$ | | ⭐⭐⭐⭐⭐ |
-| 15 | Roadkill | 公路杀手 | | ⭐⭐⭐⭐⭐ |
-| 16 | Surrounded by the Dead Ⅱ | 亡者之围2 | m2接CEDA Fever的m1 | ⭐⭐⭐⭐⭐ |
-| 17 | The Happyfice | 笑逝牺牲 | | ⭐⭐⭐⭐⭐ |
-| 18 | $\color{green}{Undead~Zone}$ | 亡灵禁区 | 救援关刷药4瓶而不是2瓶 | ⭐⭐⭐⭐⭐ |
-| 19 | Zengcheng Guangzhou | 广州增城 | | ⭐⭐⭐⭐⭐ |
-| 20 | Deadbeat Escape | 无缝逃离 | | ⭐⭐⭐⭐⭐ |
-| 21 | $\color{green}{Dark\ Blood\ 2}$ | 深渊暗血​​2 | 修复zm原有bug | ⭐⭐⭐⭐⭐ |
-| 22 | $\color{green}{Blood~Tracks}$ | 血染铁轨 | 修复zm原有bug | ⭐⭐⭐⭐⭐ |
-| 23 | Infection Overdrive | 超速感染 | | ⭐⭐⭐⭐⭐ |
-| 24 | Last Breath | 一息尚存 | | ⭐⭐⭐⭐⭐ |
-| 25 | Early Days | 末日初兆 | | ⭐⭐⭐⭐⭐ |
-| 26 | Pesaro | 佩萨罗 | | ⭐⭐⭐⭐⭐ |  
-| 27 | Run To The Hills | 逃至山上 | | ⭐⭐⭐⭐⭐ |  
-| 28 | Nanning Guangxi | 广西南宁 | | ⭐⭐⭐⭐⭐ |  
-| 29 | Red Tide | 绯潮暗涌 | | ⭐⭐⭐⭐⭐ | 
+| 9 | Dead Flag Blues 2 Reborn | 死旗悲歌2：重生 | | ⭐⭐⭐⭐⭐ |
+| 10 | Night Terror | $\color{blue}{惊魂之夜}$ | | ⭐⭐⭐⭐⭐ |
+| 11 | North Chaos | 北境乱象 | | ⭐⭐⭐⭐⭐ |
+| 12 | Prague | 布拉格 | | ⭐⭐⭐⭐⭐ |
+| 13 | Roadkill | 公路杀手 | | ⭐⭐⭐⭐⭐ |
+| 14 | Surrounded by the Dead Ⅱ | 亡者之围2 | m2接CEDA Fever的m1 | ⭐⭐⭐⭐⭐ |
+| 15 | The Happyfice | 笑逝牺牲 | | ⭐⭐⭐⭐⭐ |
+| 16 | $\color{green}{Undead~Zone}$ | 亡灵禁区 | 救援关刷药4瓶而不是2瓶 | ⭐⭐⭐⭐⭐ |
+| 17 | Zengcheng Guangzhou | 广州增城 | | ⭐⭐⭐⭐⭐ |
+| 18 | Deadbeat Escape | 无缝逃离 | | ⭐⭐⭐⭐⭐ |
+| 19 | $\color{green}{Blood~Tracks}$ | 血染铁轨 | 修复zm原有bug | ⭐⭐⭐⭐⭐ |
+| 20 | Infection Overdrive | 超速感染 | | ⭐⭐⭐⭐⭐ |
+| 21 | Last Breath | 一息尚存 | | ⭐⭐⭐⭐⭐ |
+| 22 | Early Days | 末日初兆 | | ⭐⭐⭐⭐⭐ |
+| 23 | Pesaro | 佩萨罗 | | ⭐⭐⭐⭐⭐ |  
+| 24 | Run To The Hills | 逃至山上 | | ⭐⭐⭐⭐⭐ |  
+| 25 | Nanning Guangxi | 广西南宁 | | ⭐⭐⭐⭐⭐ |  
+| 26 | Red Tide | 绯潮暗涌 | | ⭐⭐⭐⭐⭐ | 
 
 ## 4星推荐指数表格（⭐⭐⭐⭐）
 
@@ -41,21 +38,16 @@
 |------|-----------------------------------------------------|-------------------------------------------|-----------------------------------------------------------|----------------|
 | 1 | 4 Sided Coin | 四面硬币 | | ⭐⭐⭐⭐ |
 | 2 | Big Wat Halloween | 巨型佛寺：万圣节 | | ⭐⭐⭐⭐ |
-| 3 | Blood Harvest APOCALYPSE | $\color{blue}{血腥收获：启示录}$ | 删去救援 | ⭐⭐⭐⭐ |
-| 4 | $\color{green}{Death\ Aboard\ 2}$ | 幽冥诡舶2 | $\color{red} {救援不算分}$；修复救援不刷药，修改路程和坦克 | ⭐⭐⭐⭐ |
-| 5 | Death Toll Clam | 死亡丧钟：缄默 | $\color{red} {救援不算分}$；删除随机路线，减少绕路 | ⭐⭐⭐⭐ |
-| 6 | Fairfield Terror | 费尔菲德恐慌 | $\color{red} {救援不算分}$ | ⭐⭐⭐⭐ |
-| 7 | No Mercy APOCALYPSE | $\color{blue}{毫不留情：启示录}$ | 删去救援 | ⭐⭐⭐⭐ |
-| 8 | No Mercy Xmas | $\color{blue}{毫不留情：圣诞节}$ | 删去m1，m7和m8 | ⭐⭐⭐⭐ |
-| 9 | Pitch Dark Mesa | 黑山基地 | | ⭐⭐⭐⭐ |
-| 10 | Resident Evil 3 Short | 生化危机3：精简 | | ⭐⭐⭐⭐ |
-| 11 | RMS Titanic | 泰坦尼克号 | 删除了随机路线和所有机关 | ⭐⭐⭐⭐ |
-| 12 | $\color{green}{The\ Bloody\ Moors}$ | 血腥荒野 | 跳过m4 | ⭐⭐⭐⭐ |
-| 13 | We Don't Go To Ravenholm | 我们不去莱温霍姆 | | ⭐⭐⭐⭐ |
-| 14 | White Forest | 白森林 | 删除m2m3机关 | ⭐⭐⭐⭐ |
-| 15 | $\color{green}{Fire\ Tower\ Trail}$ | 消防瞭望塔 | $\color{red} {m5半成品}$ | ⭐⭐⭐⭐ |
-| 16 | Dark Wood | 阴暗森林 | m1删除尸潮，跳过m4，缩短m2,m3,m5流程 | ⭐⭐⭐⭐ |
-| 17 | Downtown Dine | 都市饕客 |  | ⭐⭐⭐⭐ |
+| 3 | $\color{green}{Death\ Aboard\ 2}$ | 幽冥诡舶2 | $\color{red} {救援不算分}$；修复救援不刷药，修改路程和坦克 | ⭐⭐⭐⭐ |
+| 4 | Fairfield Terror | 费尔菲德恐慌 | $\color{red} {救援不算分}$ | ⭐⭐⭐⭐ |
+| 5 | RMS Titanic | 泰坦尼克号 | 删除了随机路线和所有机关 | ⭐⭐⭐⭐ |
+| 6 | $\color{green}{The\ Bloody\ Moors}$ | 血腥荒野 | 跳过m4 | ⭐⭐⭐⭐ |
+| 7 | We Don't Go To Ravenholm | 我们不去莱温霍姆 | | ⭐⭐⭐⭐ |
+| 8 | White Forest | 白森林 | 删除m2m3机关 | ⭐⭐⭐⭐ |
+| 9 | Downtown Dine | 都市饕客 |  | ⭐⭐⭐⭐ |
+| 10 | $\color{green}{Dark\ Blood\ 2}$ | 深渊暗血​​2 | 修复zm原有bug | ⭐⭐⭐⭐⭐ |
+| 11 | Precinct 84 (2018 Edition) | $\color{blue}{84辖区：2018}$ | | ⭐⭐⭐⭐⭐ |
+| 12 | Dead Center Xmas | 死亡中心：圣诞节 | | ⭐⭐⭐⭐⭐ |
 
 ## 3星以下推荐指数表格（⭐⭐⭐及以下）
 
@@ -78,6 +70,14 @@
 | 15 | ~~Devil Mountain~~ | $\color{blue}{邪魔山岳}$ | 删去救援 | ⭐⭐⭐ |
 | 16 | ~~Salthell Park~~ | $\color{blue}{盐狱公园}$ | | ⭐⭐⭐ |
 | 17 | ~~Buenos Aires~~ | $\color{blue}{布宜诺斯艾利斯}$ | 删去m1和救援 | ⭐⭐⭐ |
+| 18 | Dark Wood | 阴暗森林 | m1删除尸潮，跳过m4，缩短m2,m3,m5流程 | ⭐⭐⭐ |
+| 19 | Death Toll Clam | 死亡丧钟：缄默 | $\color{red} {救援不算分}$；删除随机路线，减少绕路 | ⭐⭐⭐ |
+| 20 | $\color{green}{Fire\ Tower\ Trail}$ | 消防瞭望塔 | $\color{red} {m5半成品}$ | ⭐⭐⭐ |
+| 21 | Pitch Dark Mesa | 黑山基地 | | ⭐⭐⭐⭐ |
+| 22 | Resident Evil 3 Short | 生化危机3：精简 | | ⭐⭐⭐⭐ |
+| 23 | Blood Harvest APOCALYPSE | $\color{blue}{血腥收获：启示录}$ | 删去救援 | ⭐⭐⭐⭐ |
+| 24 | No Mercy APOCALYPSE | $\color{blue}{毫不留情：启示录}$ | 删去救援 | ⭐⭐⭐⭐ |
+| 25 | No Mercy Xmas | $\color{blue}{毫不留情：圣诞节}$ | 删去m1，m7和m8 | ⭐⭐⭐⭐ |
 
 ## 安装指南：
 <br>①修改覆盖zm.txt仅为对zm原版mapinfo的修改参考，并非必须
