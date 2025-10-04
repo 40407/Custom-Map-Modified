@@ -42,7 +42,7 @@
 | 4 | Fairfield Terror | 费尔菲德恐慌 | $\color{red} {救援不算分}$ | ⭐⭐⭐⭐ |
 | 5 | RMS Titanic | 泰坦尼克号 | 删除了随机路线和所有机关 | ⭐⭐⭐⭐ |
 | 6 | $\color{green}{The\ Bloody\ Moors}$ | 血腥荒野 | 跳过m4 | ⭐⭐⭐⭐ |
-| 7 | We Don't Go To Ravenholm | 我们不去莱温霍姆 | | ⭐⭐⭐⭐ |
+| 7 | We Don't Go To Ravenholm | 我们不去莱温霍姆 | 删除m1m2机关，缩短m2路程 | ⭐⭐⭐⭐ |
 | 8 | White Forest | 白森林 | 删除m2m3机关 | ⭐⭐⭐⭐ |
 | 9 | Downtown Dine | 都市饕客 |  | ⭐⭐⭐⭐ |
 | 10 | $\color{green}{Dark\ Blood\ 2}$ | 深渊暗血​​2 | 修复zm原有bug | ⭐⭐⭐⭐ |
