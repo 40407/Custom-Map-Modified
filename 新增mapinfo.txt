@@ -140,7 +140,11 @@
 			}
 		}
 	}
-        "xmas_atrium"
+    "xmas_streets"
+	{
+		"max_distance"		"500"
+	}
+    "xmas_atrium"
 	{
 		"start_point"		"-2018.138428 -4766.033203 536.031250"
 		"start_dist"		"2571.766113"
@@ -204,28 +208,9 @@
 	"re3short_m1"
 	{
 		"max_distance"		"300"
-		"tank_ban_flow"
-		{
-			"1"
-			{
-				"min"		"0"
-				"max"		"100"
-			}
-		}
 		"ItemLimits"
 		{
 			"pain_pills"	"0"
-		}
-	}
-	"re3short_m2"
-	{
-		"tank_ban_flow"
-		{
-			"1"
-			{
-				"min"		"0"
-				"max"		"100"
-			}
 		}
 	}
 	"re3short_m3"
@@ -242,14 +227,6 @@
 	}
 	"re3short_m4"
 	{
-		"tank_ban_flow"
-		{
-			"1"
-			{
-				"min"		"0"
-				"max"		"100"
-			}
-		}
 		"ItemLimits"
 		{
 			"pain_pills"	"4"
@@ -1240,3 +1217,4 @@
 			"pain_pills"	"4"
 		}
 	}
+
