@@ -24,13 +24,11 @@
 | 17 | Zengcheng Guangzhou | 广州增城 | | ⭐⭐⭐⭐⭐ |
 | 18 | Deadbeat Escape | 无缝逃离 | | ⭐⭐⭐⭐⭐ |
 | 19 | $\color{green}{Blood~Tracks}$ | 血染铁轨 | 修复zm原有bug | ⭐⭐⭐⭐⭐ |
-| 20 | Infection Overdrive | 超速感染 | | ⭐⭐⭐⭐⭐ |
-| 21 | Last Breath | 一息尚存 | | ⭐⭐⭐⭐⭐ |
-| 22 | Early Days | 末日初兆 | | ⭐⭐⭐⭐⭐ |
-| 23 | Pesaro | 佩萨罗 | | ⭐⭐⭐⭐⭐ |  
-| 24 | Run To The Hills | 逃至山上 | | ⭐⭐⭐⭐⭐ |  
-| 25 | Nanning Guangxi | 广西南宁 | | ⭐⭐⭐⭐⭐ |  
-| 26 | Red Tide | 绯潮暗涌 | | ⭐⭐⭐⭐⭐ | 
+| 20 | Last Breath | 一息尚存 | | ⭐⭐⭐⭐⭐ |
+| 21 | Early Days | 末日初兆 | | ⭐⭐⭐⭐⭐ | 
+| 22 | Run To The Hills | 逃至山上 | | ⭐⭐⭐⭐⭐ |  
+| 23 | Nanning Guangxi | 广西南宁 | | ⭐⭐⭐⭐⭐ |  
+| 24 | Red Tide | 绯潮暗涌 | | ⭐⭐⭐⭐⭐ | 
 
 ## 4星推荐指数表格（⭐⭐⭐⭐）
 
@@ -48,6 +46,8 @@
 | 10 | $\color{green}{Dark\ Blood\ 2}$ | 深渊暗血​​2 | 修复zm原有bug | ⭐⭐⭐⭐ |
 | 11 | Precinct 84 (2018 Edition) | $\color{blue}{84辖区：2018}$ | | ⭐⭐⭐⭐ |
 | 12 | Dead Center Xmas | 死亡中心：圣诞节 | | ⭐⭐⭐⭐ |
+| 13 | Infection Overdrive | 超速感染 | | ⭐⭐⭐⭐ |
+| 14 | Pesaro | 佩萨罗 | | ⭐⭐⭐⭐ | 
 
 ## 3星以下推荐指数表格（⭐⭐⭐及以下）
 
