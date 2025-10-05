@@ -75,7 +75,7 @@
 | 20 | ~~Salthell Park~~ | $\color{blue}{盐狱公园}$ | | ⭐⭐⭐ |
 | 21 | ~~Lock Down 2~~ | $\color{blue}{锁境危机2}$ | 流程过于复杂冗长 | ⭐⭐ |
 | 22 | ~~L4D2 Short~~ | $\color{blue}{求生之路：精简}$ | 几张图的整合 | ⭐⭐ |
-| 23 | Swamp Fever Drought | 沼泽激战：旱灾 | $\color{red} {瑕疵很多}$ | ⭐ |
+| 23 | ~~Swamp Fever Drought~~ | 沼泽激战：旱灾 | $\color{red} {瑕疵很多}$ | ⭐ |
 | 24 | The Arrival | 不速之客 | 流程过于复杂冗长，场景塑造差 | ⭐ |
 | 25 | Yama | 摩耶山危机 | 流程过于复杂冗长 | ⭐ |
 
