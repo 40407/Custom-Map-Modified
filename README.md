@@ -8,7 +8,7 @@
 | 1 | 2 Evil Eyes | 邪恶双眸 | |
 | 2 | $\color{green}{Arena\ of\ the\ Dead\ 2}$ | 尸骸竞技场2 | 修改路程和坦克 |
 | 3 | CEDA Fever | CEDA狂热病 | Surrounded by the Dead Ⅱ的m2接m1 |
-| 4 | Crash Course: Rerouted | 坠机险途：改航 | |
+| 4 | Crash Course: Rerouted | 坠机险途：改航 | 删包 |
 | 5 | $\color{green}{Dam\ it\ 2!\ The\ Director's\ Cut}$ | 大坝2：导演剪辑版 | 修复zm原有bug |
 | 6 | de_port | $\color{blue}{运输港口}$ | m3接de_prodigy的m1 |
 | 7 | de_prodigy | $\color{blue}{通讯枢纽}$ | de_port的m3接m1 |
@@ -23,7 +23,7 @@
 | 16 | Roadkill | 公路杀手 | |
 | 17 | Run To The Hills | 逃至山上 | |
 | 18 | Surrounded by the Dead Ⅱ | 亡者之围2 | m2接CEDA Fever的m1 |
-| 19 | The Happyfice | 笑逝牺牲 | |
+| 19 | $\color{blue}{The Happyfice}$ | 笑逝牺牲 | |
 | 20 | $\color{green}{Undead~Zone}$ | 亡灵禁区 | 救援刷药4瓶 |
 | 21 | Zengcheng Guangzhou | 广州增城 | |
 
