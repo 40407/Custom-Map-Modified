@@ -16,7 +16,7 @@
 | 9 | Dead Flag Blues 2 Reborn | 死旗悲歌2：重生 | |
 | 10 | Early Days | 末日初兆 | |
 | 11 | Last Breath | 一息尚存 | |
-| 12 | Nanning Guangxi | 广西南宁 | |
+| 12 | Nanning Guangxi | 广西南宁 | 加药 |
 | 13 | Night Terror | $\color{blue}{惊魂之夜}$ | |
 | 14 | Prague | 布拉格 | |
 | 15 | Red Tide | 绯潮暗涌 | |
