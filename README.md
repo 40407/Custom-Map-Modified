@@ -17,15 +17,13 @@
 | 10 | Early Days | 末日初兆 | |
 | 11 | Last Breath | 一息尚存 | |
 | 12 | Nanning Guangxi | 广西南宁 | 加药 |
-| 13 | Night Terror | $\color{blue}{惊魂之夜}$ | |
-| 14 | Prague | 布拉格 | |
-| 15 | Red Tide | 绯潮暗涌 | |
-| 16 | Roadkill | 公路杀手 | |
-| 17 | Run To The Hills | 逃至山上 | |
-| 18 | Surrounded by the Dead Ⅱ | 亡者之围2 | m2接CEDA Fever的m1 |
-| 19 | $\color{blue}{The Happyfice}$ | 笑逝牺牲 | |
-| 20 | $\color{green}{Undead~Zone}$ | 亡灵禁区 | 救援刷药4瓶 |
-| 21 | Zengcheng Guangzhou | 广州增城 | |
+| 13 | Prague | 布拉格 | |
+| 14 | Roadkill | 公路杀手 | |
+| 15 | Run To The Hills | 逃至山上 | |
+| 16 | Surrounded by the Dead Ⅱ | 亡者之围2 | m2接CEDA Fever的m1 |
+| 17 | $\color{blue}{The Happyfice}$ | 笑逝牺牲 | |
+| 18 | $\color{green}{Undead~Zone}$ | 亡灵禁区 | 救援刷药4瓶 |
+| 19 | Zengcheng Guangzhou | 广州增城 | |
 
 ## 4星推荐指数表格（⭐⭐⭐⭐）
 
@@ -40,14 +38,14 @@
 | 7 | Downtown Dine | 都市饕客 | |
 | 8 | Fairfield Terror | 费尔菲尔德恐袭 | $\color{red} {救援不算分}$ |
 | 9 | Infection Overdrive | 超速感染 | |
-| 10 | North Chaos | 北境乱象 | |
-| 11 | Pesaro | 佩萨罗 | |
-| 12 | Precinct 84 (2018 Edition) | $\color{blue}{84辖区：2018}$ | |
-| 13 | RMS Titanic | 泰坦尼克 | 删除了所有随机路线和机关 |
-| 14 | $\color{green}{The\ Bloody\ Moors}$ | 血腥荒野 | 跳过m4 |
-| 15 | We Don't Go To Ravenholm | 我们不去莱温霍姆 | 删除m1m2机关，缩短m2路程 |
-| 16 | White Forest | 白森林 | 删除m2m3机关 |
-| 17 | Xmas Center | 圣诞中心 | |
+| 10 | Night Terror | $\color{blue}{惊魂之夜}$ | |
+| 11 | North Chaos | 北境乱象 | |
+| 12 | Pesaro | 佩萨罗 | |
+| 13 | Precinct 84 (2018 Edition) | $\color{blue}{84辖区：2018}$ | |
+| 14 | Red Tide | 绯潮暗涌 | |
+| 15 | RMS Titanic | 泰坦尼克 | 删除了所有随机路线和机关 |
+| 16 | $\color{green}{The\ Bloody\ Moors}$ | 血腥荒野 | 跳过m4 |
+| 17 | We Don't Go To Ravenholm | 我们不去莱温霍姆 | 删除m1m2机关，缩短m2路程 |
 
 ## 3星以下推荐指数表格（⭐⭐⭐及以下）
 
@@ -77,7 +75,9 @@
 | 22 | ~~L4D2 Short~~ | $\color{blue}{求生之路：精简}$ | 几张图的整合 | ⭐⭐ |
 | 23 | ~~Swamp Fever Drought~~ | 沼泽激战：旱灾 | $\color{red} {瑕疵很多}$ | ⭐ |
 | 24 | The Arrival | 不速之客 | 流程过于复杂冗长，场景塑造差 | ⭐ |
-| 25 | Yama | 摩耶山危机 | 流程过于复杂冗长 | ⭐ |
+| 25 | White Forest | 白森林 | 删除m2m3机关，$\color{red} {m4救援路程分分bug}$ | ⭐⭐⭐ |
+| 26 | Xmas Center | 圣诞中心 | $\color{red} {假爬梯}$ | ⭐⭐⭐ |
+| 27 | Yama | 摩耶山危机 | 流程过于复杂冗长 | ⭐ |
 
 ## 安装指南：
 <br>①修改覆盖zm.txt仅为对zm原版mapinfo的修改参考，并非必须
