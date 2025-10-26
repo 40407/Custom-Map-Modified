@@ -52,32 +52,32 @@
 | 序号 | 英文名称<br>$\color{green}{绿色为zm基础上修改}$ | 中文翻译<br>$\color{blue}{蓝色为改动了vpk}$ | 备注<br>$\color{red} {红色为未解决bug}$ | 推荐指数 |
 |------|--------------------------------------------------|---------------------------------------------|------------------------------------------|----------|
 | 1 | $\color{green}{Day~Break}$ | 黎明 | 修改药数量 | ⭐⭐⭐ |
+| 2 | Dark Wood | 阴暗森林 | m1删除尸潮，跳过m4，缩短m2,m3,m5流程 | ⭐⭐⭐ |
+| 3 | Dead Air Redux Aw | 静寂时分：复原 | 场景塑造差 | ⭐⭐⭐ |
+| 4 | Death Toll Clam | 死亡丧钟：缄默 | $\color{red} {救援不算分}$；删除随机路线，减少绕路 | ⭐⭐⭐ |
+| 5 | $\color{green}{Fire\ Tower\ Trail}$ | 消防瞭望塔 | $\color{red} {m5半成品}$ | ⭐⭐⭐ |
+| 6 | Pitch Dark Mesa | 黑山基地 | | ⭐⭐⭐ |
+| 7 | Resident Evil 3 Short | 生化危机3：精简 | | ⭐⭐⭐ |
+| 8 | The Arrival | 不速之客 | 流程过于复杂冗长，场景塑造差 | ⭐ |
+| 9 | White Forest | 白森林 | 删除m2m3机关，$\color{red} {m4救援路程分分bug}$ | ⭐⭐⭐ |
+| 10 | Xmas Center | 圣诞中心 | $\color{red} {假爬梯}$ | ⭐⭐⭐ |
+| 11 | Yama | 摩耶山危机 | 流程过于复杂冗长 | ⭐ |
 | 2 | ~~Blood Harvest APOCALYPSE~~ | $\color{blue}{血腥收获：启示录}$ | 删去救援 | ⭐⭐⭐ |
 | 3 | ~~Blood Souls~~ | $\color{blue}{血源之魂}$ | | ⭐⭐⭐ |
 | 4 | ~~Buenos Aires~~ | $\color{blue}{布宜诺斯艾利斯}$ | 删去m1和救援 | ⭐⭐⭐ |
-| 5 | Dark Wood | 阴暗森林 | m1删除尸潮，跳过m4，缩短m2,m3,m5流程 | ⭐⭐⭐ |
-| 6 | Dead Air Redux Aw | 静寂时分：复原 | 场景塑造差 | ⭐⭐⭐ |
-| 7 | Death Toll Clam | 死亡丧钟：缄默 | $\color{red} {救援不算分}$；删除随机路线，减少绕路 | ⭐⭐⭐ |
 | 8 | ~~Deathcraft Ⅱ~~ | $\color{blue}{死的世界2}$ | 删去救援，生还特感恢复原模 | ⭐⭐⭐ |
 | 9 | ~~Devil Mountain~~ | $\color{blue}{邪魔山岳}$ | 删去救援 | ⭐⭐⭐ |
 | 10 | ~~Dry County~~ | $\color{blue}{风沙之郡}$ | 没有爬行轨迹 | ⭐⭐⭐ |
-| 11 | $\color{green}{Fire\ Tower\ Trail}$ | 消防瞭望塔 | $\color{red} {m5半成品}$ | ⭐⭐⭐ |
 | 12 | ~~No Mercy APOCALYPSE~~ | $\color{blue}{毫不留情：启示录}$ | 删去救援 | ⭐⭐⭐ |
 | 13 | ~~No Mercy Xmas~~ | $\color{blue}{毫不留情：圣诞节}$ | 删去m1，m7和m8 | ⭐⭐⭐ |
 | 14 | ~~Nova Prospekt~~ | $\color{blue}{诺瓦矿场}$ | 没有爬行轨迹， $\color{red} {救援不算分}$；删去m3,m6 | ⭐⭐⭐ |
 | 15 | ~~One Four Nine~~ | $\color{blue}{古墓亡影}$ | 修改路程和坦克，修复zm原有bug，删除m5滤镜 | ⭐⭐⭐ |
-| 16 | Pitch Dark Mesa | 黑山基地 | | ⭐⭐⭐ |
 | 17 | ~~Plague Tale~~ | $\color{blue}{瘟疫传说}$ | 没有爬行轨迹 | ⭐⭐⭐ |
-| 18 | Resident Evil 3 Short | 生化危机3：精简 | | ⭐⭐⭐ |
 | 19 | ~~Reverse Blood Harvest~~ | $\color{blue}{血腥收获：逆转}$ | 删去m4 | ⭐⭐⭐ |
 | 20 | ~~Salthell Park~~ | $\color{blue}{盐狱公园}$ | | ⭐⭐⭐ |
 | 21 | ~~Lock Down 2~~ | $\color{blue}{锁境危机2}$ | 流程过于复杂冗长 | ⭐⭐ |
 | 22 | ~~L4D2 Short~~ | $\color{blue}{求生之路：精简}$ | 几张图的整合 | ⭐⭐ |
 | 23 | ~~Swamp Fever Drought~~ | 沼泽激战：旱灾 | $\color{red} {瑕疵很多}$ | ⭐ |
-| 24 | The Arrival | 不速之客 | 流程过于复杂冗长，场景塑造差 | ⭐ |
-| 25 | White Forest | 白森林 | 删除m2m3机关，$\color{red} {m4救援路程分分bug}$ | ⭐⭐⭐ |
-| 26 | Xmas Center | 圣诞中心 | $\color{red} {假爬梯}$ | ⭐⭐⭐ |
-| 27 | Yama | 摩耶山危机 | 流程过于复杂冗长 | ⭐ |
 
 ## 安装指南：
 <br>①修改覆盖zm.txt仅为对zm原版mapinfo的修改参考，并非必须
