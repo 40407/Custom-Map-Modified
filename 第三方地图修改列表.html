@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>第三方地图修改列表</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', 'Microsoft YaHei', sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 20px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+            backdrop-filter: blur(10px);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #2c3e50 0%, #3498db 100%);
+            color: white;
+            padding: 40px 30px;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .header::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: radial-gradient(circle, rgba(255,255,255,0.1) 1px, transparent 1px);
+            background-size: 20px 20px;
+            animation: float 20s linear infinite;
+        }
+        
+        @keyframes float {
+            0% { transform: translate(0, 0) rotate(0deg); }
+            100% { transform: translate(-20px, -20px) rotate(360deg); }
+        }
+        
+        h1 {
+            font-size: 2.8em;
+            margin-bottom: 10px;
+            font-weight: 300;
+            letter-spacing: 2px;
+            position: relative;
+            z-index: 2;
+        }
+        
+        .subtitle {
+            font-size: 1.2em;
+            opacity: 0.9;
+            font-weight: 300;
+            position: relative;
+            z-index: 2;
+        }
+        
+        .content {
+            padding: 30px;
+        }
+        
+        .section {
+            margin-bottom: 40px;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
+            overflow: hidden;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        
+        .section:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+        }
+        
+        .section-header {
+            background: linear-gradient(135deg, #3498db, #2980b9);
+            color: white;
+            padding: 20px 30px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        
+        .section-header h2 {
+            font-size: 1.6em;
+            font-weight: 400;
+            margin: 0;
+        }
+        
+        .stars {
+            font-size: 1.4em;
+            color: #f1c40f;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.95em;
+        }
+        
+        th {
+            background: #f8f9fa;
+            color: #2c3e50;
+            font-weight: 600;
+            padding: 15px 12px;
+            text-align: left;
+            border-bottom: 2px solid #e9ecef;
+            position: relative;
+        }
+        
+        th::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 0;
+            height: 2px;
+            background: #3498db;
+            transition: width 0.3s ease;
+        }
+        
+        th:hover::after {
+            width: 100%;
+        }
+        
+        td {
+            padding: 12px;
+            border-bottom: 1px solid #e9ecef;
+            transition: background-color 0.2s ease;
+        }
+        
+        tr:hover td {
+            background-color: #f8f9fa;
+        }
+        
+        tr:last-child td {
+            border-bottom: none;
+        }
+        
+        .green-text {
+            color: #27ae60;
+            font-weight: 600;
+        }
+        
+        .blue-text {
+            color: #2980b9;
+            font-weight: 600;
+        }
+        
+        .red-text {
+            color: #e74c3c;
+            font-weight: 600;
+        }
+        
+        .rating-5 { background: linear-gradient(135deg, #27ae60, #2ecc71); }
+        .rating-4 { background: linear-gradient(135deg, #3498db, #2980b9); }
+        .rating-3 { background: linear-gradient(135deg, #f39c12, #e67e22); }
+        
+        .badge {
+            display: inline-block;
+            padding: 4px 8px;
+            border-radius: 12px;
+            font-size: 0.8em;
+            font-weight: 600;
+            margin: 2px;
+        }
+        
+        .badge-green { background: #d5f4e6; color: #27ae60; }
+        .badge-blue { background: #d6eaf8; color: #2980b9; }
+        .badge-red { background: #fadbd8; color: #e74c3c; }
+        
+        .instructions {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
+        }
+        
+        .instructions h2 {
+            color: #2c3e50;
+            margin-bottom: 20px;
+            font-weight: 400;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+        }
+        
+        ol {
+            padding-left: 20px;
+        }
+        
+        li {
+            margin-bottom: 15px;
+            line-height: 1.6;
+        }
+        
+        code {
+            background: #f8f9fa;
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-family: 'Courier New', monospace;
+            color: #e74c3c;
+        }
+        
+        pre {
+            background: #2c3e50;
+            color: #ecf0f1;
+            padding: 15px;
+            border-radius: 8px;
+            overflow-x: auto;
+            margin: 10px 0;
+            font-size: 0.9em;
+        }
+        
+        a {
+            color: #3498db;
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+        
+        a:hover {
+            color: #2980b9;
+            text-decoration: underline;
+        }
+        
+        .footer {
+            text-align: center;
+            padding: 20px;
+            color: #7f8c8d;
+            font-size: 0.9em;
+            border-top: 1px solid #e9ecef;
+            margin-top: 30px;
+        }
+        
+        @media (max-width: 768px) {
+            .container {
+                margin: 10px;
+                border-radius: 10px;
+            }
+            
+            .content {
+                padding: 15px;
+            }
+            
+            table {
+                font-size: 0.85em;
+            }
+            
+            th, td {
+                padding: 8px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>第三方地图修改列表</h1>
+            <div class="subtitle">By 40407 & GuiSAE</div>
+        </div>
+        
+        <div class="content">
+            <!-- 5星推荐表格 -->
+            <div class="section">
+                <div class="section-header rating-5">
+                    <h2>5星推荐指数表格</h2>
+                    <div class="stars">⭐⭐⭐⭐⭐</div>
+                </div>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>序号</th>
+                            <th>英文名称<br><span class="green-text">绿色为zm基础上修改</span></th>
+                            <th>中文翻译<br><span class="blue-text">蓝色为改动了vpk</span></th>
+                            <th>备注</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr><td>1</td><td>2 Evil Eyes</td><td>邪恶双眸</td><td></td></tr>
+                        <tr><td>2</td><td><span class="green-text">Arena of the Dead 2</span></td><td>尸骸竞技场2</td><td>修改路程和坦克</td></tr>
+                        <tr><td>3</td><td>CEDA Fever</td><td>CEDA狂热病</td><td>Surrounded by the Dead Ⅱ的m2接m1</td></tr>
+                        <tr><td>4</td><td>Crash Course: Rerouted</td><td>坠机险途：改航</td><td>删包</td></tr>
+                        <tr><td>5</td><td><span class="green-text">Dam it 2! The Director's Cut</span></td><td>大坝2：导演剪辑版</td><td>修复zm原有bug</td></tr>
+                        <tr><td>6</td><td>de_port</td><td><span class="blue-text">运输港口</span></td><td>m3接de_prodigy的m1</td></tr>
+                        <tr><td>7</td><td>de_prodigy</td><td><span class="blue-text">通讯枢纽</span></td><td>de_port的m3接m1</td></tr>
+                        <tr><td>8</td><td>Deadbeat Escape</td><td>无缝逃离</td><td></td></tr>
+                        <tr><td>9</td><td>Dead Flag Blues 2 Reborn</td><td>死旗悲歌2：重生</td><td></td></tr>
+                        <tr><td>10</td><td>Early Days</td><td>末日初兆</td><td></td></tr>
+                        <tr><td>11</td><td>Last Breath</td><td>一息尚存</td><td></td></tr>
+                        <tr><td>12</td><td>Nanning Guangxi</td><td>广西南宁</td><td><span class="badge badge-green">加药</span></td></tr>
+                        <tr><td>13</td><td>Prague</td><td>布拉格</td><td></td></tr>
+                        <tr><td>14</td><td>Roadkill</td><td>公路杀手</td><td></td></tr>
+                        <tr><td>15</td><td>Run To The Hills</td><td>逃至山上</td><td></td></tr>
+                        <tr><td>16</td><td>Surrounded by the Dead Ⅱ</td><td>亡者之围2</td><td>m2接CEDA Fever的m1</td></tr>
+                        <tr><td>17</td><td><span class="blue-text">The Happyfice</span></td><td>笑逝牺牲</td><td></td></tr>
+                        <tr><td>18</td><td><span class="green-text">Undead Zone</span></td><td>亡灵禁区</td><td><span class="badge badge-green">救援刷药4瓶</span></td></tr>
+                        <tr><td>19</td><td>Zengcheng Guangzhou</td><td>广州增城</td><td></td></tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <!-- 4星推荐表格 -->
+            <div class="section">
+                <div class="section-header rating-4">
+                    <h2>4星推荐指数表格</h2>
+                    <div class="stars">⭐⭐⭐⭐</div>
+                </div>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>序号</th>
+                            <th>英文名称<br><span class="green-text">绿色为zm基础上修改</span></th>
+                            <th>中文翻译<br><span class="blue-text">蓝色为改动了vpk</span></th>
+                            <th>备注<br><span class="red-text">红色为未解决bug</span></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr><td>1</td><td>4 Sided Coin</td><td>四面硬币</td><td></td></tr>
+                        <tr><td>2</td><td>Big Wat Halloween</td><td>万圣佛寺</td><td></td></tr>
+                        <tr><td>3</td><td><span class="green-text">Blood Tracks</span></td><td>血染铁轨</td><td><span class="badge badge-green">修复zm原有bug</span></td></tr>
+                        <tr><td>4</td><td>Cold Front</td><td>冷锋过境</td><td></td></tr>
+                        <tr><td>5</td><td><span class="green-text">Dark Blood 2</span></td><td>深渊暗血2</td><td><span class="badge badge-green">修复zm原有bug</span></td></tr>
+                        <tr><td>6</td><td><span class="green-text">Death Aboard 2</span></td><td>幽冥诡舶2</td><td><span class="badge badge-red">救援不算分</span>；<span class="badge badge-green">救援刷药4瓶，修改路程和坦克</span></td></tr>
+                        <tr><td>7</td><td>Downtown Dine</td><td>都市饕客</td><td></td></tr>
+                        <tr><td>8</td><td>Fairfield Terror</td><td>费尔菲尔德恐袭</td><td><span class="badge badge-red">救援不算分</span></td></tr>
+                        <tr><td>9</td><td>Infection Overdrive</td><td>超速感染</td><td></td></tr>
+                        <tr><td>10</td><td>Night Terror</td><td><span class="blue-text">惊魂之夜</span></td><td></td></tr>
+                        <tr><td>11</td><td>North Chaos</td><td>北境乱象</td><td></td></tr>
+                        <tr><td>12</td><td>Pesaro</td><td>佩萨罗</td><td></td></tr>
+                        <tr><td>13</td><td>Precinct 84 (2018 Edition)</td><td><span class="blue-text">84辖区：2018</span></td><td></td></tr>
+                        <tr><td>14</td><td>Red Tide</td><td>绯潮暗涌</td><td></td></tr>
+                        <tr><td>15</td><td>RMS Titanic</td><td>泰坦尼克</td><td><span class="badge badge-blue">删除了所有随机路线和机关</span></td></tr>
+                        <tr><td>16</td><td><span class="green-text">The Bloody Moors</span></td><td>血腥荒野</td><td><span class="badge badge-blue">跳过m4</span></td></tr>
+                        <tr><td>17</td><td>We Don't Go To Ravenholm</td><td>我们不去莱温霍姆</td><td><span class="badge badge-blue">删除m1m2机关，缩短m2路程</span></td></tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <!-- 3星以下推荐表格 -->
+            <div class="section">
+                <div class="section-header rating-3">
+                    <h2>3星以下推荐指数表格</h2>
+                    <div class="stars">⭐⭐⭐及以下</div>
+                </div>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>序号</th>
+                            <th>英文名称<br><span class="green-text">绿色为zm基础上修改</span></th>
+                            <th>中文翻译<br><span class="blue-text">蓝色为改动了vpk</span></th>
+                            <th>备注<br><span class="red-text">红色为未解决bug</span></th>
+                            <th>推荐指数</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr><td>1</td><td><span class="green-text">Day Break</span></td><td>黎明</td><td><span class="badge badge-blue">修改药数量</span></td><td>⭐⭐⭐</td></tr>
+                        <tr><td>2</td><td>Dark Wood</td><td>阴暗森林</td><td><span class="badge badge-blue">m1删除尸潮，跳过m4，缩短m2,m3,m5流程</span></td><td>⭐⭐⭐</td></tr>
+                        <tr><td>3</td><td>Dead Air Redux Aw</td><td>静寂时分：复原</td><td><span class="badge badge-red">场景塑造差</span></td><td>⭐⭐⭐</td></tr>
+                        <tr><td>4</td><td>Death Toll Clam</td><td>死亡丧钟：缄默</td><td><span class="badge badge-red">救援不算分</span>；<span class="badge badge-blue">删除随机路线，减少绕路</span></td><td>⭐⭐⭐</td></tr>
+                        <tr><td>5</td><td><span class="green-text">Fire Tower Trail</span></td><td>消防瞭望塔</td><td><span class="badge badge-red">m5半成品</span></td><td>⭐⭐⭐</td></tr>
+                        <tr><td>6</td><td>Pitch Dark Mesa</td><td>黑山基地</td><td></td><td>⭐⭐⭐</td></tr>
+                        <tr><td>7</td><td>Resident Evil 3 Short</td><td>生化危机3：精简</td><td></td><td>⭐⭐⭐</td></tr>
+                        <tr><td>8</td><td>The Arrival</td><td>不速之客</td><td><span class="badge badge-red">流程过于复杂冗长，场景塑造差</span></td><td>⭐</td></tr>
+                        <tr><td>9</td><td>White Forest</td><td>白森林</td><td><span class="badge badge-blue">删除m2m3机关</span>，<span class="badge badge-red">m4救援路程分分bug</span></td><td>⭐⭐⭐</td></tr>
+                        <tr><td>10</td><td>Xmas Center</td><td>圣诞中心</td><td><span class="badge badge-red">假爬梯</span></td><td>⭐⭐⭐</td></tr>
+                        <tr><td>11</td><td>Yama</td><td>摩耶山危机</td><td><span class="badge badge-red">流程过于复杂冗长</span></td><td>⭐</td></tr>
+                        <tr><td>2</td><td><s>Blood Harvest APOCALYPSE</s></td><td><span class="blue-text"><s>血腥收获：启示录</s></span></td><td><span class="badge badge-blue">删去救援</span></td><td>⭐⭐⭐</td></tr>
+                        <tr><td>3</td><td><s>Blood Souls</s></td><td><span class="blue-text"><s>血源之魂</s></span></td><td></td><td>⭐⭐⭐</td></tr>
+                        <tr><td>4</td><td><s>Buenos Aires</s></td><td><span class="blue-text"><s>布宜诺斯艾利斯</s></span></td><td><span class="badge badge-blue">删去m1和救援</span></td><td>⭐⭐⭐</td></tr>
+                        <tr><td>8</td><td><s>Deathcraft Ⅱ</s></td><td><span class="blue-text"><s>死的世界2</s></span></td><td><span class="badge badge-blue">删去救援，生还特感恢复原模</span></td><td>⭐⭐⭐</td></tr>
+                        <tr><td>9</td><td><s>Devil Mountain</s></td><td><span class="blue-text"><s>邪魔山岳</s></span></td><td><span class="badge badge-blue">删去救援</span></td><td>⭐⭐⭐</td></tr>
+                        <tr><td>10</td><td><s>Dry County</s></td><td><span class="blue-text"><s>风沙之郡</s></span></td><td><span class="badge badge-red">没有爬行轨迹</span></td><td>⭐⭐⭐</td></tr>
+                        <tr><td>12</td><td><s>No Mercy APOCALYPSE</s></td><td><span class="blue-text"><s>毫不留情：启示录</s></span></td><td><span class="badge badge-blue">删去救援</span></td><td>⭐⭐⭐</td></tr>
+                        <tr><td>13</td><td><s>No Mercy Xmas</s></td><td><span class="blue-text"><s>毫不留情：圣诞节</s></span></td><td><span class="badge badge-blue">删去m1，m7和m8</span></td><td>⭐⭐⭐</td></tr>
+                        <tr><td>14</td><td><s>Nova Prospekt</s></td><td><span class="blue-text"><s>诺瓦矿场</s></span></td><td><span class="badge badge-red">没有爬行轨迹</span>，<span class="badge badge-red">救援不算分</span>；<span class="badge badge-blue">删去m3,m6</span></td><td>⭐⭐⭐</td></tr>
+                        <tr><td>15</td><td><s>One Four Nine</s></td><td><span class="blue-text"><s>古墓亡影</s></span></td><td><span class="badge badge-blue">修改路程和坦克，修复zm原有bug，删除m5滤镜</span></td><td>⭐⭐⭐</td></tr>
+                        <tr><td>17</td><td><s>Plague Tale</s></td><td><span class="blue-text"><s>瘟疫传说</s></span></td><td><span class="badge badge-red">没有爬行轨迹</span></td><td>⭐⭐⭐</td></tr>
+                        <tr><td>19</td><td><s>Reverse Blood Harvest</s></td><td><span class="blue-text"><s>血腥收获：逆转</s></span></td><td><span class="badge badge-blue">删去m4</span></td><td>⭐⭐⭐</td></tr>
+                        <tr><td>20</td><td><s>Salthell Park</s></td><td><span class="blue-text"><s>盐狱公园</s></span></td><td></td><td>⭐⭐⭐</td></tr>
+                        <tr><td>21</td><td><s>Lock Down 2</s></td><td><span class="blue-text"><s>锁境危机2</s></span></td><td><span class="badge badge-red">流程过于复杂冗长</span></td><td>⭐⭐</td></tr>
+                        <tr><td>22</td><td><s>L4D2 Short</s></td><td><span class="blue-text"><s>求生之路：精简</s></span></td><td><span class="badge badge-blue">几张图的整合</span></td><td>⭐⭐</td></tr>
+                        <tr><td>23</td><td><s>Swamp Fever Drought</s></td><td>沼泽激战：旱灾</td><td><span class="badge badge-red">瑕疵很多</span></td><td>⭐</td></tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <!-- 安装指南 -->
+            <div class="instructions">
+                <h2>安装指南</h2>
+                <ol>
+                    <li>修改覆盖zm.txt仅为对zm原版mapinfo的修改参考，并非必须。</li>
+                    <li>确保 <code>Left 4 Dead 2\left4dead2\cfg\cfgogl\zonemod\shared_settings.cfg</code> 里有以下设定：
+                        <pre>// Personalized settings
+exec confogl_personalize.cfg</pre>
+                        再把 <code>confogl_personalize.cfg</code> 放入 <code>Left 4 Dead 2\left4dead2\cfg</code>（和 <code>cfg\cvar_tracking.cfg</code> 同样的地方）。
+                    </li>
+                    <li>新增mapinfo的内容要复制到 <code>cfg\cfgogl\zonemod\mapinfo.txt</code>，不能直接覆盖。</li>
+                    <li>maps里的cfg直接加到 <code>Left 4 Dead 2\left4dead2\cfg\stripper\zonemod\maps</code> 里。</li>
+                    <li>vscripts里的nut直接加到 <code>Left 4 Dead 2\left4dead2\scripts\vscripts</code> 里。</li>
+                    <li>abandon里的文件为废弃项目。</li>
+                </ol>
+                <p><strong>ZoneMod竞技配置框架是必要的:</strong> <a href="https://github.com/SirPlease/L4D2-Competitive-Rework/" target="_blank">https://github.com/SirPlease/L4D2-Competitive-Rework/</a></p>
+            </div>
+        </div>
+        
+        <div class="footer">
+            © 2024 第三方地图修改列表 | 最后更新日期：2024年12月
+        </div>
+    </div>
+</body>
+</html>
