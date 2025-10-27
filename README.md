@@ -21,7 +21,7 @@
 | 14 | Roadkill | 公路杀手 | |
 | 15 | Run To The Hills | 逃至山上 | |
 | 16 | Surrounded by the Dead Ⅱ | 亡者之围2 | m2接CEDA Fever的m1 |
-| 17 | $\color{blue}{The Happyfice}$ | 笑逝牺牲 | |
+| 17 | The Happyfice | $\color{blue}{笑逝牺牲}$ | |
 | 18 | $\color{green}{Undead~Zone}$ | 亡灵禁区 | 救援刷药4瓶 |
 | 19 | Zengcheng Guangzhou | 广州增城 | |
 
