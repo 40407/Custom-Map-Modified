@@ -77,52 +77,6 @@
 	}
 
 //=======================================================================
-//=============== 2 Evil Eyes 邪恶双眸
-	"2ee_01"
-	{
-		"max_distance"		"300"
-	}
-	"2ee_02"
-	{
-		"max_distance"		"400"
-		"tank_ban_flow"
-		{
-			"1"
-			{
-				"min"		"0"
-				"max"		"100"
-			}
-		}
-	}
-	"2ee_03"
-	{
-		"max_distance"		"500"
-	}
-	"2ee_04"
-	{
-		"max_distance"		"600"
-		"tank_ban_flow"
-		{
-			"1"
-			{
-				"min"		"40"
-				"max"		"100"
-			}
-		}
-	"2ee_05"
-	{
-		"max_distance"		"700"
-	}
-	"2ee_06"
-	{
-		"max_distance"		"800"
-		"ItemLimits"
-		{
-			"pain_pills"	"4"
-		}
-	}
-
-//=======================================================================
 //=============== Xmas Center 圣诞中心
 	"xmas_hotel"
 	{
@@ -153,50 +107,6 @@
 		"ItemLimits"
 		{
 			"pain_pills"		"4"
-		}
-	}
-
-//=======================================================================
-//=============== The Happyfice 笑逝牺牲
-	"c7m3_happy"
-	{
-		"max_distance"		"500"
-		"tank_ban_flow"
-		{
-			"1"
-			{
-				"min"		"0"
-				"max"		"50"
-			}
-			"2"
-			{
-				"min"		"75"
-				"max"		"100"
-			}
-		}
-	}
-	"c7m4_happy"
-	{
-		"max_distance"		"240"
-		"ItemLimits"
-		{
-			"pain_pills"	"0"
-		}
-	}
-	"c7m5_happy"
-	{
-		"max_distance"		"800"
-		"tank_ban_flow"
-		{
-			"1"
-			{
-				"min"		"70"
-				"max"		"100"
-			}
-		}
-		"ItemLimits"
-		{
-			"pain_pills"	"4"
 		}
 	}
 
@@ -247,25 +157,6 @@
 	"cf_m5_highway"
 	{
 		"max_distance"		"800"
-		"ItemLimits"
-		{
-			"pain_pills"	"4"
-		}
-	}
-
-//=======================================================================
-//=============== Prague 布拉格
-	"prague_2_middle_class"
-	{
-		"max_distance"		"500"
-	}
-	"prague_3_park"
-	{
-		"max_distance"		"500"
-	}
-	"prague_4_bus_depo"
-	{
-		"max_distance"		"700"
 		"ItemLimits"
 		{
 			"pain_pills"	"4"
@@ -347,40 +238,6 @@
 		"ItemLimits"
 		{
 			"pain_pills"		"4"
-		}
-	}
-
-//=======================================================================
-//=============== 4 Sided Coin 四面硬币
-	"4sc_seperate"
-	{
-		"max_distance"		"300"
-	}
-	"4sc_base"
-	{
-		"max_distance"		"400"
-	}
-	"4sc_outage"
-	{
-		"max_distance"		"700"
-		"tank_ban_flow"
-		{
-			"1"
-			{
-				"min"		"40"
-				"max"		"60"
-			}
-		}
-	}
-	"4sc_streets"
-	{
-		"max_distance"		"600"
-	}
-	"4sc_pit"
-	{
-		"ItemLimits"
-		{
-			"pain_pills"	"4"
 		}
 	}
 
@@ -774,34 +631,6 @@
 	}
 
 //=======================================================================
-//=============== Night Terror 惊魂之夜
-	"nt01_mansion"
-	{
-		"tank_ban_flow"
-		{
-			"1"
-			{
-				"min"		"33"
-				"max"		"42"
-			}
-		}
-	}
-	"nt03_moria"
-	{
-		"ItemLimits"
-		{
-			"pain_pills"	"4"
-		}
-	}
-	"nt04_jungleruins"
-	{
-		"ItemLimits"
-		{
-			"pain_pills"	"3"
-		}
-	}
-
-//=======================================================================
 //=============== Dark Wood 阴暗森林
 	"dw_woods"
 	{
@@ -1109,29 +938,6 @@
 	}
 
 //=======================================================================
-//=============== Early Days 末日初兆
-	"earlydays2"
-	{
-		"max_distance"		"500"
-	}
-	"earlydays3"
-	{
-		"max_distance"		"600"
-	}
-	"earlydays4"
-	{
-		"max_distance"		"500"
-	}
-	"earlydays5"
-	{
-		"max_distance"		"700"
-		"ItemLimits"
-		{
-			"pain_pills"	"4"
-		}
-	}
-
-//=======================================================================
 //=============== Pesaro 佩萨罗
 	"m5_sanbartolo"
 	{
@@ -1157,16 +963,6 @@
 		"ItemLimits"
 		{
 			"pain_pills"	"4"
-		}
-	}
-
-//=======================================================================
-//=============== Nanning Guangxi 广西南宁
-	"nanningcity_bridge_m6"
-	{
-		"ItemLimits"
-		{
-			"pain_pills"	"3"
 		}
 	}
 
@@ -1218,26 +1014,3 @@
 			"pain_pills"	"4"
 		}
 	}
-
-//=======================================================================
-//=============== Big Wat Halloween 万圣佛寺
-	"bigwat_d4"
-	{
-		"tank_ban_flow"
-		{
-			"1"
-			{
-				"min"		"60"
-				"max"		"100"
-			}
-		}
-	}
-	"bigwat_d5"
-	{
-		"ItemLimits"
-		{
-			"pain_pills"	"4"
-		}
-	}
-
-
