@@ -178,13 +178,9 @@
 	"c7m4_happy"
 	{
 		"max_distance"		"240"
-		"tank_ban_flow"
+		"ItemLimits"
 		{
-			"1"
-			{
-				"min"		"70"
-				"max"		"100"
-			}
+			"pain_pills"	"0"
 		}
 	}
 	"c7m5_happy"
@@ -1243,4 +1239,5 @@
 			"pain_pills"	"4"
 		}
 	}
+
 
