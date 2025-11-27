@@ -14,38 +14,38 @@
 | 7 | Prague | 布拉格 | |
 | 8 | The Happyfice | $\color{blue}{笑逝牺牲}$ | |
 | 9 | $\color{green}{Undead~Zone}$ | 亡灵禁区 | 救援刷药4瓶 |
-| 10 | Zengcheng Guangzhou | 广州增城 | |
-| 11 | 4 Sided Coin | 四面硬币 | |
-| 12 | Big Wat Halloween | 万圣佛寺 | |
+| 10 | 4 Sided Coin | 四面硬币 | |
+| 11 | Big Wat Halloween | 万圣佛寺 | |
 
 ## 4星推荐指数表格（⭐⭐⭐⭐）
 
 | 序号 | 英文名称<br>$\color{green}{绿色为zm基础上修改}$ | 中文翻译<br>$\color{blue}{蓝色为改动了vpk}$ | 备注<br>$\color{red} {红色为未解决bug}$ | 
 |------|--------------------------------------------------|---------------------------------------------|------------------------------------------|
-| 3 | $\color{green}{Blood~Tracks}$ | 血染铁轨 | 修复zm原有bug |
-| 4 | Cold Front | 冷锋过境 | |
-| 5 | $\color{green}{Dark\ Blood\ 2}$ | 深渊暗血2 | 修复zm原有bug |
-| 6 | $\color{green}{Death\ Aboard\ 2}$ | 幽冥诡舶2 | $\color{red} {救援不算分}$；救援刷药4瓶，修改路程和坦克 |
-| 7 | Downtown Dine | 都市饕客 | |
-| 8 | Fairfield Terror | 费尔菲尔德恐袭 | $\color{red} {救援不算分}$ |
-| 9 | Infection Overdrive | 超速感染 | |
-| 10 | Night Terror | $\color{blue}{惊魂之夜}$ | |
-| 11 | North Chaos | 北境乱象 | |
-| 12 | Pesaro | 佩萨罗 | |
-| 13 | Precinct 84 (2018 Edition) | $\color{blue}{84辖区：2018}$ | |
-| 14 | Red Tide | 绯潮暗涌 | |
-| 15 | RMS Titanic | 泰坦尼克 | 删除了所有随机路线和机关 |
-| 16 | $\color{green}{The\ Bloody\ Moors}$ | 血腥荒野 | 跳过m4 |
-| 17 | We Don't Go To Ravenholm | 我们不去莱温霍姆 | 删除m1m2机关，缩短m2路程 |
-| 18 | CEDA Fever | CEDA狂热病 | Surrounded by the Dead Ⅱ的m2接m1 |
-| 19 | Deadbeat Escape | 无缝逃离 | |
-| 20 | Dead Flag Blues 2 Reborn | 死旗悲歌2：重生 | |
-| 21 | Last Breath | 一息尚存 | |
-| 22 | Roadkill | 公路杀手 | |
-| 23 | Run To The Hills | 逃至山上 | |
-| 24 | Surrounded by the Dead Ⅱ | 亡者之围2 | m2接CEDA Fever的m1 |
-| 25 | de_port | $\color{blue}{运输港口}$ | m3接de_prodigy的m1 |
-| 26 | de_prodigy | $\color{blue}{通讯枢纽}$ | de_port的m3接m1 |
+| 1 | $\color{green}{Blood~Tracks}$ | 血染铁轨 | 修复zm原有bug |
+| 2 | Cold Front | 冷锋过境 | |
+| 3 | $\color{green}{Dark\ Blood\ 2}$ | 深渊暗血2 | 修复zm原有bug |
+| 4 | $\color{green}{Death\ Aboard\ 2}$ | 幽冥诡舶2 | $\color{red} {救援不算分}$；救援刷药4瓶，修改路程和坦克 |
+| 5 | Downtown Dine | 都市饕客 | |
+| 6 | Fairfield Terror | 费尔菲尔德恐袭 | $\color{red} {救援不算分}$ |
+| 7 | Infection Overdrive | 超速感染 | |
+| 8 | Night Terror | $\color{blue}{惊魂之夜}$ | |
+| 9 | North Chaos | 北境乱象 | |
+| 10 | Pesaro | 佩萨罗 | |
+| 11 | Precinct 84 (2018 Edition) | $\color{blue}{84辖区：2018}$ | |
+| 12 | Red Tide | 绯潮暗涌 | |
+| 13 | RMS Titanic | 泰坦尼克 | 删除了所有随机路线和机关 |
+| 14 | $\color{green}{The\ Bloody\ Moors}$ | 血腥荒野 | 跳过m4 |
+| 15 | We Don't Go To Ravenholm | 我们不去莱温霍姆 | 删除m1m2机关，缩短m2路程 |
+| 16 | CEDA Fever | CEDA狂热病 | Surrounded by the Dead Ⅱ的m2接m1 |
+| 17 | Deadbeat Escape | 无缝逃离 | |
+| 18 | Dead Flag Blues 2 Reborn | 死旗悲歌2：重生 | |
+| 19 | Last Breath | 一息尚存 | |
+| 20 | Roadkill | 公路杀手 | |
+| 21 | Run To The Hills | 逃至山上 | |
+| 22 | Surrounded by the Dead Ⅱ | 亡者之围2 | m2接CEDA Fever的m1 |
+| 23 | de_port | $\color{blue}{运输港口}$ | m3接de_prodigy的m1 |
+| 24 | de_prodigy | $\color{blue}{通讯枢纽}$ | de_port的m3接m1 |
+| 25 | Zengcheng Guangzhou | 广州增城 | |
 
 ## 3星以下推荐指数表格（⭐⭐⭐及以下）
 
