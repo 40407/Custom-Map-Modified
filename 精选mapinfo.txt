@@ -145,7 +145,7 @@
 	}
 	"earlydays5"
 	{
-		"max_distance"		"700"
+		"max_distance"		"600"
 		"ItemLimits"
 		{
 			"pain_pills"	"4"
@@ -182,6 +182,7 @@
 			"pain_pills"	"4"
 		}
 	}
+
 
 
 
