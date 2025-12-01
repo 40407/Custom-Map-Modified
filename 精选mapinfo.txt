@@ -65,7 +65,7 @@
 	}
 	"c7m4_happy"
 	{
-		"max_distance"		"240"
+		"max_distance"		"200"
 		"ItemLimits"
 		{
 			"pain_pills"	"0"
@@ -109,33 +109,21 @@
 
 //=======================================================================
 //=============== 4 Sided Coin 四面硬币
-	"4sc_seperate"
+	"4sc_seperate" //m1
 	{
 		"max_distance"		"300"
 	}
-	"4sc_base"
+	"4sc_base" //m2
 	{
 		"max_distance"		"400"
 	}
-	"4sc_outage"
-	{
-		"max_distance"		"700"
-		"tank_ban_flow"
-		{
-			"1"
-			{
-				"min"		"40"
-				"max"		"60"
-			}
-		}
-	}
-	"4sc_streets"
+	"4sc_streets" //m4
 	{
 		"max_distance"		"600"
 	}
 	"4sc_pit"
 	{
-		"ItemLimits"
+		"ItemLimits" //m5
 		{
 			"pain_pills"	"4"
 		}
@@ -194,5 +182,6 @@
 			"pain_pills"	"4"
 		}
 	}
+
 
 
