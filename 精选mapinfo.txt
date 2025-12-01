@@ -121,9 +121,9 @@
 	{
 		"max_distance"		"600"
 	}
-	"4sc_pit"
+	"4sc_pit" //m5
 	{
-		"ItemLimits" //m5
+		"ItemLimits" 
 		{
 			"pain_pills"	"4"
 		}
@@ -182,6 +182,7 @@
 			"pain_pills"	"4"
 		}
 	}
+
 
 
 
