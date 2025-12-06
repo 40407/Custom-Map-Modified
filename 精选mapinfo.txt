@@ -183,7 +183,66 @@
 		}
 	}
 
+//=======================================================================
+//=============== Zengcheng Guangzhou 广州增城
+	"zc_m1"
+	{
+		"start_point"		"-9489.070312 9707.517578 1245.214844"
+		"start_dist"		"247.902756"
+		"start_extra_dist"		"328.000031"
+		"end_point"		"-806.114746 -3808.041016 31.031250"
+		"end_dist"		"264.825195"
+		"max_distance"		"400"
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"0"
+				"max"		"23"
+			}
+		}
+	}
+	"zc_m2"
+	{
+		"start_point"		"0.000000 0.000000 0.000000"
+		"start_dist"		"-1.000000"
+		"start_extra_dist"		"-1.000000"
+		"end_point"		"3596.948486 -7860.600098 -154.968750"
+		"end_dist"		"358.282928"
+		"max_distance"		"600"
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+	}
+	"zc_m3"
+	{
+		"start_point"		"-9210.921875 7196.776855 -122.968750"
+		"start_dist"		"276.278778"
+		"start_extra_dist"		"483.717560"
+		"end_point"		"14209.080078 2461.468750 -247.968750"
+		"end_dist"		"307.141418"
+		"max_distance"		"700"	
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+	}	
+	"zc_m5"
+	{
+		"start_point"		"10472.757812 3598.424316 60.338135"
+		"start_dist"		"134.805725"
+		"start_extra_dist"		"218.475693"
+		"max_distance"		"800"
+		"ItemLimits"
+		{
+			"pain_pills"	"4"
+		}
+	}
 
-
-
-
+//=======================================================================
+//=============== Crash Course: Rerouted 坠机险途：改航
+	"ccr1_alleys"
+	{
+		"max_distance"		"400"
+	}
