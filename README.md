@@ -59,7 +59,7 @@
 | 6 | Pitch Dark Mesa | 黑山基地 | | ⭐⭐⭐ |
 | 7 | Resident Evil 3 Short | 生化危机3：精简 | | ⭐⭐⭐ |
 | 8 | The Arrival | 不速之客 | 流程过于复杂冗长，场景塑造差 | ⭐ |
-| 9 | White Forest | 白森林 | 删除m2m3机关， $\color{red} {m4救援路程分分bug}$ | ⭐⭐⭐ |
+| 9 | White Forest | 白森林 | 删除m2m3机关， $\color{red} {m4救援路程分bug}$ | ⭐⭐⭐ |
 | 10 | Xmas Center | 圣诞中心 | $\color{red} {假爬梯}$ | ⭐⭐⭐ |
 | 11 | Yama | 摩耶山危机 | 流程过于复杂冗长 | ⭐ |
 | 12 | ~~Blood Harvest APOCALYPSE~~ | $\color{blue}{血腥收获：启示录}$ | 删去救援 | ⭐⭐⭐ |
