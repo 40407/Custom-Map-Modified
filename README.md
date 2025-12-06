@@ -16,6 +16,7 @@
 | 9 | $\color{green}{Undead~Zone}$ | 亡灵禁区 | 救援固定刷4瓶 |
 | 10 | 4 Sided Coin | 四面硬币 | |
 | 11 | Big Wat Halloween | 万圣佛寺 | |
+| 12 | Zengcheng Guangzhou | 广州增城 | 跳过m4 |
 
 ## 4星推荐指数表格（⭐⭐⭐⭐）
 
@@ -45,7 +46,6 @@
 | 22 | Surrounded by the Dead Ⅱ | 亡者之围2 | m2接CEDA Fever的m1 |
 | 23 | de_port | $\color{blue}{运输港口}$ | m3接de_prodigy的m1 |
 | 24 | de_prodigy | $\color{blue}{通讯枢纽}$ | de_port的m3接m1 |
-| 25 | Zengcheng Guangzhou | 广州增城 | |
 
 ## 3星以下推荐指数表格（⭐⭐⭐及以下）
 
