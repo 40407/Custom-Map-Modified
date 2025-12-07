@@ -7,16 +7,16 @@
 |------|-------------------------------------------------|---------------------------------------------|------|
 | 1 | 2 Evil Eyes | 邪恶双眸 | |
 | 2 | $\color{green}{Arena\ of\ the\ Dead\ 2}$ | 尸骸竞技场2 | 修改路程和坦克 |
-| 3 | Crash Course: Rerouted | 坠机险途：改航 | m1路程300改为400，m3删包 |
-| 4 | $\color{green}{Dam\ it\ 2!\ The\ Director's\ Cut}$ | 大坝2：导演剪辑版 | 修复zm原有bug |
+| #3 | Crash Course: Rerouted | 坠机险途：改航 | m1路程300改为400，m3删包 |
+| #4 | $\color{green}{Dam\ it\ 2!\ The\ Director's\ Cut}$ | 大坝2：导演剪辑版 | 修复zm原有bug |
 | 5 | Early Days | 末日初兆 | 还没有正式实装 |
-| 6 | Nanning Guangxi | 广西南宁 | 救援固定刷3药 |
-| 7 | Prague | 布拉格 | |
-| 8 | The Happyfice | $\color{blue}{笑逝牺牲}$ | |
-| 9 | $\color{green}{Undead~Zone}$ | 亡灵禁区 | 救援固定刷4瓶 |
-| 10 | 4 Sided Coin | 四面硬币 | |
-| 11 | Big Wat Halloween | 万圣佛寺 | |
-| 12 | Zengcheng Guangzhou | 广州增城 | m1路程分400，跳过m4 |
+| #6 | Nanning Guangxi | 广西南宁 | 救援固定刷3药 |
+| #7 | Prague | 布拉格 | |
+| #8 | The Happyfice | $\color{blue}{笑逝牺牲}$ | |
+| #9 | $\color{green}{Undead~Zone}$ | 亡灵禁区 | 救援固定刷4瓶 |
+| #10 | 4 Sided Coin | 四面硬币 | |
+| #11 | Big Wat Halloween | 万圣佛寺 | |
+| #12 | Zengcheng Guangzhou | 广州增城 | m1路程分400，跳过m4 |
 
 ## 4星推荐指数表格（⭐⭐⭐⭐）
 
