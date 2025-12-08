@@ -112,6 +112,10 @@
 	"4sc_seperate" //m1
 	{
 		"max_distance"		"300"
+		"ItemLimits"
+		{
+			"pain_pills"	"0"
+		}
 	}
 	"4sc_base" //m2
 	{
@@ -258,4 +262,5 @@
 	{
 		"max_distance"		"400"
 	}
+
 
