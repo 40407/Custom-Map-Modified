@@ -14,7 +14,7 @@
 | #7 | Prague | 布拉格 | |
 | #8 | The Happyfice | $\color{blue}{笑逝牺牲}$ | |
 | 9 | $\color{green}{Undead~Zone}$ | 亡灵禁区 | 救援固定刷4瓶 |
-| #10 | 4 Sided Coin | 四面硬币 | |
+| #10 | 4 Sided Coin | 四面硬币 | m1删除大量铁，m3秒杀点变成固定伤害点，坦克只有固定克 |
 | #11 | Big Wat Halloween | 万圣佛寺 | |
 | #12 | Zengcheng Guangzhou | 广州增城 | m1路程分400，跳过m4 |
 
