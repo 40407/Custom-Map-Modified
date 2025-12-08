@@ -117,9 +117,21 @@
 	{
 		"max_distance"		"400"
 	}
+	"4sc_outage" //m3
+	{
+		"max_distance"		"500"
+	}
 	"4sc_streets" //m4
 	{
 		"max_distance"		"600"
+		"tank_ban_flow"
+		{
+			"1"
+			{
+				"min"		"52"
+				"max"		"65"
+			}
+		}
 	}
 	"4sc_pit" //m5
 	{
@@ -246,3 +258,4 @@
 	{
 		"max_distance"		"400"
 	}
+
