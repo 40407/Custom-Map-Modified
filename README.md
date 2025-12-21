@@ -75,9 +75,9 @@
 | 25 | ~~Lock Down 2~~ | $\color{blue}{锁境危机2}$ | 流程过于复杂冗长 | ⭐⭐ |
 | 26 | ~~L4D2 Short~~ | $\color{blue}{求生之路：精简}$ | 几张图的整合 | ⭐⭐ |
 | 27 | ~~Swamp Fever Drought~~ | 沼泽激战：旱灾 | $\color{red} {瑕疵很多}$ | ⭐ |
-| 28 | ~~Cold Front~~ | 冷锋过境 | ⭐⭐⭐ |
-| 29 | ~~North Chaos~~ | 北境乱象 | ⭐⭐⭐ |
-| 30 | ~~Deadbeat Escape~~ | 无缝逃离 | ⭐⭐⭐ |
+| 28 | ~~Cold Front~~ | 冷锋过境 | | ⭐⭐⭐ |
+| 29 | ~~North Chaos~~ | 北境乱象 | | ⭐⭐⭐ |
+| 30 | ~~Deadbeat Escape~~ | 无缝逃离 | | ⭐⭐⭐ |
 
 ## 安装指南：
 <br>①修改覆盖zm.txt仅为对zm原版mapinfo的修改参考，并非必须
