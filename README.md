@@ -23,29 +23,26 @@
 | 序号 | 英文名称<br>$\color{green}{绿色为zm基础上修改}$ | 中文翻译<br>$\color{blue}{蓝色为改动了vpk}$ | 备注<br>$\color{red} {红色为未解决bug}$ | 
 |------|-------------------------------------------------|---------------------------------------------|-----------------------------------------|
 | 1 | $\color{green}{Blood~Tracks}$ | 血染铁轨 | 修复zm原有bug |
-| 2 | Cold Front | 冷锋过境 | |
-| 3 | $\color{green}{Dark\ Blood\ 2}$ | 深渊暗血2 | 修复zm原有bug |
-| 4 | $\color{green}{Death\ Aboard\ 2}$ | 幽冥诡舶2 | $\color{red} {救援不算分}$；救援刷药4瓶，修改路程和坦克 |
-| 5 | Downtown Dine | 都市饕客 | |
-| 6 | Fairfield Terror | 费尔菲尔德恐袭 | $\color{red} {救援不算分}$ |
-| 7 | Infection Overdrive | 超速感染 | |
-| 8 | Night Terror | $\color{blue}{惊魂之夜}$ | |
-| 9 | North Chaos | 北境乱象 | |
-| 10 | Pesaro | 佩萨罗 | |
-| 11 | Precinct 84 (2018 Edition) | $\color{blue}{84辖区：2018}$ | |
-| 12 | Red Tide | 绯潮暗涌 | |
-| 13 | RMS Titanic | 泰坦尼克 | 删除了所有随机路线和机关 |
-| 14 | $\color{green}{The\ Bloody\ Moors}$ | 血腥荒野 | 跳过m4 |
-| 15 | We Don't Go To Ravenholm | 我们不去莱温霍姆 | 删除m1m2机关，缩短m2路程 |
-| 16 | CEDA Fever | CEDA狂热病 | Surrounded by the Dead Ⅱ的m2接m1 |
-| 17 | Deadbeat Escape | 无缝逃离 | |
-| 18 | Dead Flag Blues 2 Reborn | 死旗悲歌2：重生 | |
-| 19 | Last Breath | 一息尚存 | |
-| 20 | Roadkill | 公路杀手 | |
-| 21 | Run To The Hills | 逃至山上 | |
-| 22 | Surrounded by the Dead Ⅱ | 亡者之围2 | m2接CEDA Fever的m1 |
-| 23 | de_port | $\color{blue}{运输港口}$ | m3接de_prodigy的m1 |
-| 24 | de_prodigy | $\color{blue}{通讯枢纽}$ | de_port的m3接m1 |
+| 2 | $\color{green}{Dark\ Blood\ 2}$ | 深渊暗血2 | 修复zm原有bug |
+| 3 | $\color{green}{Death\ Aboard\ 2}$ | 幽冥诡舶2 | $\color{red} {救援不算分}$；救援刷药4瓶，修改路程和坦克 |
+| 4 | Downtown Dine | 都市饕客 | |
+| 5 | Fairfield Terror | 费尔菲尔德恐袭 | $\color{red} {救援不算分}$ |
+| 6 | Infection Overdrive | 超速感染 | |
+| 7 | Night Terror | $\color{blue}{惊魂之夜}$ | |
+| 8 | Pesaro | 佩萨罗 | |
+| 9 | Precinct 84 (2018 Edition) | $\color{blue}{84辖区：2018}$ | |
+| 10 | Red Tide | 绯潮暗涌 | |
+| 11 | RMS Titanic | 泰坦尼克 | 删除了所有随机路线和机关 |
+| 12 | $\color{green}{The\ Bloody\ Moors}$ | 血腥荒野 | 跳过m4 |
+| 13 | We Don't Go To Ravenholm | 我们不去莱温霍姆 | 删除m1m2机关，缩短m2路程 |
+| 14 | CEDA Fever | CEDA狂热病 | Surrounded by the Dead Ⅱ的m2接m1 |
+| 15 | Dead Flag Blues 2 Reborn | 死旗悲歌2：重生 | |
+| 16 | Last Breath | 一息尚存 | |
+| 17 | Roadkill | 公路杀手 | |
+| 18 | Run To The Hills | 逃至山上 | |
+| 19 | Surrounded by the Dead Ⅱ | 亡者之围2 | m2接CEDA Fever的m1 |
+| 20 | de_port | $\color{blue}{运输港口}$ | m3接de_prodigy的m1 |
+| 21 | de_prodigy | $\color{blue}{通讯枢纽}$ | de_port的m3接m1 |
 
 ## 3星以下推荐指数表格（⭐⭐⭐及以下/不推荐）
 
@@ -78,6 +75,9 @@
 | 25 | ~~Lock Down 2~~ | $\color{blue}{锁境危机2}$ | 流程过于复杂冗长 | ⭐⭐ |
 | 26 | ~~L4D2 Short~~ | $\color{blue}{求生之路：精简}$ | 几张图的整合 | ⭐⭐ |
 | 27 | ~~Swamp Fever Drought~~ | 沼泽激战：旱灾 | $\color{red} {瑕疵很多}$ | ⭐ |
+| 28 | ~~Cold Front~~ | 冷锋过境 | ⭐⭐⭐ |
+| 29 | ~~North Chaos~~ | 北境乱象 | ⭐⭐⭐ |
+| 30 | ~~Deadbeat Escape~~ | 无缝逃离 | ⭐⭐⭐ |
 
 ## 安装指南：
 <br>①修改覆盖zm.txt仅为对zm原版mapinfo的修改参考，并非必须
