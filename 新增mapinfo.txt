@@ -87,29 +87,6 @@
 	}
 
 //=======================================================================
-//=============== Cold Front 冷锋过境
-	"cf_m1_town"
-	{
-		"max_distance"		"400"
-	}
-	"cf_m2_mall"
-	{
-		"max_distance"		"500"
-	}
-	"cf_m4_outskirts"
-	{
-		"max_distance"		"700"
-	}
-	"cf_m5_highway"
-	{
-		"max_distance"		"800"
-		"ItemLimits"
-		{
-			"pain_pills"	"4"
-		}
-	}
-
-//=======================================================================
 //=============== We Don't Go To Ravenholm 我们不去莱温霍姆
 	"l4d2_ravenholmwar_1"
 	{
@@ -423,24 +400,6 @@
 		"ItemLimits"
 		{
 			"pain_pills"		"4"
-		}
-	}
-
-//=======================================================================
-//=============== North Chaos 北境乱象
-	"nc_littletown"
-	{
-		"max_distance"		"700"
-		"ItemLimits"
-		{
-			"pain_pills"	"3"
-		}
-	}
-	"nc_helicopter"
-	{
-		"ItemLimits"
-		{
-			"pain_pills"	"4"
 		}
 	}
 
@@ -787,35 +746,6 @@
 //=======================================================================
 //=============== Precinct 84 (2018 Edition) 84辖区：2018
 	"p84m4_station"
-	{
-		"ItemLimits"
-		{
-			"pain_pills"	"4"
-		}
-	}
-
-//=======================================================================
-//=============== Deadbeat Escape 无缝逃离
-	"deadbeat01_forest"
-	{
-		"max_distance"		"600"
-	}
-	"deadbeat02_alley"
-	{
-		"max_distance"		"700"
-		"ItemLimits"
-		{
-			"pain_pills"	"4"
-		}
-	}
-	"deadbeat03_street"
-	{
-		"ItemLimits"
-		{
-			"pain_pills"	"4"
-		}
-	}
-	"deadbeat04_park"
 	{
 		"ItemLimits"
 		{
