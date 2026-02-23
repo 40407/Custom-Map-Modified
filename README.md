@@ -74,8 +74,7 @@
 | 24 | ~~Salthell Park~~ | $\color{blue}{盐狱公园}$ | | ⭐⭐⭐ |
 | 25 | ~~Lock Down 2~~ | $\color{blue}{锁境危机2}$ | 流程过于复杂冗长 | ⭐⭐ |
 | 26 | ~~L4D2 Short~~ | $\color{blue}{求生之路：精简}$ | 几张图的整合 | ⭐⭐ |
-| 27 | ~~Cold Front~~ | 冷锋过境 | | ⭐⭐⭐ |
-| 28 | ~~Deadbeat Escape~~ | 无缝逃离 | | ⭐⭐⭐ |
+| 27 | ~~Deadbeat Escape~~ | 无缝逃离 | | ⭐⭐⭐ |
 
 ## 安装指南：
 <br>①修改覆盖zm.txt仅为对zm原版mapinfo的修改参考，并非必须
