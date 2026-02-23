@@ -54,10 +54,10 @@
 | 4 | Death Toll Clam | 死亡丧钟：缄默 | $\color{red} {救援不算分}$；删除随机路线，减少绕路 | ⭐⭐⭐ |
 | 5 | $\color{green}{Fire\ Tower\ Trail}$ | 消防瞭望塔 | $\color{red} {m5半成品}$ | ⭐⭐⭐ |
 | 6 | Pitch Dark Mesa | 黑山基地 | | ⭐⭐⭐ |
-| 7 | Resident Evil 3 Short | 生化危机3：精简 | | ⭐⭐⭐ |
+| 7 | ~~Resident Evil 3 Short~~ | 生化危机3：精简 | | ⭐⭐⭐ |
 | 8 | The Arrival | 不速之客 | 流程过于复杂冗长，场景塑造差 | ⭐ |
-| 9 | White Forest | 白森林 | 删除m2m3机关， $\color{red} {m4救援路程分bug}$ | ⭐⭐⭐ |
-| 10 | Xmas Center | 圣诞中心 | $\color{red} {假爬梯}$ | ⭐⭐⭐ |
+| 9 | ~~White Forest~~ | 白森林 | 删除m2m3机关， $\color{red} {m4救援路程分bug}$ | ⭐⭐⭐ |
+| 10 | ~~Xmas Center~~ | 圣诞中心 | $\color{red} {假爬梯}$ | ⭐⭐⭐ |
 | 11 | Yama | 摩耶山危机 | 流程过于复杂冗长 | ⭐ |
 | 12 | ~~Blood Harvest APOCALYPSE~~ | $\color{blue}{血腥收获：启示录}$ | 删去救援 | ⭐⭐⭐ |
 | 13 | ~~Blood Souls~~ | $\color{blue}{血源之魂}$ | | ⭐⭐⭐ |
@@ -73,7 +73,6 @@
 | 23 | ~~Reverse Blood Harvest~~ | $\color{blue}{血腥收获：逆转}$ | 删去m4 | ⭐⭐⭐ |
 | 24 | ~~Salthell Park~~ | $\color{blue}{盐狱公园}$ | | ⭐⭐⭐ |
 | 25 | ~~Lock Down 2~~ | $\color{blue}{锁境危机2}$ | 流程过于复杂冗长 | ⭐⭐ |
-| 26 |  ~~Deadbeat Escape~~ | 无缝逃离 | | ⭐⭐⭐ |
 
 ## 安装指南：
 <br>①修改覆盖zm.txt仅为对zm原版mapinfo的修改参考，并非必须
