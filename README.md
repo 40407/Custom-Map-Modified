@@ -23,26 +23,26 @@
 | 序号 | 英文名称<br>$\color{green}{绿色-zm上修改}$ | 中文翻译<br>$\color{blue}{蓝色-改动vpk}$ | 备注<br>$\color{red} {红色-bug}$ | 
 |------|-------------------------------------------------|---------------------------------------------|-----------------------------------------|
 | 1 | $\color{green}{Blood~Tracks}$ | 血染铁轨 | 修复zm原有bug |
-| 2 | $\color{green}{Dark\ Blood\ 2}$ | 深渊暗血2 | 修复zm原有bug |
-| 3 | $\color{green}{Death\ Aboard\ 2}$ | 幽灵船2 | $\color{red} {救援不算分}$；救援刷药4瓶，修改路程和坦克 |
-| 4 | Downtown Dine | 都市饕客 | |
-| 5 | Fairfield Terror | 费尔菲尔德恐慌 | $\color{red} {救援不算分}$ |
-| 6 | Infection Overdrive | 超速感染 | |
-| 7 | Night Terror | $\color{blue}{惊魂之夜}$ | |
-| 8 | Pesaro | 佩萨罗 | |
-| 9 | Precinct 84 (2018 Edition) | $\color{blue}{84辖区：2018}$ | |
-| 10 | Red Tide | 赤潮 | |
-| 11 | RMS Titanic | 泰坦尼克 | 删除了所有随机路线和机关 |
-| 12 | $\color{green}{The\ Bloody\ Moors}$ | 血腥荒野 | 跳过m4 |
-| 13 | We Don't Go To Ravenholm | 我们不去莱温霍姆 | 删除m1m2机关；缩短m2路程 |
-| 14 | CEDA Fever | CEDA疫病 | m1接Surrounded by the Dead Ⅱ的m2 |
-| 15 | Dead Flag Blues 2 Reborn | 死旗悲歌2：重生 | |
-| 16 | Last Breath | 一息尚存 | |
+| 2 | CEDA Fever | CEDA疫病 | m1接Surrounded by the Dead Ⅱ的m2 |
+| 3 | de_port | $\color{blue}{运输港口}$ | m3跳转de_prodigy的m1 |
+| 4 | de_prodigy | $\color{blue}{通讯枢纽}$ | m1接de_port的m3 |
+| 5 | $\color{green}{Dark\ Blood\ 2}$ | 深渊暗血2 | 修复zm原有bug |
+| 6 | Dead Flag Blues 2 Reborn | 死旗悲歌2：重生 | |
+| 7 | $\color{green}{Death\ Aboard\ 2}$ | 幽灵船2 | $\color{red} {救援不算分}$；救援刷药4瓶，修改路程和坦克 |
+| 8 | Downtown Dine | 都市饕客 | |
+| 9 | Fairfield Terror | 费尔菲尔德恐慌 | $\color{red} {救援不算分}$ |
+| 10 | Infection Overdrive | 超速感染 | |
+| 11 | Last Breath | 一息尚存 | |
+| 12 | Night Terror | $\color{blue}{惊魂之夜}$ | |
+| 13 | Pesaro | 佩萨罗 | |
+| 14 | Precinct 84 (2018 Edition) | $\color{blue}{84辖区：2018}$ | |
+| 15 | Red Tide | 赤潮 | |
+| 16 | RMS Titanic | 泰坦尼克 | 删除了所有随机路线和机关 |
 | 17 | Roadkill | 公路杀手 | |
 | 18 | Run To The Hills | 逃上雪山 | |
 | 19 | Surrounded by the Dead Ⅱ | 亡者之围2 | m2跳转CEDA Fever的m1 |
-| 20 | de_port | $\color{blue}{运输港口}$ | m3跳转de_prodigy的m1 |
-| 21 | de_prodigy | $\color{blue}{通讯枢纽}$ | m1接de_port的m3 |
+| 20 | $\color{green}{The\ Bloody\ Moors}$ | 血腥荒野 | 跳过m4 |
+| 21 | We Don't Go To Ravenholm | 我们不去莱温霍姆 | 删除m1m2机关；缩短m2路程 |
 
 ## 3星以下推荐指数表格（不推荐）
 
