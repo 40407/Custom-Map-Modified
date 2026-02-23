@@ -9,7 +9,7 @@
 | **#2** | **4 Sided Coin** | **四面硬币** | m1删除大量铁；m3秒杀点变成固定伤害点，坦克只有固定克 |
 | 3 | $\color{green}{Arena\ of\ the\ Dead\ 2}$ | 死亡竞技场2 | 修改路程和坦克 |
 | **#4** | **Big Wat Halloween** | **万圣佛寺** | |
-| 5 | Crash Course: Rerouted | 坠机险途：改航 | m1路程300改为400；m3删包 |
+| 5 | Crash Course: Rerouted | 坠机险途：改航 | m1路程300改为400 |
 | **#6** | $\color{green}{Dam\ it\ 2!\ The\ Director's\ Cut}$ | **大坝2：导演剪辑版** | 修复zm原有bug |
 | **#7** | **Early Days** | **末日初兆** | |
 | **#8** | **Nanning Guangxi** | **广西南宁** | 救援固定刷3药 |
@@ -34,15 +34,15 @@
 | 10 | Red Tide | 赤潮 | |
 | 11 | RMS Titanic | 泰坦尼克 | 删除了所有随机路线和机关 |
 | 12 | $\color{green}{The\ Bloody\ Moors}$ | 血腥荒野 | 跳过m4 |
-| 13 | We Don't Go To Ravenholm | 我们不去莱温霍姆 | 删除m1m2机关，缩短m2路程 |
-| 14 | CEDA Fever | CEDA疫病 | Surrounded by the Dead Ⅱ的m2接m1 |
+| 13 | We Don't Go To Ravenholm | 我们不去莱温霍姆 | 删除m1m2机关；缩短m2路程 |
+| 14 | CEDA Fever | CEDA疫病 | m1接Surrounded by the Dead Ⅱ的m2 |
 | 15 | Dead Flag Blues 2 Reborn | 死旗悲歌2：重生 | |
 | 16 | Last Breath | 一息尚存 | |
 | 17 | Roadkill | 公路杀手 | |
 | 18 | Run To The Hills | 逃上雪山 | |
-| 19 | Surrounded by the Dead Ⅱ | 亡者之围2 | m2接CEDA Fever的m1 |
-| 20 | de_port | $\color{blue}{运输港口}$ | m3接de_prodigy的m1 |
-| 21 | de_prodigy | $\color{blue}{通讯枢纽}$ | de_port的m3接m1 |
+| 19 | Surrounded by the Dead Ⅱ | 亡者之围2 | m2跳转CEDA Fever的m1 |
+| 20 | de_port | $\color{blue}{运输港口}$ | m3跳转de_prodigy的m1 |
+| 21 | de_prodigy | $\color{blue}{通讯枢纽}$ | m1接de_port的m3 |
 
 ## 3星以下推荐指数表格（不推荐）
 
@@ -57,7 +57,7 @@
 | 7 | The Arrival | 不速之客 | | 
 | 8 | Yama | 摩耶山危机 | | 
 | 9 | ~~Resident Evil 3 Short~~ | 生化危机3：精简 | | 
-| 10 | ~~White Forest~~ | 白森林 | 删除m2m3机关， $\color{red} {救援路程异常}$ | 
+| 10 | ~~White Forest~~ | 白森林 | 删除m2m3机关； $\color{red} {救援路程异常}$ | 
 | 11 | ~~Xmas Center~~ | 圣诞中心 | $\color{red} {假爬梯}$ | 
 | 12 | ~~Blood Harvest APOCALYPSE~~ | $\color{blue}{血腥收获：启示录}$ | $\color{red} {救援路程异常}$ | 
 | 13 | ~~Blood Souls~~ | $\color{blue}{血源之魂}$ | | 
@@ -67,7 +67,7 @@
 | 17 | ~~Dry County~~ | $\color{blue}{风沙之郡}$ | $\color{red} {没有爬行轨迹}$ | 
 | 18 | ~~No Mercy APOCALYPSE~~ | $\color{blue}{毫不留情：启示录}$ | $\color{red} {救援路程异常}$ | 
 | 19 | ~~No Mercy Xmas~~ | $\color{blue}{毫不留情：圣诞节}$ |  | 
-| 20 | ~~Nova Prospekt~~ | $\color{blue}{诺瓦矿场}$ | 没有爬行轨迹， $\color{red} {救援不算分}$；删去m3,m6 | 
+| 20 | ~~Nova Prospekt~~ | $\color{blue}{诺瓦矿场}$ | 没有爬行轨迹， $\color{red} {救援不算分}$；删去m3，m6 | 
 | 21 | ~~One Four Nine~~ | $\color{blue}{古墓亡影}$ | 修改路程和坦克；修复zm原有bug；删除m5滤镜 |
 | 22 | ~~Plague Tale~~ | $\color{blue}{瘟疫传说}$ | $\color{red} {没有爬行轨迹}$ | 
 | 23 | ~~Reverse Blood Harvest~~ | $\color{blue}{血腥收获：逆转}$ | $\color{red} {m4路程异常}$ | 
