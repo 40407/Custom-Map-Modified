@@ -1,40 +1,4 @@
 //=======================================================================
-//=============== Swamp Fever Drought 沼泽激战：旱灾
-	"c3m1_plankcountry_dry"
-	{
-		"tank_ban_flow"
-		{
-			"Before ferry (bugged spawn)"
-			{
-				"min"		"45"
-				"max"		"62"
-			}
-		}
-		"ItemLimits"
-		{
-			"pain_pills"	"0"
-		}
-	}
-	"c3m2_swamp_dry"
-	{
-		"tank_ban_flow"
-		{
-			"After plane"
-			{
-				"min"		"40"
-				"max"		"100"
-			}
-		}
-	}
-	"c3m4_plantation_dry"
-	{
-		"ItemLimits"
-		{
-			"pain_pills"	"4"
-		}
-	}
-
-//=======================================================================
 //=============== Nova Prospekt 诺瓦矿场
 	"nova_first"
 	{
@@ -106,38 +70,6 @@
 				"min"		"60"
 				"max"		"100"
 			}
-		}
-	}
-
-//=======================================================================
-//=============== L4D2 Short 求生之路：精简
-	"short_carnival"
-	{
-		"ItemLimits"
-		{
-			"pain_pills"	"5"
-		}
-
-	}
-	"short_toll"
-	{
-		"ItemLimits"
-		{
-			"pain_pills"	"6"
-		}
-	}
-	"short_air"
-	{
-		"ItemLimits"
-		{
-			"pain_pills"	"7"
-		}
-	}
-	"short_harvest"
-	{
-		"ItemLimits"
-		{
-			"pain_pills"	"6"
 		}
 	}
 
@@ -354,47 +286,6 @@
 				"min"		"0"
 				"max"		"78"
 			}
-		}
-	}
-
-//=======================================================================
-//=============== Cold Front 冷锋过境
-	"cf_m1_town"
-	{
-		"max_distance"		"400"
-	}
-	"cf_m2_mall"
-	{
-		"max_distance"		"500"
-	}
-	"cf_m4_outskirts"
-	{
-		"max_distance"		"700"
-	}
-	"cf_m5_highway"
-	{
-		"max_distance"		"800"
-		"ItemLimits"
-		{
-			"pain_pills"	"4"
-		}
-	}
-
-//=======================================================================
-//=============== North Chaos 北境乱象
-	"nc_littletown"
-	{
-		"max_distance"		"700"
-		"ItemLimits"
-		{
-			"pain_pills"	"3"
-		}
-	}
-	"nc_helicopter"
-	{
-		"ItemLimits"
-		{
-			"pain_pills"	"4"
 		}
 	}
 
