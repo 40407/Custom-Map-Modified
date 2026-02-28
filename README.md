@@ -1,4 +1,4 @@
-# 第三方地图修改列表
+# 求生之路2药抗第三方地图修改列表
 ## By 40407 ＆ GuiSAE
 
 ## 5星推荐指数表格
@@ -14,7 +14,7 @@
 | **#7** | **Early Days** | **末日初兆** | |
 | **#8** | **Nanning Guangxi** | **广西南宁** | 救援固定刷3药 |
 | 9 | Prague | 布拉格 | |
-| 10 | The Happyfice | $\color{blue}{笑逝牺牲}$ | |
+| **#10** | **The Happyfice** | $\color{blue}{笑逝牺牲}$ | |
 | 11 | $\color{green}{Undead~Zone}$ | 亡灵禁区 | 救援固定刷4瓶 |
 | 12 | Zengcheng Guangzhou | 广州增城 | m1路程分400；跳过m4 |
 
