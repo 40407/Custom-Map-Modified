@@ -16,7 +16,7 @@
 | 9 | Prague | 布拉格 | |
 | 10 | The Happyfice | $\color{blue}{笑逝牺牲}$ | |
 | 11 | $\color{green}{Undead~Zone}$ | 亡灵禁区 | 救援固定刷4瓶 |
-| **#12** | **Zengcheng Guangzhou 7.3** | 广州增城7.3 | m1路程分400；跳过m4 |
+| **#12** | **Zengcheng Guangzhou 7.3** | **广州增城7.3** | m1路程分400；跳过m4 |
 
 ## 4星推荐指数表格
 
