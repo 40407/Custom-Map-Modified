@@ -35,14 +35,13 @@
 | 11 | Last Breath | 一息尚存 | |
 | 12 | Night Terror | $\color{blue}{惊魂之夜}$ | |
 | 13 | Pesaro | 佩萨罗 | |
-| 14 | Precinct 84 (2018 Edition) | $\color{blue}{84辖区：2018}$ | |
-| 15 | Red Tide | 赤潮 | |
-| 16 | RMS Titanic | 泰坦尼克 | 删除了所有随机路线和机关 |
-| 17 | Roadkill | 公路杀手 | |
-| 18 | Run To The Hills | 逃上雪山 | |
-| 19 | Surrounded by the Dead Ⅱ | 亡者之围2 | m2跳转CEDA Fever的m1 |
-| 20 | $\color{green}{The\ Bloody\ Moors}$ | 血腥荒野 | 跳过m4 |
-| 21 | We Don't Go To Ravenholm | 我们不去莱温霍姆 | 删除m1m2机关；缩短m2路程 |
+| 14 | Red Tide | 赤潮 | |
+| 15 | RMS Titanic | 泰坦尼克 | 删除了所有随机路线和机关 |
+| 16 | Roadkill | 公路杀手 | |
+| 17 | Run To The Hills | 逃上雪山 | |
+| 18 | Surrounded by the Dead Ⅱ | 亡者之围2 | m2跳转CEDA Fever的m1 |
+| 19 | $\color{green}{The\ Bloody\ Moors}$ | 血腥荒野 | 跳过m4 |
+| 20 | We Don't Go To Ravenholm | 我们不去莱温霍姆 | 删除m1m2机关；缩短m2路程 |
 
 ## 3星推荐指数表格
 
@@ -78,6 +77,7 @@
 | 15 | ~~Reverse Blood Harvest~~ | $\color{blue}{血腥收获：逆转}$ | $\color{red} {m4路程异常}$ | 
 | 16 | ~~Salthell Park~~ | $\color{blue}{盐狱公园}$ | | 
 | 17 | ~~Lock Down 2~~ | $\color{blue}{锁境危机2}$ | | 
+| 18 | ~~Precinct 84 (2018 Edition)~~ | $\color{blue}{84辖区：2018}$ | |
 
 ## 安装指南：
 <br>①修改覆盖zm.txt仅为对zm原版mapinfo的修改参考，并非必须
