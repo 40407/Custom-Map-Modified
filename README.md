@@ -8,7 +8,7 @@
 | 1 | 2 Evil Eyes | 邪恶双眸 | |
 | 2 | 4 Sided Coin | 四面硬币 | m1删除大量铁；m3秒杀点变成固定伤害点，坦克只有固定克 |
 | 3 | $\color{green}{Arena\ of\ the\ Dead\ 2}$ | 死亡竞技场2 | 修改路程和坦克 |
-| **#4** | **Big Wat Halloween** | **万圣佛寺** | |
+| #4 | Big Wat Halloween | 万圣佛寺 | |
 | 5 | Crash Course: Rerouted | 坠机险途：改航 | m1路程300改为400 |
 | 6 | $\color{green}{Dam\ it\ 2!\ The\ Director's\ Cut}$ | 大坝2：导演剪辑版 | 修复zm原有bug |
 | 7 | Early Days | 末日初兆 | |
